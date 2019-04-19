@@ -1,0 +1,29 @@
+Type:,Filename:,Our Vals:,Notes:,Discrepancy Type:,Discrepancy Notes:,Annotator:
+FP,THS3001,3.3 mA,"Gold vals: [Quantity('5.5 mA'), Quantity('6.9 mA'), Quantity('6.6 mA')]"
+FP,LMC6035,2.7 mA,"Gold vals: [Quantity('1.3 mA'), Quantity('650 uA')]"
+FP,THS4081,3.4 mA,Gold vals: [Quantity('2.9 mA')]
+FP,THS4081,4.5 mA,Gold vals: [Quantity('2.9 mA')]
+FP,LMC6035,1.6 mA,"Gold vals: [Quantity('1.3 mA'), Quantity('650 uA')]"
+FP,THS4081,5 mA,Gold vals: [Quantity('2.9 mA')]
+FP,TLE2141-Q1,3.5 mA,Gold vals: [Quantity('3.4 mA')]
+FP,THS4081,3.7 mA,Gold vals: [Quantity('2.9 mA')]
+FP,LM7372,12 mA,"Gold vals: [Quantity('13 mA'), Quantity('12.4 mA')]"
+FN,LMC7111,20 uA,Entities do not have doc LMC7111.
+FN,LM2900,6.2 mA,Entities do not have doc LM2900.
+FN,LF412-N,3.6 mA,Entities do not have doc LF412-N.
+FN,LM324-D,1.4 mA,Entities do not have doc LM324-D.
+FN,LMV841,930 uA,Entity vals: [Quantity('960 uA')]
+FN,OPA129,1.2 mA,Entities do not have doc OPA129.
+FN,LMV841,1 mA,Entity vals: [Quantity('960 uA')]
+FN,OPA548,17 mA,Entities do not have doc OPA548.
+FN,OPA548,34 mA,Entities do not have doc OPA548.
+FN,LM324-D,700 uA,Entities do not have doc LM324-D.
+FN,OPA552,14 mA,Entities do not have doc OPA552.
+FN,OPA625,250 uA,Entity vals: [Quantity('2 mA')]
+FN,OPA625,270 uA,Entity vals: [Quantity('2 mA')]
+FN,LMV841,1.03 mA,Entity vals: [Quantity('960 uA')]
+FN,TLE2141-Q1,3.4 mA,Entity vals: [Quantity('3.5 mA')]
+FN,EN.CD00000492,1.4 mA,Entities do not have doc EN.CD00000492.
+FN,OPA552,7 mA,Entities do not have doc OPA552.
+FN,INA240,1.8 mA,Entities do not have doc INA240.
+FN,LMC7111,25 uA,Entities do not have doc LMC7111.

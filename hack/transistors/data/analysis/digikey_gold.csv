@@ -1,0 +1,2045 @@
+2N3906-D,ON Semiconductor,2N3906RLRA,polarity,PNP
+2N3906-D,ON Semiconductor,2N3906RLRA,c_current_max,200
+2N3906-D,ON Semiconductor,2N3906RLRA,ce_v_max,40
+2N3906-D,ON Semiconductor,2N3906RLRA,dc_gain_min,100
+2N3906-D,ON Semiconductor,2N3906RLRA,min_op_temp,-55
+2N3906-D,ON Semiconductor,2N3906RLRA,max_op_temp,150
+2N3906-D,ON Semiconductor,2N3906RLRA,pwr_max,625
+2N3906-D,ON Semiconductor,2N3906RLRA,freq_transition,250
+2N3906-D,ON Semiconductor,2N3906RLRA,implied_ce_v_max,1
+2N3906-D,ON Semiconductor,2N3906RLRA,implied_supply_current,10
+2N3906-D,ON Semiconductor,2N3906RLRA,implied_supply_current,50
+2N3906-D,ON Semiconductor,2N3906RLRA,implied_base_current,5
+2N3906-D,ON Semiconductor,2N3906RLRA,vce_sat_max,400
+2N3906-D,ON Semiconductor,2N3906RLRAG,polarity,PNP
+2N3906-D,ON Semiconductor,2N3906RLRAG,c_current_max,200
+2N3906-D,ON Semiconductor,2N3906RLRAG,ce_v_max,40
+2N3906-D,ON Semiconductor,2N3906RLRAG,dc_gain_min,100
+2N3906-D,ON Semiconductor,2N3906RLRAG,min_op_temp,-55
+2N3906-D,ON Semiconductor,2N3906RLRAG,max_op_temp,150
+2N3906-D,ON Semiconductor,2N3906RLRAG,pwr_max,625
+2N3906-D,ON Semiconductor,2N3906RLRAG,freq_transition,250
+2N3906-D,ON Semiconductor,2N3906RLRAG,implied_ce_v_max,1
+2N3906-D,ON Semiconductor,2N3906RLRAG,implied_supply_current,10
+2N3906-D,ON Semiconductor,2N3906RLRAG,implied_supply_current,50
+2N3906-D,ON Semiconductor,2N3906RLRAG,implied_base_current,5
+2N3906-D,ON Semiconductor,2N3906RLRAG,vce_sat_max,400
+2N3906-D,ON Semiconductor,2N3906G,polarity,PNP
+2N3906-D,ON Semiconductor,2N3906G,c_current_max,200
+2N3906-D,ON Semiconductor,2N3906G,ce_v_max,40
+2N3906-D,ON Semiconductor,2N3906G,dc_gain_min,100
+2N3906-D,ON Semiconductor,2N3906G,min_op_temp,-55
+2N3906-D,ON Semiconductor,2N3906G,max_op_temp,150
+2N3906-D,ON Semiconductor,2N3906G,pwr_max,625
+2N3906-D,ON Semiconductor,2N3906G,freq_transition,250
+2N3906-D,ON Semiconductor,2N3906G,implied_ce_v_max,1
+2N3906-D,ON Semiconductor,2N3906G,implied_supply_current,10
+2N3906-D,ON Semiconductor,2N3906G,implied_supply_current,50
+2N3906-D,ON Semiconductor,2N3906G,implied_base_current,5
+2N3906-D,ON Semiconductor,2N3906G,vce_sat_max,400
+2N3906-D,ON Semiconductor,2N3906RLRPG,polarity,PNP
+2N3906-D,ON Semiconductor,2N3906RLRPG,c_current_max,200
+2N3906-D,ON Semiconductor,2N3906RLRPG,ce_v_max,40
+2N3906-D,ON Semiconductor,2N3906RLRPG,dc_gain_min,100
+2N3906-D,ON Semiconductor,2N3906RLRPG,min_op_temp,-55
+2N3906-D,ON Semiconductor,2N3906RLRPG,max_op_temp,150
+2N3906-D,ON Semiconductor,2N3906RLRPG,pwr_max,625
+2N3906-D,ON Semiconductor,2N3906RLRPG,freq_transition,250
+2N3906-D,ON Semiconductor,2N3906RLRPG,implied_ce_v_max,1
+2N3906-D,ON Semiconductor,2N3906RLRPG,implied_supply_current,10
+2N3906-D,ON Semiconductor,2N3906RLRPG,implied_supply_current,50
+2N3906-D,ON Semiconductor,2N3906RLRPG,implied_base_current,5
+2N3906-D,ON Semiconductor,2N3906RLRPG,vce_sat_max,400
+2N3906-D,ON Semiconductor,2N3906RL1G,polarity,PNP
+2N3906-D,ON Semiconductor,2N3906RL1G,c_current_max,200
+2N3906-D,ON Semiconductor,2N3906RL1G,ce_v_max,40
+2N3906-D,ON Semiconductor,2N3906RL1G,dc_gain_min,100
+2N3906-D,ON Semiconductor,2N3906RL1G,min_op_temp,-55
+2N3906-D,ON Semiconductor,2N3906RL1G,max_op_temp,150
+2N3906-D,ON Semiconductor,2N3906RL1G,pwr_max,625
+2N3906-D,ON Semiconductor,2N3906RL1G,freq_transition,250
+2N3906-D,ON Semiconductor,2N3906RL1G,implied_ce_v_max,1
+2N3906-D,ON Semiconductor,2N3906RL1G,implied_supply_current,10
+2N3906-D,ON Semiconductor,2N3906RL1G,implied_supply_current,50
+2N3906-D,ON Semiconductor,2N3906RL1G,implied_base_current,5
+2N3906-D,ON Semiconductor,2N3906RL1G,vce_sat_max,400
+2N3906-D,ON Semiconductor,2N3906RLRMG,polarity,PNP
+2N3906-D,ON Semiconductor,2N3906RLRMG,c_current_max,200
+2N3906-D,ON Semiconductor,2N3906RLRMG,ce_v_max,40
+2N3906-D,ON Semiconductor,2N3906RLRMG,dc_gain_min,100
+2N3906-D,ON Semiconductor,2N3906RLRMG,min_op_temp,-55
+2N3906-D,ON Semiconductor,2N3906RLRMG,max_op_temp,150
+2N3906-D,ON Semiconductor,2N3906RLRMG,pwr_max,625
+2N3906-D,ON Semiconductor,2N3906RLRMG,freq_transition,250
+2N3906-D,ON Semiconductor,2N3906RLRMG,implied_ce_v_max,1
+2N3906-D,ON Semiconductor,2N3906RLRMG,implied_supply_current,10
+2N3906-D,ON Semiconductor,2N3906RLRMG,implied_supply_current,50
+2N3906-D,ON Semiconductor,2N3906RLRMG,implied_base_current,5
+2N3906-D,ON Semiconductor,2N3906RLRMG,vce_sat_max,400
+2N4123-D,ON Semiconductor,2N4124,polarity,NPN
+2N4123-D,ON Semiconductor,2N4124,c_current_max,200
+2N4123-D,ON Semiconductor,2N4124,ce_v_max,25
+2N4123-D,ON Semiconductor,2N4124,dc_gain_min,120
+2N4123-D,ON Semiconductor,2N4124,min_op_temp,-55
+2N4123-D,ON Semiconductor,2N4124,max_op_temp,150
+2N4123-D,ON Semiconductor,2N4124,c_current_cutoff_max,50
+2N4123-D,ON Semiconductor,2N4124,pwr_max,625
+2N4123-D,ON Semiconductor,2N4124,freq_transition,300
+2N4123-D,ON Semiconductor,2N4124,implied_ce_v_max,1
+2N4123-D,ON Semiconductor,2N4124,implied_supply_current,2
+2N4123-D,ON Semiconductor,2N4124,implied_supply_current,50
+2N4123-D,ON Semiconductor,2N4124,implied_base_current,5
+2N4123-D,ON Semiconductor,2N4124,vce_sat_max,300
+2N4123-D,ON Semiconductor,2N4124G,polarity,NPN
+2N4123-D,ON Semiconductor,2N4124G,c_current_max,200
+2N4123-D,ON Semiconductor,2N4124G,ce_v_max,25
+2N4123-D,ON Semiconductor,2N4124G,dc_gain_min,120
+2N4123-D,ON Semiconductor,2N4124G,min_op_temp,-55
+2N4123-D,ON Semiconductor,2N4124G,max_op_temp,150
+2N4123-D,ON Semiconductor,2N4124G,c_current_cutoff_max,50
+2N4123-D,ON Semiconductor,2N4124G,pwr_max,625
+2N4123-D,ON Semiconductor,2N4124G,freq_transition,300
+2N4123-D,ON Semiconductor,2N4124G,implied_ce_v_max,1
+2N4123-D,ON Semiconductor,2N4124G,implied_supply_current,2
+2N4123-D,ON Semiconductor,2N4124G,implied_supply_current,50
+2N4123-D,ON Semiconductor,2N4124G,implied_base_current,5
+2N4123-D,ON Semiconductor,2N4124G,vce_sat_max,300
+2N4123-D,ON Semiconductor,2N4123RLRM,polarity,NPN
+2N4123-D,ON Semiconductor,2N4123RLRM,c_current_max,200
+2N4123-D,ON Semiconductor,2N4123RLRM,ce_v_max,30
+2N4123-D,ON Semiconductor,2N4123RLRM,dc_gain_min,50
+2N4123-D,ON Semiconductor,2N4123RLRM,min_op_temp,-55
+2N4123-D,ON Semiconductor,2N4123RLRM,max_op_temp,150
+2N4123-D,ON Semiconductor,2N4123RLRM,c_current_cutoff_max,50
+2N4123-D,ON Semiconductor,2N4123RLRM,pwr_max,625
+2N4123-D,ON Semiconductor,2N4123RLRM,freq_transition,250
+2N4123-D,ON Semiconductor,2N4123RLRM,implied_ce_v_max,1
+2N4123-D,ON Semiconductor,2N4123RLRM,implied_supply_current,2
+2N4123-D,ON Semiconductor,2N4123RLRM,implied_supply_current,50
+2N4123-D,ON Semiconductor,2N4123RLRM,implied_base_current,5
+2N4123-D,ON Semiconductor,2N4123RLRM,vce_sat_max,300
+2N6426-D,ON Semiconductor,2N6426,polarity,NPN
+2N6426-D,ON Semiconductor,2N6426,c_current_max,500
+2N6426-D,ON Semiconductor,2N6426,ce_v_max,40
+2N6426-D,ON Semiconductor,2N6426,dc_gain_min,30000
+2N6426-D,ON Semiconductor,2N6426,min_op_temp,-55
+2N6426-D,ON Semiconductor,2N6426,max_op_temp,150
+2N6426-D,ON Semiconductor,2N6426,c_current_cutoff_max,1Âµ
+2N6426-D,ON Semiconductor,2N6426,pwr_max,625
+2N6426-D,ON Semiconductor,2N6426,implied_ce_v_max,5
+2N6426-D,ON Semiconductor,2N6426,implied_supply_current,100
+2N6426-D,ON Semiconductor,2N6426,implied_supply_current,500
+2N6426-D,ON Semiconductor,2N6426,implied_base_current,500Âµ
+2N6426-D,ON Semiconductor,2N6426,vce_sat_max,1.5
+2N6426-D,ON Semiconductor,2N6427,polarity,NPN
+2N6426-D,ON Semiconductor,2N6427,c_current_max,500
+2N6426-D,ON Semiconductor,2N6427,ce_v_max,40
+2N6426-D,ON Semiconductor,2N6427,dc_gain_min,20000
+2N6426-D,ON Semiconductor,2N6427,min_op_temp,-55
+2N6426-D,ON Semiconductor,2N6427,max_op_temp,150
+2N6426-D,ON Semiconductor,2N6427,c_current_cutoff_max,1Âµ
+2N6426-D,ON Semiconductor,2N6427,pwr_max,625
+2N6426-D,ON Semiconductor,2N6427,implied_ce_v_max,5
+2N6426-D,ON Semiconductor,2N6427,implied_supply_current,100
+2N6426-D,ON Semiconductor,2N6427,implied_supply_current,500
+2N6426-D,ON Semiconductor,2N6427,implied_base_current,500Âµ
+2N6426-D,ON Semiconductor,2N6427,vce_sat_max,1.5
+2N6426-D,ON Semiconductor,2N6426G,polarity,NPN
+2N6426-D,ON Semiconductor,2N6426G,c_current_max,500
+2N6426-D,ON Semiconductor,2N6426G,ce_v_max,40
+2N6426-D,ON Semiconductor,2N6426G,dc_gain_min,30000
+2N6426-D,ON Semiconductor,2N6426G,min_op_temp,-55
+2N6426-D,ON Semiconductor,2N6426G,max_op_temp,150
+2N6426-D,ON Semiconductor,2N6426G,c_current_cutoff_max,1Âµ
+2N6426-D,ON Semiconductor,2N6426G,pwr_max,625
+2N6426-D,ON Semiconductor,2N6426G,implied_ce_v_max,5
+2N6426-D,ON Semiconductor,2N6426G,implied_supply_current,100
+2N6426-D,ON Semiconductor,2N6426G,implied_supply_current,500
+2N6426-D,ON Semiconductor,2N6426G,implied_base_current,500Âµ
+2N6426-D,ON Semiconductor,2N6426G,vce_sat_max,1.5
+2N6426-D,ON Semiconductor,2N6427G,polarity,NPN
+2N6426-D,ON Semiconductor,2N6427G,c_current_max,500
+2N6426-D,ON Semiconductor,2N6427G,ce_v_max,40
+2N6426-D,ON Semiconductor,2N6427G,dc_gain_min,20000
+2N6426-D,ON Semiconductor,2N6427G,min_op_temp,-55
+2N6426-D,ON Semiconductor,2N6427G,max_op_temp,150
+2N6426-D,ON Semiconductor,2N6427G,c_current_cutoff_max,1Âµ
+2N6426-D,ON Semiconductor,2N6427G,pwr_max,625
+2N6426-D,ON Semiconductor,2N6427G,implied_ce_v_max,5
+2N6426-D,ON Semiconductor,2N6427G,implied_supply_current,100
+2N6426-D,ON Semiconductor,2N6427G,implied_supply_current,500
+2N6426-D,ON Semiconductor,2N6427G,implied_base_current,500Âµ
+2N6426-D,ON Semiconductor,2N6427G,vce_sat_max,1.5
+2N6426-D,ON Semiconductor,2N6426RLRAG,polarity,NPN
+2N6426-D,ON Semiconductor,2N6426RLRAG,c_current_max,500
+2N6426-D,ON Semiconductor,2N6426RLRAG,ce_v_max,40
+2N6426-D,ON Semiconductor,2N6426RLRAG,dc_gain_min,30000
+2N6426-D,ON Semiconductor,2N6426RLRAG,min_op_temp,-55
+2N6426-D,ON Semiconductor,2N6426RLRAG,max_op_temp,150
+2N6426-D,ON Semiconductor,2N6426RLRAG,c_current_cutoff_max,1Âµ
+2N6426-D,ON Semiconductor,2N6426RLRAG,pwr_max,625
+2N6426-D,ON Semiconductor,2N6426RLRAG,implied_ce_v_max,5
+2N6426-D,ON Semiconductor,2N6426RLRAG,implied_supply_current,100
+2N6426-D,ON Semiconductor,2N6426RLRAG,implied_supply_current,500
+2N6426-D,ON Semiconductor,2N6426RLRAG,implied_base_current,500Âµ
+2N6426-D,ON Semiconductor,2N6426RLRAG,vce_sat_max,1.5
+2N6426-D,ON Semiconductor,2N6427RLRAG,polarity,NPN
+2N6426-D,ON Semiconductor,2N6427RLRAG,c_current_max,500
+2N6426-D,ON Semiconductor,2N6427RLRAG,ce_v_max,40
+2N6426-D,ON Semiconductor,2N6427RLRAG,dc_gain_min,20000
+2N6426-D,ON Semiconductor,2N6427RLRAG,min_op_temp,-55
+2N6426-D,ON Semiconductor,2N6427RLRAG,max_op_temp,150
+2N6426-D,ON Semiconductor,2N6427RLRAG,c_current_cutoff_max,1Âµ
+2N6426-D,ON Semiconductor,2N6427RLRAG,pwr_max,625
+2N6426-D,ON Semiconductor,2N6427RLRAG,implied_ce_v_max,5
+2N6426-D,ON Semiconductor,2N6427RLRAG,implied_supply_current,100
+2N6426-D,ON Semiconductor,2N6427RLRAG,implied_supply_current,500
+2N6426-D,ON Semiconductor,2N6427RLRAG,implied_base_current,500Âµ
+2N6426-D,ON Semiconductor,2N6427RLRAG,vce_sat_max,1.5
+BC182-D,ON Semiconductor,BC182BG,polarity,NPN
+BC182-D,ON Semiconductor,BC182BG,c_current_max,100
+BC182-D,ON Semiconductor,BC182BG,ce_v_max,50
+BC182-D,ON Semiconductor,BC182BG,dc_gain_min,180
+BC182-D,ON Semiconductor,BC182BG,min_op_temp,-55
+BC182-D,ON Semiconductor,BC182BG,max_op_temp,150
+BC182-D,ON Semiconductor,BC182BG,c_current_cutoff_max,15
+BC182-D,ON Semiconductor,BC182BG,pwr_max,350
+BC182-D,ON Semiconductor,BC182BG,freq_transition,200
+BC182-D,ON Semiconductor,BC182BG,implied_ce_v_max,5
+BC182-D,ON Semiconductor,BC182BG,implied_supply_current,2
+BC182-D,ON Semiconductor,BC182BG,implied_supply_current,100
+BC182-D,ON Semiconductor,BC182BG,implied_base_current,5
+BC182-D,ON Semiconductor,BC182BG,vce_sat_max,600
+BC182-D,ON Semiconductor,BC182BRL1G,polarity,NPN
+BC182-D,ON Semiconductor,BC182BRL1G,c_current_max,100
+BC182-D,ON Semiconductor,BC182BRL1G,ce_v_max,50
+BC182-D,ON Semiconductor,BC182BRL1G,dc_gain_min,180
+BC182-D,ON Semiconductor,BC182BRL1G,min_op_temp,-55
+BC182-D,ON Semiconductor,BC182BRL1G,max_op_temp,150
+BC182-D,ON Semiconductor,BC182BRL1G,c_current_cutoff_max,15
+BC182-D,ON Semiconductor,BC182BRL1G,pwr_max,350
+BC182-D,ON Semiconductor,BC182BRL1G,freq_transition,200
+BC182-D,ON Semiconductor,BC182BRL1G,implied_ce_v_max,5
+BC182-D,ON Semiconductor,BC182BRL1G,implied_supply_current,2
+BC182-D,ON Semiconductor,BC182BRL1G,implied_supply_current,100
+BC182-D,ON Semiconductor,BC182BRL1G,implied_base_current,5
+BC182-D,ON Semiconductor,BC182BRL1G,vce_sat_max,600
+BC182-D,ON Semiconductor,BC182G,polarity,NPN
+BC182-D,ON Semiconductor,BC182G,c_current_max,100
+BC182-D,ON Semiconductor,BC182G,ce_v_max,50
+BC182-D,ON Semiconductor,BC182G,dc_gain_min,120
+BC182-D,ON Semiconductor,BC182G,min_op_temp,-55
+BC182-D,ON Semiconductor,BC182G,max_op_temp,150
+BC182-D,ON Semiconductor,BC182G,c_current_cutoff_max,15
+BC182-D,ON Semiconductor,BC182G,pwr_max,350
+BC182-D,ON Semiconductor,BC182G,freq_transition,200
+BC182-D,ON Semiconductor,BC182G,implied_ce_v_max,5
+BC182-D,ON Semiconductor,BC182G,implied_supply_current,2
+BC182-D,ON Semiconductor,BC182G,implied_supply_current,100
+BC182-D,ON Semiconductor,BC182G,implied_base_current,5
+BC182-D,ON Semiconductor,BC182G,vce_sat_max,600
+BC182-D,ON Semiconductor,BC182,polarity,NPN
+BC182-D,ON Semiconductor,BC182,c_current_max,100
+BC182-D,ON Semiconductor,BC182,ce_v_max,50
+BC182-D,ON Semiconductor,BC182,dc_gain_min,120
+BC182-D,ON Semiconductor,BC182,min_op_temp,-55
+BC182-D,ON Semiconductor,BC182,max_op_temp,150
+BC182-D,ON Semiconductor,BC182,c_current_cutoff_max,15
+BC182-D,ON Semiconductor,BC182,pwr_max,350
+BC182-D,ON Semiconductor,BC182,freq_transition,200
+BC182-D,ON Semiconductor,BC182,implied_ce_v_max,5
+BC182-D,ON Semiconductor,BC182,implied_supply_current,2
+BC182-D,ON Semiconductor,BC182,implied_supply_current,100
+BC182-D,ON Semiconductor,BC182,implied_base_current,5
+BC182-D,ON Semiconductor,BC182,vce_sat_max,600
+BC182-D,ON Semiconductor,BC182B,polarity,NPN
+BC182-D,ON Semiconductor,BC182B,c_current_max,100
+BC182-D,ON Semiconductor,BC182B,ce_v_max,50
+BC182-D,ON Semiconductor,BC182B,dc_gain_min,180
+BC182-D,ON Semiconductor,BC182B,min_op_temp,-55
+BC182-D,ON Semiconductor,BC182B,max_op_temp,150
+BC182-D,ON Semiconductor,BC182B,c_current_cutoff_max,15
+BC182-D,ON Semiconductor,BC182B,pwr_max,350
+BC182-D,ON Semiconductor,BC182B,freq_transition,200
+BC182-D,ON Semiconductor,BC182B,implied_ce_v_max,5
+BC182-D,ON Semiconductor,BC182B,implied_supply_current,2
+BC182-D,ON Semiconductor,BC182B,implied_supply_current,100
+BC182-D,ON Semiconductor,BC182B,implied_base_current,5
+BC182-D,ON Semiconductor,BC182B,vce_sat_max,600
+BC337-D,ON Semiconductor,BC337G,polarity,NPN
+BC337-D,ON Semiconductor,BC337G,c_current_max,800
+BC337-D,ON Semiconductor,BC337G,ce_v_max,45
+BC337-D,ON Semiconductor,BC337G,dc_gain_min,100
+BC337-D,ON Semiconductor,BC337G,min_op_temp,-55
+BC337-D,ON Semiconductor,BC337G,max_op_temp,150
+BC337-D,ON Semiconductor,BC337G,c_current_cutoff_max,100
+BC337-D,ON Semiconductor,BC337G,pwr_max,625
+BC337-D,ON Semiconductor,BC337G,freq_transition,210
+BC337-D,ON Semiconductor,BC337G,implied_ce_v_max,1
+BC337-D,ON Semiconductor,BC337G,implied_supply_current,100
+BC337-D,ON Semiconductor,BC337G,implied_supply_current,500
+BC337-D,ON Semiconductor,BC337G,implied_base_current,50
+BC337-D,ON Semiconductor,BC337G,vce_sat_max,700
+BC337-D,ON Semiconductor,BC337-025G,polarity,NPN
+BC337-D,ON Semiconductor,BC337-025G,c_current_max,800
+BC337-D,ON Semiconductor,BC337-025G,ce_v_max,45
+BC337-D,ON Semiconductor,BC337-025G,dc_gain_min,160
+BC337-D,ON Semiconductor,BC337-025G,min_op_temp,-55
+BC337-D,ON Semiconductor,BC337-025G,max_op_temp,150
+BC337-D,ON Semiconductor,BC337-025G,c_current_cutoff_max,100
+BC337-D,ON Semiconductor,BC337-025G,pwr_max,625
+BC337-D,ON Semiconductor,BC337-025G,freq_transition,210
+BC337-D,ON Semiconductor,BC337-025G,implied_ce_v_max,1
+BC337-D,ON Semiconductor,BC337-025G,implied_supply_current,100
+BC337-D,ON Semiconductor,BC337-025G,implied_supply_current,500
+BC337-D,ON Semiconductor,BC337-025G,implied_base_current,50
+BC337-D,ON Semiconductor,BC337-025G,vce_sat_max,700
+BC337-D,ON Semiconductor,BC337-040G,polarity,NPN
+BC337-D,ON Semiconductor,BC337-040G,c_current_max,800
+BC337-D,ON Semiconductor,BC337-040G,ce_v_max,45
+BC337-D,ON Semiconductor,BC337-040G,dc_gain_min,250
+BC337-D,ON Semiconductor,BC337-040G,min_op_temp,-55
+BC337-D,ON Semiconductor,BC337-040G,max_op_temp,150
+BC337-D,ON Semiconductor,BC337-040G,c_current_cutoff_max,100
+BC337-D,ON Semiconductor,BC337-040G,pwr_max,625
+BC337-D,ON Semiconductor,BC337-040G,freq_transition,210
+BC337-D,ON Semiconductor,BC337-040G,implied_ce_v_max,1
+BC337-D,ON Semiconductor,BC337-040G,implied_supply_current,100
+BC337-D,ON Semiconductor,BC337-040G,implied_supply_current,500
+BC337-D,ON Semiconductor,BC337-040G,implied_base_current,50
+BC337-D,ON Semiconductor,BC337-040G,vce_sat_max,700
+BC337-D,ON Semiconductor,BC337-25RL1G,polarity,NPN
+BC337-D,ON Semiconductor,BC337-25RL1G,c_current_max,800
+BC337-D,ON Semiconductor,BC337-25RL1G,ce_v_max,45
+BC337-D,ON Semiconductor,BC337-25RL1G,dc_gain_min,160
+BC337-D,ON Semiconductor,BC337-25RL1G,min_op_temp,-55
+BC337-D,ON Semiconductor,BC337-25RL1G,max_op_temp,150
+BC337-D,ON Semiconductor,BC337-25RL1G,c_current_cutoff_max,100
+BC337-D,ON Semiconductor,BC337-25RL1G,pwr_max,625
+BC337-D,ON Semiconductor,BC337-25RL1G,freq_transition,210
+BC337-D,ON Semiconductor,BC337-25RL1G,implied_ce_v_max,1
+BC337-D,ON Semiconductor,BC337-25RL1G,implied_supply_current,100
+BC337-D,ON Semiconductor,BC337-25RL1G,implied_supply_current,500
+BC337-D,ON Semiconductor,BC337-25RL1G,implied_base_current,50
+BC337-D,ON Semiconductor,BC337-25RL1G,vce_sat_max,700
+BC337-D,ON Semiconductor,BC337-40RL1G,polarity,NPN
+BC337-D,ON Semiconductor,BC337-40RL1G,c_current_max,800
+BC337-D,ON Semiconductor,BC337-40RL1G,ce_v_max,45
+BC337-D,ON Semiconductor,BC337-40RL1G,dc_gain_min,250
+BC337-D,ON Semiconductor,BC337-40RL1G,min_op_temp,-55
+BC337-D,ON Semiconductor,BC337-40RL1G,max_op_temp,150
+BC337-D,ON Semiconductor,BC337-40RL1G,c_current_cutoff_max,100
+BC337-D,ON Semiconductor,BC337-40RL1G,pwr_max,625
+BC337-D,ON Semiconductor,BC337-40RL1G,freq_transition,210
+BC337-D,ON Semiconductor,BC337-40RL1G,implied_ce_v_max,1
+BC337-D,ON Semiconductor,BC337-40RL1G,implied_supply_current,100
+BC337-D,ON Semiconductor,BC337-40RL1G,implied_supply_current,500
+BC337-D,ON Semiconductor,BC337-40RL1G,implied_base_current,50
+BC337-D,ON Semiconductor,BC337-40RL1G,vce_sat_max,700
+BC337-D,ON Semiconductor,BC337-25ZL1G,polarity,NPN
+BC337-D,ON Semiconductor,BC337-25ZL1G,c_current_max,800
+BC337-D,ON Semiconductor,BC337-25ZL1G,ce_v_max,45
+BC337-D,ON Semiconductor,BC337-25ZL1G,dc_gain_min,160
+BC337-D,ON Semiconductor,BC337-25ZL1G,min_op_temp,-55
+BC337-D,ON Semiconductor,BC337-25ZL1G,max_op_temp,150
+BC337-D,ON Semiconductor,BC337-25ZL1G,c_current_cutoff_max,100
+BC337-D,ON Semiconductor,BC337-25ZL1G,pwr_max,625
+BC337-D,ON Semiconductor,BC337-25ZL1G,freq_transition,210
+BC337-D,ON Semiconductor,BC337-25ZL1G,implied_ce_v_max,1
+BC337-D,ON Semiconductor,BC337-25ZL1G,implied_supply_current,100
+BC337-D,ON Semiconductor,BC337-25ZL1G,implied_supply_current,500
+BC337-D,ON Semiconductor,BC337-25ZL1G,implied_base_current,50
+BC337-D,ON Semiconductor,BC337-25ZL1G,vce_sat_max,700
+BC337-D,ON Semiconductor,BC337-40ZL1G,polarity,NPN
+BC337-D,ON Semiconductor,BC337-40ZL1G,c_current_max,800
+BC337-D,ON Semiconductor,BC337-40ZL1G,ce_v_max,45
+BC337-D,ON Semiconductor,BC337-40ZL1G,dc_gain_min,250
+BC337-D,ON Semiconductor,BC337-40ZL1G,min_op_temp,-55
+BC337-D,ON Semiconductor,BC337-40ZL1G,max_op_temp,150
+BC337-D,ON Semiconductor,BC337-40ZL1G,c_current_cutoff_max,100
+BC337-D,ON Semiconductor,BC337-40ZL1G,pwr_max,625
+BC337-D,ON Semiconductor,BC337-40ZL1G,freq_transition,210
+BC337-D,ON Semiconductor,BC337-40ZL1G,implied_ce_v_max,1
+BC337-D,ON Semiconductor,BC337-40ZL1G,implied_supply_current,100
+BC337-D,ON Semiconductor,BC337-40ZL1G,implied_supply_current,500
+BC337-D,ON Semiconductor,BC337-40ZL1G,implied_base_current,50
+BC337-D,ON Semiconductor,BC337-40ZL1G,vce_sat_max,700
+BC337-D,ON Semiconductor,BC337RL1G,polarity,NPN
+BC337-D,ON Semiconductor,BC337RL1G,c_current_max,800
+BC337-D,ON Semiconductor,BC337RL1G,ce_v_max,45
+BC337-D,ON Semiconductor,BC337RL1G,dc_gain_min,100
+BC337-D,ON Semiconductor,BC337RL1G,min_op_temp,-55
+BC337-D,ON Semiconductor,BC337RL1G,max_op_temp,150
+BC337-D,ON Semiconductor,BC337RL1G,c_current_cutoff_max,100
+BC337-D,ON Semiconductor,BC337RL1G,pwr_max,625
+BC337-D,ON Semiconductor,BC337RL1G,freq_transition,210
+BC337-D,ON Semiconductor,BC337RL1G,implied_ce_v_max,1
+BC337-D,ON Semiconductor,BC337RL1G,implied_supply_current,100
+BC337-D,ON Semiconductor,BC337RL1G,implied_supply_current,500
+BC337-D,ON Semiconductor,BC337RL1G,implied_base_current,50
+BC337-D,ON Semiconductor,BC337RL1G,vce_sat_max,700
+BC337-D,ON Semiconductor,BC337-25RLRAG,polarity,NPN
+BC337-D,ON Semiconductor,BC337-25RLRAG,c_current_max,800
+BC337-D,ON Semiconductor,BC337-25RLRAG,ce_v_max,45
+BC337-D,ON Semiconductor,BC337-25RLRAG,dc_gain_min,160
+BC337-D,ON Semiconductor,BC337-25RLRAG,min_op_temp,-55
+BC337-D,ON Semiconductor,BC337-25RLRAG,max_op_temp,150
+BC337-D,ON Semiconductor,BC337-25RLRAG,c_current_cutoff_max,100
+BC337-D,ON Semiconductor,BC337-25RLRAG,pwr_max,625
+BC337-D,ON Semiconductor,BC337-25RLRAG,freq_transition,210
+BC337-D,ON Semiconductor,BC337-25RLRAG,implied_ce_v_max,1
+BC337-D,ON Semiconductor,BC337-25RLRAG,implied_supply_current,100
+BC337-D,ON Semiconductor,BC337-25RLRAG,implied_supply_current,500
+BC337-D,ON Semiconductor,BC337-25RLRAG,implied_base_current,50
+BC337-D,ON Semiconductor,BC337-25RLRAG,vce_sat_max,700
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,polarity,NPN
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,c_current_max,500
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,ce_v_max,25
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,dc_gain_min,250
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,min_op_temp,-55
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,max_op_temp,150
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,c_current_cutoff_max,100
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,pwr_max,225
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,freq_transition,100
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,implied_ce_v_max,1
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,implied_supply_current,100
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,implied_supply_current,500
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,implied_base_current,50
+BC818-40LT1-D,ON Semiconductor,BC818-40LT1G,vce_sat_max,700
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,polarity,NPN
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,c_current_max,500
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,ce_v_max,25
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,dc_gain_min,250
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,min_op_temp,-55
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,max_op_temp,150
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,c_current_cutoff_max,100
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,pwr_max,225
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,freq_transition,100
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,implied_ce_v_max,1
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,implied_supply_current,100
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,implied_supply_current,500
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,implied_base_current,50
+BC818-40LT1-D,ON Semiconductor,NSVBC818-40LT1G,vce_sat_max,700
+CSEMS03485-1,Central Semiconductor,2N3906,polarity,PNP
+CSEMS03485-1,Central Semiconductor,2N3906,ce_v_max,40
+CSEMS03485-1,Central Semiconductor,2N3906,dc_gain_min,100
+CSEMS03485-1,Central Semiconductor,2N3906,min_op_temp,-65
+CSEMS03485-1,Central Semiconductor,2N3906,max_op_temp,150
+CSEMS03485-1,Central Semiconductor,2N3906,c_current_cutoff_max,50
+CSEMS03485-1,Central Semiconductor,2N3906,freq_transition,250
+CSEMS03485-1,Central Semiconductor,2N3906,implied_ce_v_max,1
+CSEMS03485-1,Central Semiconductor,2N3906,implied_supply_current,10
+CSEMS03485-1,Central Semiconductor,2N3906,implied_supply_current,A
+CSEMS03485-1,Central Semiconductor,2N3906,implied_base_current,/
+CSEMS03485-1,Central Semiconductor,2N3906,vce_sat_max,N
+CSEMS03485-1,Central Semiconductor,2N3905,polarity,PNP
+CSEMS03485-1,Central Semiconductor,2N3905,ce_v_max,40
+CSEMS03485-1,Central Semiconductor,2N3905,dc_gain_min,50
+CSEMS03485-1,Central Semiconductor,2N3905,min_op_temp,-65
+CSEMS03485-1,Central Semiconductor,2N3905,max_op_temp,150
+CSEMS03485-1,Central Semiconductor,2N3905,c_current_cutoff_max,50
+CSEMS03485-1,Central Semiconductor,2N3905,freq_transition,200
+CSEMS03485-1,Central Semiconductor,2N3905,implied_ce_v_max,1
+CSEMS03485-1,Central Semiconductor,2N3905,implied_supply_current,10
+CSEMS03485-1,Central Semiconductor,2N3905,implied_supply_current,A
+CSEMS03485-1,Central Semiconductor,2N3905,implied_base_current,/
+CSEMS03485-1,Central Semiconductor,2N3905,vce_sat_max,N
+CSEMS05382-1,Central Semiconductor,BC546A,polarity,NPN
+CSEMS05382-1,Central Semiconductor,BC546A,c_current_max,100
+CSEMS05382-1,Central Semiconductor,BC546A,ce_v_max,80
+CSEMS05382-1,Central Semiconductor,BC546A,dc_gain_min,110
+CSEMS05382-1,Central Semiconductor,BC546A,min_op_temp,-65
+CSEMS05382-1,Central Semiconductor,BC546A,max_op_temp,150
+CSEMS05382-1,Central Semiconductor,BC546A,c_current_cutoff_max,15
+CSEMS05382-1,Central Semiconductor,BC546A,pwr_max,500
+CSEMS05382-1,Central Semiconductor,BC546A,freq_transition,300
+CSEMS05382-1,Central Semiconductor,BC546A,implied_ce_v_max,5
+CSEMS05382-1,Central Semiconductor,BC546A,implied_supply_current,2
+CSEMS05382-1,Central Semiconductor,BC546A,implied_supply_current,100
+CSEMS05382-1,Central Semiconductor,BC546A,implied_base_current,5
+CSEMS05382-1,Central Semiconductor,BC546A,vce_sat_max,600
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,polarity,NPN
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,c_current_max,2
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,ce_v_max,40
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,dc_gain_min,25000
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,min_op_temp,-65
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,max_op_temp,150
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,c_current_cutoff_max,100
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,pwr_max,2
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,freq_transition,100
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,implied_ce_v_max,5
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,implied_supply_current,200
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,implied_supply_current,1
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,implied_base_current,2
+CentralSemiconductorCorp_CENU45,Central Semiconductor,CEN-U45,vce_sat_max,1.5
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,polarity,NPN
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,c_current_max,500
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,ce_v_max,300
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,dc_gain_min,40
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,min_op_temp,-65
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,max_op_temp,150
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,c_current_cutoff_max,100
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,pwr_max,625
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,freq_transition,50
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,implied_ce_v_max,10
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,implied_supply_current,30
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,implied_supply_current,20
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,implied_base_current,2
+CentralSemiconductorCorp_MPSA42,Central Semiconductor,MPSA42,vce_sat_max,500
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,polarity,PNP
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,c_current_max,500
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,ce_v_max,20
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,dc_gain_min,10000
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,min_op_temp,-65
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,max_op_temp,150
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,c_current_cutoff_max,100
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,pwr_max,625
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,freq_transition,125
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,implied_ce_v_max,5
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,implied_supply_current,100
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,implied_base_current,100Âµ
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA63,vce_sat_max,1.5
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,polarity,PNP
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,c_current_max,500
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,ce_v_max,30
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,dc_gain_min,20000
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,min_op_temp,-65
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,max_op_temp,150
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,c_current_cutoff_max,100
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,pwr_max,625
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,freq_transition,100
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,implied_ce_v_max,5
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,implied_supply_current,100
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,implied_base_current,100Âµ
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA65,vce_sat_max,1.5
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,polarity,PNP
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,c_current_max,500
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,ce_v_max,30
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,dc_gain_min,20000
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,min_op_temp,-65
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,max_op_temp,150
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,c_current_cutoff_max,100
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,pwr_max,625
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,freq_transition,125
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,implied_ce_v_max,5
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,implied_supply_current,100
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,implied_base_current,100Âµ
+CentralSemiconductorCorp_MPSA64,Central Semiconductor,MPSA64,vce_sat_max,1.5
+DIODS13249-1,Diodes Incorporated,BC817-16,polarity,NPN
+DIODS13249-1,Diodes Incorporated,BC817-16,c_current_max,800
+DIODS13249-1,Diodes Incorporated,BC817-16,ce_v_max,45
+DIODS13249-1,Diodes Incorporated,BC817-16,dc_gain_min,100
+DIODS13249-1,Diodes Incorporated,BC817-16,min_op_temp,-65
+DIODS13249-1,Diodes Incorporated,BC817-16,max_op_temp,150
+DIODS13249-1,Diodes Incorporated,BC817-16,c_current_cutoff_max,100
+DIODS13249-1,Diodes Incorporated,BC817-16,pwr_max,310
+DIODS13249-1,Diodes Incorporated,BC817-16,freq_transition,100
+DIODS13249-1,Diodes Incorporated,BC817-16,implied_ce_v_max,1
+DIODS13249-1,Diodes Incorporated,BC817-16,implied_supply_current,100
+DIODS13249-1,Diodes Incorporated,BC817-16,implied_supply_current,500
+DIODS13249-1,Diodes Incorporated,BC817-16,implied_base_current,50
+DIODS13249-1,Diodes Incorporated,BC817-16,vce_sat_max,700
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,polarity,PNP
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,c_current_max,2
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,ce_v_max,50
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,dc_gain_min,120
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,min_op_temp,-55
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,max_op_temp,150
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,c_current_cutoff_max,100
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,pwr_max,1
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,freq_transition,160
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,implied_ce_v_max,2
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,implied_supply_current,500
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,implied_supply_current,1
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,implied_base_current,50
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213Y-13,vce_sat_max,500
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,polarity,PNP
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,c_current_max,2
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,ce_v_max,50
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,dc_gain_min,70
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,min_op_temp,-55
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,max_op_temp,150
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,c_current_cutoff_max,100
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,pwr_max,1
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,freq_transition,160
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,implied_ce_v_max,2
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,implied_supply_current,500
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,implied_supply_current,1
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,implied_base_current,50
+DiodesIncorporated_2DA1213Y13,Diodes Incorporated,2DA1213O-13,vce_sat_max,500
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,polarity,NPN
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,c_current_max,1.5
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,ce_v_max,12
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,dc_gain_min,270
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,min_op_temp,-55
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,max_op_temp,150
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,c_current_cutoff_max,100
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,pwr_max,300
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,freq_transition,260
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,implied_ce_v_max,2
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,implied_supply_current,200
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,implied_supply_current,500
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,implied_base_current,25
+DiodesIncorporated_2DD26527,Diodes Incorporated,2DD2652-7,vce_sat_max,200
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,polarity,PNP
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,c_current_max,3
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,ce_v_max,40
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,dc_gain_min,300
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,min_op_temp,-55
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,max_op_temp,150
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,c_current_cutoff_max,20
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,pwr_max,3.2
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,freq_transition,100
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,implied_ce_v_max,2
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,implied_supply_current,10
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,implied_supply_current,3
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,implied_base_current,300
+DiodesIncorporated_DXT790AP513,Diodes Incorporated,DXT790AP5-13,vce_sat_max,450
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,polarity,NPN
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,c_current_max,1
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,ce_v_max,40
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,dc_gain_min,300
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,min_op_temp,-65
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,max_op_temp,150
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,c_current_cutoff_max,100
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,pwr_max,1
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,freq_transition,150
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,implied_ce_v_max,5
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,implied_supply_current,500
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,implied_supply_current,1
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,implied_base_current,100
+DiodesIncorporated_FCX491ATA,Diodes Incorporated,FCX491ATA,vce_sat_max,500
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,polarity,NPN
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,c_current_max,1
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,ce_v_max,150
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,dc_gain_min,100
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,min_op_temp,-65
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,max_op_temp,150
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,c_current_cutoff_max,100
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,pwr_max,1
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,freq_transition,100
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,implied_ce_v_max,10
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,implied_supply_current,1
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,implied_supply_current,500
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,implied_base_current,50
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TC,vce_sat_max,300
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,polarity,NPN
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,c_current_max,1
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,ce_v_max,150
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,dc_gain_min,100
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,min_op_temp,-65
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,max_op_temp,150
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,c_current_cutoff_max,100
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,pwr_max,1
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,freq_transition,100
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,implied_ce_v_max,10
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,implied_supply_current,1
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,implied_supply_current,500
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,implied_base_current,50
+DiodesIncorporated_FCX495TC,Diodes Incorporated,FCX495TA,vce_sat_max,300
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,polarity,PNP
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,c_current_max,700
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,ce_v_max,180
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,dc_gain_min,100
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,min_op_temp,-65
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,max_op_temp,150
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,c_current_cutoff_max,20
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,pwr_max,2.1
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,freq_transition,100
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,implied_ce_v_max,5
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,implied_supply_current,100
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,implied_supply_current,250
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,implied_base_current,25
+DiodesIncorporated_FCX555TA,Diodes Incorporated,FCX555TA,vce_sat_max,400
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,polarity,PNP
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,c_current_max,200
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,ce_v_max,400
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,dc_gain_min,100
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,min_op_temp,-65
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,max_op_temp,150
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,c_current_cutoff_max,100
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,pwr_max,1
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,freq_transition,50
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,implied_ce_v_max,10
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,implied_supply_current,50
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,implied_base_current,6
+DiodesIncorporated_FCX558TA,Diodes Incorporated,FCX558TA,vce_sat_max,500
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,polarity,NPN
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,c_current_max,2
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,ce_v_max,45
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,dc_gain_min,400
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,min_op_temp,-55
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,max_op_temp,150
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,c_current_cutoff_max,100
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,pwr_max,2
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,freq_transition,150
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,implied_ce_v_max,2
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,implied_supply_current,1
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,implied_base_current,5
+DiodesIncorporated_FCX690BTA,Diodes Incorporated,FCX690BTA,vce_sat_max,300
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,polarity,PNP
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,c_current_max,1
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,ce_v_max,120
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,dc_gain_min,3000
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,min_op_temp,-55
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,max_op_temp,150
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,c_current_cutoff_max,10Âµ
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,pwr_max,1
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,freq_transition,160
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,implied_ce_v_max,5
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,implied_supply_current,1
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,implied_supply_current,2
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,implied_base_current,2
+DiodesIncorporated_FCX705TA,Diodes Incorporated,FCX705TA,vce_sat_max,2.5
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,polarity,PNP
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,c_current_max,200
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,ce_v_max,300
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,dc_gain_min,100
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,min_op_temp,-55
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,max_op_temp,150
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,c_current_cutoff_max,100
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,pwr_max,500
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,freq_transition,75
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,implied_ce_v_max,10
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,implied_supply_current,50
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,implied_supply_current,100
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,implied_base_current,20
+DiodesIncorporated_FMMT597TC,Diodes Incorporated,FMMT597TA,vce_sat_max,250
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,polarity,NPN
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,c_current_max,900
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,ce_v_max,100
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,dc_gain_min,20000
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,min_op_temp,-55
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,max_op_temp,150
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,c_current_cutoff_max,100
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,pwr_max,806
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,freq_transition,140
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,implied_ce_v_max,5
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,implied_supply_current,100
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,implied_supply_current,1
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,implied_base_current,5
+DiodesIncorporated_FMMT634QTA,Diodes Incorporated,FMMT634QTA,vce_sat_max,960
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,polarity,NPN
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,c_current_max,3
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,ce_v_max,60
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,dc_gain_min,100
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,min_op_temp,-55
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,max_op_temp,150
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,c_current_cutoff_max,100
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,pwr_max,2
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,freq_transition,175
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,implied_ce_v_max,2
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,implied_supply_current,500
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,implied_supply_current,3
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,implied_base_current,300
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TA,vce_sat_max,600
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,polarity,NPN
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,c_current_max,3
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,ce_v_max,60
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,dc_gain_min,100
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,min_op_temp,-55
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,max_op_temp,150
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,c_current_cutoff_max,100
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,pwr_max,2
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,freq_transition,175
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,implied_ce_v_max,2
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,implied_supply_current,500
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,implied_supply_current,3
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,implied_base_current,300
+DiodesIncorporated_FZT651TC,Diodes Incorporated,FZT651TC,vce_sat_max,600
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,polarity,PNP
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,c_current_max,500
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,ce_v_max,400
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,dc_gain_min,40
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,min_op_temp,-55
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,max_op_temp,150
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,c_current_cutoff_max,100
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,pwr_max,2
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,freq_transition,50
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,implied_ce_v_max,10
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,implied_supply_current,200
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,implied_supply_current,100
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,implied_base_current,10
+DiodesIncorporated_FZT758TC,Diodes Incorporated,FZT758TA,vce_sat_max,500
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,polarity,NPN
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,c_current_max,500
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,ce_v_max,100
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,dc_gain_min,25
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,min_op_temp,-55
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,max_op_temp,200
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,c_current_cutoff_max,100
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,pwr_max,680
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,freq_transition,40
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,implied_ce_v_max,10
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,implied_supply_current,10
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,implied_base_current,1
+DiodesIncorporated_ZTX415STZ,Diodes Incorporated,ZTX415,vce_sat_max,500
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,polarity,NPN
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,c_current_max,1
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,ce_v_max,80
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,dc_gain_min,2000
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,min_op_temp,-55
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,max_op_temp,200
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,c_current_cutoff_max,10Âµ
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,pwr_max,1
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,freq_transition,150
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,implied_ce_v_max,5
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,implied_supply_current,1
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,implied_base_current,1
+DiodesIncorporated_ZTX603STZ,Diodes Incorporated,ZTX603,vce_sat_max,1
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,polarity,NPN
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,c_current_max,3
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,ce_v_max,12
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,dc_gain_min,500
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,min_op_temp,-55
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,max_op_temp,200
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,c_current_cutoff_max,100
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,pwr_max,1
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,freq_transition,150
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,implied_ce_v_max,2
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,implied_supply_current,100
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,implied_supply_current,3
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,implied_base_current,20
+DiodesIncorporated_ZTX688BSTZ,Diodes Incorporated,ZTX688B,vce_sat_max,350
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,polarity,NPN
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,c_current_max,500
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,ce_v_max,180
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,dc_gain_min,150
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,min_op_temp,-55
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,max_op_temp,200
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,c_current_cutoff_max,100
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,pwr_max,1
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,freq_transition,70
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,implied_ce_v_max,5
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,implied_supply_current,200
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,implied_base_current,5
+DiodesIncorporated_ZTX696BSTZ,Diodes Incorporated,ZTX696B,vce_sat_max,250
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,polarity,PNP
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,c_current_max,1
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,ce_v_max,200
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,dc_gain_min,50
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,min_op_temp,-55
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,max_op_temp,200
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,c_current_cutoff_max,100
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,pwr_max,1
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,freq_transition,30
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,implied_ce_v_max,5
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,implied_supply_current,500
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,implied_supply_current,1
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,implied_base_current,200
+DiodesIncorporated_ZTX776,Diodes Incorporated,ZTX776,vce_sat_max,500
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,polarity,PNP
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,c_current_max,3
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,ce_v_max,25
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,dc_gain_min,300
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,min_op_temp,-55
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,max_op_temp,200
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,c_current_cutoff_max,100
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,pwr_max,1
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,freq_transition,100
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,implied_ce_v_max,2
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,implied_supply_current,10
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,implied_supply_current,3
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,implied_base_current,100
+DiodesIncorporated_ZTX789ASTZ,Diodes Incorporated,ZTX789A,vce_sat_max,500
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,polarity,PNP
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,c_current_max,3.5
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,ce_v_max,100
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,dc_gain_min,100
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,min_op_temp,-55
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,max_op_temp,200
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,c_current_cutoff_max,50
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,pwr_max,1.2
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,freq_transition,125
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,implied_ce_v_max,1
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,implied_supply_current,1
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,implied_supply_current,4
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,implied_base_current,400
+DiodesIncorporated_ZTX953STZ,Diodes Incorporated,ZTX953,vce_sat_max,330
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,polarity,NPN
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,c_current_max,3
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,ce_v_max,45
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,dc_gain_min,150
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,min_op_temp,-55
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,max_op_temp,150
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,c_current_cutoff_max,20
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,pwr_max,3.9
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,implied_ce_v_max,2
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,implied_supply_current,2
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,implied_supply_current,3
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,implied_base_current,150
+DiodesIncorporated_ZXT690BKTC,Diodes Incorporated,ZXT690BKTC,vce_sat_max,350
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,polarity,NPN
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,c_current_max,5.5
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,ce_v_max,100
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,dc_gain_min,200
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,min_op_temp,-55
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,max_op_temp,150
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,c_current_cutoff_max,50
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,pwr_max,3
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,freq_transition,150
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,implied_ce_v_max,2
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,implied_supply_current,100
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,implied_supply_current,5.5
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,implied_base_current,550
+DiodesIncorporated_ZXTN19100CGTA,Diodes Incorporated,ZXTN19100CGTA,vce_sat_max,430
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,polarity,PNP
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,c_current_max,5.5
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,ce_v_max,30
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,dc_gain_min,100
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,min_op_temp,-55
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,max_op_temp,150
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,c_current_cutoff_max,20
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,pwr_max,2.1
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,freq_transition,110
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,implied_ce_v_max,1
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,implied_supply_current,1
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,implied_supply_current,5.5
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,implied_base_current,500
+DiodesIncorporated_ZXTP2008ZTA,Diodes Incorporated,ZXTP2008ZTA,vce_sat_max,175
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,polarity,PNP
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,c_current_max,2.5
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,ce_v_max,140
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,dc_gain_min,100
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,min_op_temp,-55
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,max_op_temp,150
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,c_current_cutoff_max,20
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,pwr_max,1.25
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,freq_transition,130
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,implied_ce_v_max,5
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,implied_supply_current,1
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,implied_supply_current,2.5
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,implied_base_current,250
+DiodesIncorporated_ZXTP23140BFHTA,Diodes Incorporated,ZXTP23140BFHTA,vce_sat_max,280
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,polarity,PNP
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,c_current_max,1.25
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,ce_v_max,20
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,dc_gain_min,235
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,min_op_temp,-55
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,max_op_temp,150
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,c_current_cutoff_max,100
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,pwr_max,1
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,freq_transition,200
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,implied_ce_v_max,2
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,implied_supply_current,500
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,implied_supply_current,1.25
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,implied_base_current,62.5
+DiodesIncorporated_ZXTP26020DMFTA,Diodes Incorporated,ZXTP26020DMFTA,vce_sat_max,235
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,polarity,PNP
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,c_current_max,3.5
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,ce_v_max,20
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,dc_gain_min,150
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,min_op_temp,-55
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,max_op_temp,150
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,c_current_cutoff_max,25
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,pwr_max,3
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,freq_transition,180
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,implied_ce_v_max,2
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,implied_supply_current,2
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,implied_supply_current,3.5
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,implied_base_current,350
+DiodesIncorporated_ZXTP718MATA,Diodes Incorporated,ZXTP718MATA,vce_sat_max,300
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,polarity,NPN
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,c_current_max,200
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,ce_v_max,40
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,dc_gain_min,100
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,min_op_temp,-55
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,max_op_temp,150
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,pwr_max,600
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,freq_transition,250
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,implied_ce_v_max,1
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,implied_supply_current,10
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,implied_supply_current,50
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,implied_base_current,5
+MicroCommercialCo_2N3904AP,Micro Commercial Components,2N3904-AP,vce_sat_max,400
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,polarity,PNP
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,c_current_max,300
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,ce_v_max,300
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,dc_gain_min,80
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,min_op_temp,-55
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,max_op_temp,150
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,c_current_cutoff_max,250
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,pwr_max,625
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,freq_transition,50
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,implied_ce_v_max,10
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,implied_supply_current,10
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,implied_supply_current,20
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,implied_base_current,2
+MicroCommercialCo_MPSA92AP,Micro Commercial Components,MPSA92-AP,vce_sat_max,500
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,polarity,NPN
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,c_current_max,50
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,ce_v_max,60
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,dc_gain_min,225
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,min_op_temp,-65
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,max_op_temp,200
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,c_current_cutoff_max,2
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,pwr_max,360
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,implied_ce_v_max,5
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,implied_supply_current,10
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,implied_supply_current,1
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,implied_base_current,100Âµ
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UB,vce_sat_max,300
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,polarity,NPN
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,c_current_max,50
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,ce_v_max,60
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,dc_gain_min,225
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,min_op_temp,-65
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,max_op_temp,200
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,c_current_cutoff_max,2
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,pwr_max,360
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,implied_ce_v_max,5
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,implied_supply_current,10
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,implied_supply_current,1
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,implied_base_current,100Âµ
+MicrosemiCorporation_2N2484UB,Microsemi,2N2484UA,vce_sat_max,300
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918,dc_gain_min,N
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918,implied_ce_v_max,A
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918,implied_supply_current,/
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918,implied_supply_current,A
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918,implied_base_current,/
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918,vce_sat_max,N
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,polarity,NPN
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,c_current_max,50
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,ce_v_max,15
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,dc_gain_min,20
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,min_op_temp,-65
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,max_op_temp,200
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,c_current_cutoff_max,1Âµ
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,pwr_max,200
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,implied_ce_v_max,1
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,implied_supply_current,3
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,implied_supply_current,10
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,implied_base_current,1
+MicrosemiIREDivision_JAN2N918UB,Microsemi,2N918UB,vce_sat_max,400
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,polarity,NPN
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,c_current_max,600
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,ce_v_max,40
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,dc_gain_min,100
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,min_op_temp,150
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,max_op_temp,150
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,c_current_cutoff_max,10
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,pwr_max,500
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,freq_transition,270
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,implied_ce_v_max,10
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,implied_supply_current,150
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,implied_supply_current,500
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,implied_base_current,50
+NXPUSAInc_PN2222A116,STMicroelectronics,PN2222A,vce_sat_max,1
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,polarity,NPN
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,c_current_max,10
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,ce_v_max,140
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,dc_gain_min,20
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,min_op_temp,-65
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,max_op_temp,200
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,c_current_cutoff_max,200
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,pwr_max,117
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,freq_transition,80
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,implied_ce_v_max,4
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,implied_supply_current,3
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,implied_supply_current,10
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,implied_base_current,2
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442,vce_sat_max,5
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,polarity,NPN
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,c_current_max,10
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,ce_v_max,140
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,dc_gain_min,20
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,min_op_temp,-65
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,max_op_temp,200
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,c_current_cutoff_max,200
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,pwr_max,117
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,freq_transition,80
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,implied_ce_v_max,4
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,implied_supply_current,3
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,implied_supply_current,10
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,implied_base_current,2
+ONSemiconductor_2N3442G,ON Semiconductor,2N3442G,vce_sat_max,5
+ONSemiconductor_BC489G,ON Semiconductor,BC489,polarity,NPN
+ONSemiconductor_BC489G,ON Semiconductor,BC489,c_current_max,500
+ONSemiconductor_BC489G,ON Semiconductor,BC489,ce_v_max,80
+ONSemiconductor_BC489G,ON Semiconductor,BC489,dc_gain_min,60
+ONSemiconductor_BC489G,ON Semiconductor,BC489,min_op_temp,-55
+ONSemiconductor_BC489G,ON Semiconductor,BC489,max_op_temp,150
+ONSemiconductor_BC489G,ON Semiconductor,BC489,c_current_cutoff_max,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489,pwr_max,625
+ONSemiconductor_BC489G,ON Semiconductor,BC489,freq_transition,200
+ONSemiconductor_BC489G,ON Semiconductor,BC489,implied_ce_v_max,2
+ONSemiconductor_BC489G,ON Semiconductor,BC489,implied_supply_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489,implied_supply_current,1
+ONSemiconductor_BC489G,ON Semiconductor,BC489,implied_base_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489,vce_sat_max,300
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,polarity,NPN
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,c_current_max,500
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,ce_v_max,80
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,dc_gain_min,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,min_op_temp,-55
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,max_op_temp,150
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,c_current_cutoff_max,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,pwr_max,625
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,freq_transition,200
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,implied_ce_v_max,2
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,implied_supply_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,implied_supply_current,1
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,implied_base_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489A,vce_sat_max,300
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,polarity,NPN
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,c_current_max,500
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,ce_v_max,80
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,dc_gain_min,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,min_op_temp,-55
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,max_op_temp,150
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,c_current_cutoff_max,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,pwr_max,625
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,freq_transition,200
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,implied_ce_v_max,2
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,implied_supply_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,implied_supply_current,1
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,implied_base_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489AG,vce_sat_max,300
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,polarity,NPN
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,c_current_max,500
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,ce_v_max,80
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,dc_gain_min,60
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,min_op_temp,-55
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,max_op_temp,150
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,c_current_cutoff_max,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,pwr_max,625
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,freq_transition,200
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,implied_ce_v_max,2
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,implied_supply_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,implied_supply_current,1
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,implied_base_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489G,vce_sat_max,300
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,polarity,NPN
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,c_current_max,500
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,ce_v_max,80
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,dc_gain_min,60
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,min_op_temp,-55
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,max_op_temp,150
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,c_current_cutoff_max,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,pwr_max,625
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,freq_transition,200
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,implied_ce_v_max,2
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,implied_supply_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,implied_supply_current,1
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,implied_base_current,100
+ONSemiconductor_BC489G,ON Semiconductor,BC489RL1G,vce_sat_max,300
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,polarity,NPN
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,c_current_max,5
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,ce_v_max,400
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,dc_gain_min,10
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,min_op_temp,-65
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,max_op_temp,150
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,c_current_cutoff_max,100Âµ
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,pwr_max,75
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,freq_transition,13
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,implied_ce_v_max,1
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,implied_supply_current,2
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,implied_base_current,400
+ONSemiconductor_BUL45D2,ON Semiconductor,BUL45D2G,vce_sat_max,500
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,polarity,NPN
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,c_current_max,5
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,ce_v_max,450
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,dc_gain_min,6
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,min_op_temp,-65
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,max_op_temp,150
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,c_current_cutoff_max,100Âµ
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,pwr_max,75
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,freq_transition,13
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,implied_ce_v_max,1
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,implied_supply_current,2
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,implied_base_current,400
+ONSemiconductor_MJE18004D2G,ON Semiconductor,MJE18004D2G,vce_sat_max,750
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,polarity,NPN
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,c_current_max,15
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,ce_v_max,230
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,dc_gain_min,50
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,min_op_temp,-65
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,max_op_temp,150
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,c_current_cutoff_max,50Âµ
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,pwr_max,200
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,freq_transition,30
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,implied_ce_v_max,5
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,implied_supply_current,7
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,implied_supply_current,10
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,implied_base_current,1
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281AG,vce_sat_max,2
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,polarity,PNP
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,c_current_max,15
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,ce_v_max,230
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,dc_gain_min,50
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,min_op_temp,-65
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,max_op_temp,150
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,c_current_cutoff_max,50Âµ
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,pwr_max,200
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,freq_transition,30
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,implied_ce_v_max,5
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,implied_supply_current,7
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,implied_supply_current,10
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,implied_base_current,1
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302AG,vce_sat_max,2
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,polarity,PNP
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,c_current_max,15
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,ce_v_max,230
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,dc_gain_min,50
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,min_op_temp,-65
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,max_op_temp,150
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,c_current_cutoff_max,50Âµ
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,pwr_max,200
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,freq_transition,30
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,implied_ce_v_max,5
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,implied_supply_current,7
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,implied_supply_current,10
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,implied_base_current,1
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW1302A,vce_sat_max,2
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,polarity,NPN
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,c_current_max,15
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,ce_v_max,230
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,dc_gain_min,50
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,min_op_temp,-65
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,max_op_temp,150
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,c_current_cutoff_max,50Âµ
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,pwr_max,200
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,freq_transition,30
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,implied_ce_v_max,5
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,implied_supply_current,7
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,implied_supply_current,10
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,implied_base_current,1
+ONSemiconductor_MJW3281A,ON Semiconductor,MJW3281A,vce_sat_max,2
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,polarity,NPN
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,c_current_max,100
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,ce_v_max,25
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,dc_gain_min,300
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,c_current_cutoff_max,500
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,pwr_max,225
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,implied_ce_v_max,10
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,implied_supply_current,2
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,implied_supply_current,50
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,implied_base_current,5
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,SMMBT6521LT1G,vce_sat_max,500
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,polarity,NPN
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,c_current_max,100
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,ce_v_max,25
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,dc_gain_min,300
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,min_op_temp,-55
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,max_op_temp,150
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,c_current_cutoff_max,500
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,pwr_max,225
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,implied_ce_v_max,10
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,implied_supply_current,2
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,implied_supply_current,50
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,implied_base_current,5
+ONSemiconductor_MMBT6521LT1,ON Semiconductor,MMBT6521LT1G,vce_sat_max,500
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,polarity,NPN
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,c_current_max,500
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,ce_v_max,80
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,dc_gain_min,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,min_op_temp,-55
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,max_op_temp,150
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,c_current_cutoff_max,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,pwr_max,150
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,freq_transition,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,implied_ce_v_max,1
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,implied_supply_current,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,implied_base_current,10
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,MMBTA06WT1G,vce_sat_max,250
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,polarity,NPN
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,c_current_max,500
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,ce_v_max,80
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,dc_gain_min,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,min_op_temp,-55
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,max_op_temp,150
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,c_current_cutoff_max,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,pwr_max,150
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,freq_transition,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,implied_ce_v_max,1
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,implied_supply_current,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,implied_base_current,10
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT3G,vce_sat_max,250
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,polarity,NPN
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,c_current_max,500
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,ce_v_max,80
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,dc_gain_min,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,min_op_temp,-55
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,max_op_temp,150
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,c_current_cutoff_max,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,pwr_max,150
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,freq_transition,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,implied_ce_v_max,1
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,implied_supply_current,100
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,implied_base_current,10
+ONSemiconductor_MMBTA06WT1G,ON Semiconductor,SMMBTA06WT1G,vce_sat_max,250
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,polarity,PNP
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,c_current_max,500
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,ce_v_max,300
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,dc_gain_min,25
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,min_op_temp,-55
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,max_op_temp,150
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,c_current_cutoff_max,250
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,pwr_max,300
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,freq_transition,50
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,implied_ce_v_max,10
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,implied_supply_current,30
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,implied_supply_current,20
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,implied_base_current,2
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT1G,vce_sat_max,500
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,polarity,PNP
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,c_current_max,500
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,ce_v_max,300
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,dc_gain_min,25
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,min_op_temp,-55
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,max_op_temp,150
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,c_current_cutoff_max,250
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,pwr_max,300
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,freq_transition,50
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,implied_ce_v_max,10
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,implied_supply_current,30
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,implied_supply_current,20
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,implied_base_current,2
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA92LT3G,vce_sat_max,500
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,polarity,PNP
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,c_current_max,500
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,ce_v_max,300
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,dc_gain_min,25
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,min_op_temp,-55
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,max_op_temp,150
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,c_current_cutoff_max,250
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,pwr_max,300
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,freq_transition,50
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,implied_ce_v_max,10
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,implied_supply_current,30
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,implied_supply_current,20
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,implied_base_current,2
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT3G,vce_sat_max,500
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,polarity,PNP
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,c_current_max,500
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,ce_v_max,300
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,dc_gain_min,25
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,min_op_temp,-55
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,max_op_temp,150
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,c_current_cutoff_max,250
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,pwr_max,300
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,freq_transition,50
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,implied_ce_v_max,10
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,implied_supply_current,30
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,implied_supply_current,20
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,implied_base_current,2
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,SMMBTA92LT1G,vce_sat_max,500
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,polarity,PNP
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,c_current_max,500
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,ce_v_max,200
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,dc_gain_min,25
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,min_op_temp,-55
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,max_op_temp,150
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,c_current_cutoff_max,250
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,pwr_max,300
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,freq_transition,50
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,implied_ce_v_max,10
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,implied_supply_current,30
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,implied_supply_current,20
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,implied_base_current,2
+ONSemiconductor_MMBTA92LT1G,ON Semiconductor,MMBTA93LT1G,vce_sat_max,500
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,polarity,NPN
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,c_current_max,300
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,ce_v_max,15
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,dc_gain_min,30
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,min_op_temp,-55
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,max_op_temp,150
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,c_current_cutoff_max,500
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,pwr_max,625
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,freq_transition,350
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,implied_ce_v_max,400
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,implied_supply_current,30
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,implied_supply_current,300
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,implied_base_current,30
+ONSemiconductor_MPS3646G,ON Semiconductor,MPS3646,vce_sat_max,500
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,polarity,NPN
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,ce_v_max,20
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,dc_gain_min,20000
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,min_op_temp,-55
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,max_op_temp,150
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,c_current_cutoff_max,100
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,pwr_max,625
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,implied_ce_v_max,5
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,implied_supply_current,10
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,implied_base_current,10Âµ
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12G,vce_sat_max,1
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,polarity,NPN
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,ce_v_max,20
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,dc_gain_min,20000
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,min_op_temp,-55
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,max_op_temp,150
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,c_current_cutoff_max,100
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,pwr_max,625
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,implied_ce_v_max,5
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,implied_supply_current,10
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,implied_base_current,10Âµ
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRA,vce_sat_max,1
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,polarity,NPN
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,ce_v_max,20
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,dc_gain_min,20000
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,min_op_temp,-55
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,max_op_temp,150
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,c_current_cutoff_max,100
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,pwr_max,625
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,implied_ce_v_max,5
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,implied_supply_current,10
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,implied_base_current,10Âµ
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRAG,vce_sat_max,1
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,polarity,NPN
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,ce_v_max,20
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,dc_gain_min,20000
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,min_op_temp,-55
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,max_op_temp,150
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,c_current_cutoff_max,100
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,pwr_max,625
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,implied_ce_v_max,5
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,implied_supply_current,10
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,implied_base_current,10Âµ
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRP,vce_sat_max,1
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,polarity,NPN
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,ce_v_max,20
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,dc_gain_min,20000
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,min_op_temp,-55
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,max_op_temp,150
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,c_current_cutoff_max,100
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,pwr_max,625
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,implied_ce_v_max,5
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,implied_supply_current,10
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,implied_base_current,10Âµ
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12RLRPG,vce_sat_max,1
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,polarity,NPN
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,ce_v_max,20
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,dc_gain_min,20000
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,min_op_temp,-55
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,max_op_temp,150
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,c_current_cutoff_max,100
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,pwr_max,625
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,implied_ce_v_max,5
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,implied_supply_current,10
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,implied_base_current,10Âµ
+ONSemiconductor_MPSA12,ON Semiconductor,MPSA12,vce_sat_max,1
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,polarity,PNP
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,c_current_max,6
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,ce_v_max,20
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,dc_gain_min,220
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,min_op_temp,-55
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,max_op_temp,150
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,c_current_cutoff_max,100
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,pwr_max,830
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,freq_transition,100
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,implied_ce_v_max,2
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,implied_supply_current,1
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,implied_supply_current,4
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,implied_base_current,400
+ONSemiconductor_NSS20600CF8T1G,ON Semiconductor,NSS20600CF8T1G,vce_sat_max,200
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,polarity,PNP
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,c_current_max,1
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,ce_v_max,12
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,dc_gain_min,100
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,min_op_temp,-55
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,max_op_temp,150
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,c_current_cutoff_max,100
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,pwr_max,740
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,freq_transition,200
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,implied_ce_v_max,2
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,implied_supply_current,500
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,implied_supply_current,1
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,implied_base_current,100
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSV12100UW3TCG,vce_sat_max,440
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,polarity,PNP
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,c_current_max,1
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,ce_v_max,12
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,dc_gain_min,100
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,min_op_temp,-55
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,max_op_temp,150
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,c_current_cutoff_max,100
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,pwr_max,740
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,freq_transition,200
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,implied_ce_v_max,2
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,implied_supply_current,500
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,implied_supply_current,1
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,implied_base_current,100
+ONSemiconductor_NSV12100UW3TCG,ON Semiconductor,NSS12100UW3TCG,vce_sat_max,440
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,polarity,PNP
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,c_current_max,5
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,ce_v_max,50
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,dc_gain_min,110
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,min_op_temp,150
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,max_op_temp,150
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,c_current_cutoff_max,100
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,pwr_max,1.4
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,implied_ce_v_max,2
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,implied_supply_current,2
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,implied_supply_current,3
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,implied_base_current,300
+STMicroelectronics_2STF2550,STMicroelectronics,2STF2550,vce_sat_max,550
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,polarity,NPN
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,c_current_max,1
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,ce_v_max,60
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,dc_gain_min,100
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,min_op_temp,175
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,max_op_temp,175
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,c_current_cutoff_max,100
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,pwr_max,650
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,freq_transition,50
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,implied_ce_v_max,1
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,implied_supply_current,100
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,implied_supply_current,1
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,implied_base_current,100
+STMicroelectronics_BC14116,STMicroelectronics,BC141-16,vce_sat_max,1
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,polarity,NPN
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,c_current_max,4
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,ce_v_max,450
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,dc_gain_min,10
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,min_op_temp,150
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,max_op_temp,150
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,c_current_cutoff_max,250Âµ
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,pwr_max,70
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,implied_ce_v_max,5
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,implied_supply_current,2
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,implied_supply_current,2.5
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,implied_base_current,500
+STMicroelectronics_BUL804,STMicroelectronics,BUL804,vce_sat_max,1.2
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,polarity,NPN
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,c_current_max,15
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,ce_v_max,450
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,dc_gain_min,8
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,min_op_temp,150
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,max_op_temp,150
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,c_current_cutoff_max,200Âµ
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,pwr_max,125
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,implied_ce_v_max,5
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,implied_supply_current,8
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,implied_supply_current,12
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,implied_base_current,2.4
+STMicroelectronics_BUV48A,STMicroelectronics,BUV48A,vce_sat_max,5
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,polarity,NPN
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,c_current_max,10
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,ce_v_max,80
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,dc_gain_min,40
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,min_op_temp,150
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,max_op_temp,150
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,c_current_cutoff_max,10Âµ
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,pwr_max,36
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,implied_ce_v_max,1
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,implied_supply_current,4
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,implied_supply_current,8
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,implied_base_current,400
+STMicroelectronics_D45H11FP,STMicroelectronics,D44H11FP,vce_sat_max,1
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,polarity,PNP
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,c_current_max,10
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,ce_v_max,80
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,dc_gain_min,40
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,min_op_temp,150
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,max_op_temp,150
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,c_current_cutoff_max,10Âµ
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,pwr_max,36
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,implied_ce_v_max,1
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,implied_supply_current,4
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,implied_supply_current,8
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,implied_base_current,400
+STMicroelectronics_D45H11FP,STMicroelectronics,D45H11FP,vce_sat_max,1
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,polarity,NPN
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,c_current_max,15
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,ce_v_max,700
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,dc_gain_min,5.5
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,min_op_temp,150
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,max_op_temp,150
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,c_current_cutoff_max,200Âµ
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,pwr_max,64
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,implied_ce_v_max,5
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,implied_supply_current,9
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,implied_base_current,1.8
+STMicroelectronics_HD1520FX,STMicroelectronics,HD1520FX,vce_sat_max,3
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,polarity,NPN
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,c_current_max,8
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,ce_v_max,400
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,dc_gain_min,8
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,min_op_temp,150
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,max_op_temp,150
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,c_current_cutoff_max,100Âµ
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,pwr_max,80
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,implied_ce_v_max,5
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,implied_supply_current,5
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,implied_supply_current,8
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,implied_base_current,2
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,vce_sat_max,2
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,implied_base_current,1
+STMicroelectronics_STB13007DT4,STMicroelectronics,STB13007DT4,vce_sat_max,3
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,polarity,NPN
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,c_current_max,3
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,ce_v_max,400
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,dc_gain_min,8
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,min_op_temp,150
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,max_op_temp,150
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,c_current_cutoff_max,1
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,pwr_max,30
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,implied_ce_v_max,5
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,implied_supply_current,2
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,implied_supply_current,3
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,implied_base_current,750
+STMicroelectronics_STI130051,STMicroelectronics,STI13005-1,vce_sat_max,5
+Sanken_2SC4886,Sanken,2SC4886,polarity,NPN
+Sanken_2SC4886,Sanken,2SC4886,c_current_max,14
+Sanken_2SC4886,Sanken,2SC4886,ce_v_max,150
+Sanken_2SC4886,Sanken,2SC4886,dc_gain_min,50
+Sanken_2SC4886,Sanken,2SC4886,min_op_temp,150
+Sanken_2SC4886,Sanken,2SC4886,max_op_temp,150
+Sanken_2SC4886,Sanken,2SC4886,c_current_cutoff_max,100Âµ
+Sanken_2SC4886,Sanken,2SC4886,pwr_max,80
+Sanken_2SC4886,Sanken,2SC4886,freq_transition,60
+Sanken_2SC4886,Sanken,2SC4886,implied_ce_v_max,4
+Sanken_2SC4886,Sanken,2SC4886,implied_supply_current,5
+Sanken_2SC4886,Sanken,2SC4886,implied_base_current,500
+Sanken_2SC4886,Sanken,2SC4886,vce_sat_max,2
+Sanken_2SC5100,Sanken,2SC5100,polarity,NPN
+Sanken_2SC5100,Sanken,2SC5100,c_current_max,8
+Sanken_2SC5100,Sanken,2SC5100,ce_v_max,120
+Sanken_2SC5100,Sanken,2SC5100,dc_gain_min,50
+Sanken_2SC5100,Sanken,2SC5100,min_op_temp,150
+Sanken_2SC5100,Sanken,2SC5100,max_op_temp,150
+Sanken_2SC5100,Sanken,2SC5100,c_current_cutoff_max,10Âµ
+Sanken_2SC5100,Sanken,2SC5100,pwr_max,75
+Sanken_2SC5100,Sanken,2SC5100,freq_transition,20
+Sanken_2SC5100,Sanken,2SC5100,implied_ce_v_max,4
+Sanken_2SC5100,Sanken,2SC5100,implied_supply_current,3
+Sanken_2SC5100,Sanken,2SC5100,implied_base_current,300
+Sanken_2SC5100,Sanken,2SC5100,vce_sat_max,500
+Sanken_2SD2082,Sanken,2SD2082,polarity,NPN
+Sanken_2SD2082,Sanken,2SD2082,c_current_max,16
+Sanken_2SD2082,Sanken,2SD2082,ce_v_max,120
+Sanken_2SD2082,Sanken,2SD2082,dc_gain_min,2000
+Sanken_2SD2082,Sanken,2SD2082,min_op_temp,150
+Sanken_2SD2082,Sanken,2SD2082,max_op_temp,150
+Sanken_2SD2082,Sanken,2SD2082,c_current_cutoff_max,10Âµ
+Sanken_2SD2082,Sanken,2SD2082,pwr_max,75
+Sanken_2SD2082,Sanken,2SD2082,freq_transition,20
+Sanken_2SD2082,Sanken,2SD2082,implied_ce_v_max,4
+Sanken_2SD2082,Sanken,2SD2082,implied_supply_current,8
+Sanken_2SD2082,Sanken,2SD2082,implied_base_current,16
+Sanken_2SD2082,Sanken,2SD2082,vce_sat_max,1.5
+Sanken_2SD2083,Sanken,2SD2083,polarity,NPN
+Sanken_2SD2083,Sanken,2SD2083,c_current_max,25
+Sanken_2SD2083,Sanken,2SD2083,ce_v_max,120
+Sanken_2SD2083,Sanken,2SD2083,dc_gain_min,2000
+Sanken_2SD2083,Sanken,2SD2083,min_op_temp,150
+Sanken_2SD2083,Sanken,2SD2083,max_op_temp,150
+Sanken_2SD2083,Sanken,2SD2083,c_current_cutoff_max,10Âµ
+Sanken_2SD2083,Sanken,2SD2083,pwr_max,120
+Sanken_2SD2083,Sanken,2SD2083,freq_transition,20
+Sanken_2SD2083,Sanken,2SD2083,implied_ce_v_max,4
+Sanken_2SD2083,Sanken,2SD2083,implied_supply_current,12
+Sanken_2SD2083,Sanken,2SD2083,implied_base_current,24
+Sanken_2SD2083,Sanken,2SD2083,vce_sat_max,1.8
+Sanken_2SD2643,Sanken,2SD2643,polarity,NPN
+Sanken_2SD2643,Sanken,2SD2643,c_current_max,6
+Sanken_2SD2643,Sanken,2SD2643,ce_v_max,110
+Sanken_2SD2643,Sanken,2SD2643,dc_gain_min,5000
+Sanken_2SD2643,Sanken,2SD2643,min_op_temp,150
+Sanken_2SD2643,Sanken,2SD2643,max_op_temp,150
+Sanken_2SD2643,Sanken,2SD2643,c_current_cutoff_max,100Âµ
+Sanken_2SD2643,Sanken,2SD2643,pwr_max,60
+Sanken_2SD2643,Sanken,2SD2643,freq_transition,60
+Sanken_2SD2643,Sanken,2SD2643,implied_ce_v_max,4
+Sanken_2SD2643,Sanken,2SD2643,implied_supply_current,5
+Sanken_2SD2643,Sanken,2SD2643,implied_base_current,5
+Sanken_2SD2643,Sanken,2SD2643,vce_sat_max,2.5
+Sanken_STD01N,Sanken,STD01P,polarity,PNP
+Sanken_STD01N,Sanken,STD01P,c_current_max,10
+Sanken_STD01N,Sanken,STD01P,ce_v_max,150
+Sanken_STD01N,Sanken,STD01P,dc_gain_min,5000
+Sanken_STD01N,Sanken,STD01P,min_op_temp,150
+Sanken_STD01N,Sanken,STD01P,max_op_temp,150
+Sanken_STD01N,Sanken,STD01P,c_current_cutoff_max,100Âµ
+Sanken_STD01N,Sanken,STD01P,pwr_max,100
+Sanken_STD01N,Sanken,STD01P,implied_ce_v_max,4
+Sanken_STD01N,Sanken,STD01P,implied_supply_current,6
+Sanken_STD01N,Sanken,STD01P,implied_base_current,6
+Sanken_STD01N,Sanken,STD01P,vce_sat_max,2
+Sanken_STD01N,Sanken,STD01N,polarity,NPN
+Sanken_STD01N,Sanken,STD01N,c_current_max,10
+Sanken_STD01N,Sanken,STD01N,ce_v_max,150
+Sanken_STD01N,Sanken,STD01N,dc_gain_min,5000
+Sanken_STD01N,Sanken,STD01N,min_op_temp,150
+Sanken_STD01N,Sanken,STD01N,max_op_temp,150
+Sanken_STD01N,Sanken,STD01N,c_current_cutoff_max,100Âµ
+Sanken_STD01N,Sanken,STD01N,pwr_max,100
+Sanken_STD01N,Sanken,STD01N,implied_ce_v_max,4
+Sanken_STD01N,Sanken,STD01N,implied_supply_current,6
+Sanken_STD01N,Sanken,STD01N,implied_base_current,6
+Sanken_STD01N,Sanken,STD01N,vce_sat_max,2
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,polarity,NPN
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,c_current_max,800
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,ce_v_max,50
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,dc_gain_min,75
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,min_op_temp,-65
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,max_op_temp,200
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,c_current_cutoff_max,10
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,pwr_max,500
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,implied_ce_v_max,10
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,implied_supply_current,1
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,implied_supply_current,150
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,implied_base_current,15
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATX,vce_sat_max,300
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,polarity,NPN
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,c_current_max,800
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,ce_v_max,50
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,dc_gain_min,75
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,min_op_temp,-65
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,max_op_temp,200
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,c_current_cutoff_max,10
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,pwr_max,500
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,implied_ce_v_max,10
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,implied_supply_current,1
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,implied_supply_current,150
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,implied_base_current,15
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUATXV,vce_sat_max,300
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,polarity,NPN
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,c_current_max,800
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,ce_v_max,50
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,dc_gain_min,75
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,min_op_temp,-65
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,max_op_temp,200
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,c_current_cutoff_max,50
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,pwr_max,500
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,implied_ce_v_max,10
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,implied_supply_current,1
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,implied_supply_current,500
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,implied_base_current,50
+TTElectronicsOptekTechnology_2N2222AUATXV,TT Electronics,2N2222AUA,vce_sat_max,1
+bc546-d,ON Semiconductor,BC546BG,polarity,NPN
+bc546-d,ON Semiconductor,BC546BG,c_current_max,100
+bc546-d,ON Semiconductor,BC546BG,ce_v_max,65
+bc546-d,ON Semiconductor,BC546BG,dc_gain_min,200
+bc546-d,ON Semiconductor,BC546BG,min_op_temp,-55
+bc546-d,ON Semiconductor,BC546BG,max_op_temp,150
+bc546-d,ON Semiconductor,BC546BG,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC546BG,pwr_max,625
+bc546-d,ON Semiconductor,BC546BG,freq_transition,300
+bc546-d,ON Semiconductor,BC546BG,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC546BG,implied_supply_current,2
+bc546-d,ON Semiconductor,BC546BG,implied_supply_current,100
+bc546-d,ON Semiconductor,BC546BG,implied_base_current,5
+bc546-d,ON Semiconductor,BC546BG,vce_sat_max,600
+bc546-d,ON Semiconductor,BC547BG,polarity,NPN
+bc546-d,ON Semiconductor,BC547BG,c_current_max,100
+bc546-d,ON Semiconductor,BC547BG,ce_v_max,45
+bc546-d,ON Semiconductor,BC547BG,dc_gain_min,200
+bc546-d,ON Semiconductor,BC547BG,min_op_temp,-55
+bc546-d,ON Semiconductor,BC547BG,max_op_temp,150
+bc546-d,ON Semiconductor,BC547BG,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547BG,pwr_max,625
+bc546-d,ON Semiconductor,BC547BG,freq_transition,300
+bc546-d,ON Semiconductor,BC547BG,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547BG,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547BG,implied_supply_current,10
+bc546-d,ON Semiconductor,BC547BG,implied_base_current,500Âµ
+bc546-d,ON Semiconductor,BC547BG,vce_sat_max,250
+bc546-d,ON Semiconductor,BC546,polarity,NPN
+bc546-d,ON Semiconductor,BC546,c_current_max,100
+bc546-d,ON Semiconductor,BC546,ce_v_max,65
+bc546-d,ON Semiconductor,BC546,dc_gain_min,110
+bc546-d,ON Semiconductor,BC546,min_op_temp,150
+bc546-d,ON Semiconductor,BC546,max_op_temp,150
+bc546-d,ON Semiconductor,BC546,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC546,pwr_max,500
+bc546-d,ON Semiconductor,BC546,freq_transition,300
+bc546-d,ON Semiconductor,BC546,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC546,implied_supply_current,2
+bc546-d,ON Semiconductor,BC546,implied_supply_current,100
+bc546-d,ON Semiconductor,BC546,implied_base_current,5
+bc546-d,ON Semiconductor,BC546,vce_sat_max,600
+bc546-d,ON Semiconductor,BC547,polarity,NPN
+bc546-d,ON Semiconductor,BC547,c_current_max,100
+bc546-d,ON Semiconductor,BC547,ce_v_max,45
+bc546-d,ON Semiconductor,BC547,dc_gain_min,110
+bc546-d,ON Semiconductor,BC547,min_op_temp,150
+bc546-d,ON Semiconductor,BC547,max_op_temp,150
+bc546-d,ON Semiconductor,BC547,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547,pwr_max,500
+bc546-d,ON Semiconductor,BC547,freq_transition,300
+bc546-d,ON Semiconductor,BC547,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547,implied_supply_current,100
+bc546-d,ON Semiconductor,BC547,implied_base_current,5
+bc546-d,ON Semiconductor,BC547,vce_sat_max,600
+bc546-d,ON Semiconductor,BC547A,polarity,NPN
+bc546-d,ON Semiconductor,BC547A,c_current_max,100
+bc546-d,ON Semiconductor,BC547A,ce_v_max,45
+bc546-d,ON Semiconductor,BC547A,dc_gain_min,110
+bc546-d,ON Semiconductor,BC547A,min_op_temp,150
+bc546-d,ON Semiconductor,BC547A,max_op_temp,150
+bc546-d,ON Semiconductor,BC547A,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547A,pwr_max,500
+bc546-d,ON Semiconductor,BC547A,freq_transition,300
+bc546-d,ON Semiconductor,BC547A,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547A,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547A,implied_supply_current,100
+bc546-d,ON Semiconductor,BC547A,implied_base_current,5
+bc546-d,ON Semiconductor,BC547A,vce_sat_max,600
+bc546-d,ON Semiconductor,BC548,polarity,NPN
+bc546-d,ON Semiconductor,BC548,c_current_max,100
+bc546-d,ON Semiconductor,BC548,ce_v_max,30
+bc546-d,ON Semiconductor,BC548,dc_gain_min,110
+bc546-d,ON Semiconductor,BC548,min_op_temp,150
+bc546-d,ON Semiconductor,BC548,max_op_temp,150
+bc546-d,ON Semiconductor,BC548,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC548,pwr_max,500
+bc546-d,ON Semiconductor,BC548,freq_transition,300
+bc546-d,ON Semiconductor,BC548,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC548,implied_supply_current,2
+bc546-d,ON Semiconductor,BC548,implied_supply_current,100
+bc546-d,ON Semiconductor,BC548,implied_base_current,5
+bc546-d,ON Semiconductor,BC548,vce_sat_max,600
+bc546-d,ON Semiconductor,BC547ARL,polarity,NPN
+bc546-d,ON Semiconductor,BC547ARL,c_current_max,100
+bc546-d,ON Semiconductor,BC547ARL,ce_v_max,45
+bc546-d,ON Semiconductor,BC547ARL,dc_gain_min,110
+bc546-d,ON Semiconductor,BC547ARL,min_op_temp,-55
+bc546-d,ON Semiconductor,BC547ARL,max_op_temp,150
+bc546-d,ON Semiconductor,BC547ARL,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547ARL,pwr_max,625
+bc546-d,ON Semiconductor,BC547ARL,freq_transition,300
+bc546-d,ON Semiconductor,BC547ARL,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547ARL,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547ARL,implied_supply_current,10
+bc546-d,ON Semiconductor,BC547ARL,implied_base_current,500Âµ
+bc546-d,ON Semiconductor,BC547ARL,vce_sat_max,250
+bc546-d,ON Semiconductor,BC547ARLG,polarity,NPN
+bc546-d,ON Semiconductor,BC547ARLG,c_current_max,100
+bc546-d,ON Semiconductor,BC547ARLG,ce_v_max,45
+bc546-d,ON Semiconductor,BC547ARLG,dc_gain_min,110
+bc546-d,ON Semiconductor,BC547ARLG,min_op_temp,-55
+bc546-d,ON Semiconductor,BC547ARLG,max_op_temp,150
+bc546-d,ON Semiconductor,BC547ARLG,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547ARLG,pwr_max,625
+bc546-d,ON Semiconductor,BC547ARLG,freq_transition,300
+bc546-d,ON Semiconductor,BC547ARLG,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547ARLG,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547ARLG,implied_supply_current,10
+bc546-d,ON Semiconductor,BC547ARLG,implied_base_current,500Âµ
+bc546-d,ON Semiconductor,BC547ARLG,vce_sat_max,250
+bc546-d,ON Semiconductor,BC547AZL1G,polarity,NPN
+bc546-d,ON Semiconductor,BC547AZL1G,c_current_max,100
+bc546-d,ON Semiconductor,BC547AZL1G,ce_v_max,45
+bc546-d,ON Semiconductor,BC547AZL1G,dc_gain_min,110
+bc546-d,ON Semiconductor,BC547AZL1G,min_op_temp,-55
+bc546-d,ON Semiconductor,BC547AZL1G,max_op_temp,150
+bc546-d,ON Semiconductor,BC547AZL1G,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547AZL1G,pwr_max,625
+bc546-d,ON Semiconductor,BC547AZL1G,freq_transition,300
+bc546-d,ON Semiconductor,BC547AZL1G,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547AZL1G,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547AZL1G,implied_supply_current,10
+bc546-d,ON Semiconductor,BC547AZL1G,implied_base_current,500Âµ
+bc546-d,ON Semiconductor,BC547AZL1G,vce_sat_max,250
+bc546-d,ON Semiconductor,BC547C,polarity,NPN
+bc546-d,ON Semiconductor,BC547C,c_current_max,100
+bc546-d,ON Semiconductor,BC547C,ce_v_max,45
+bc546-d,ON Semiconductor,BC547C,dc_gain_min,420
+bc546-d,ON Semiconductor,BC547C,min_op_temp,-55
+bc546-d,ON Semiconductor,BC547C,max_op_temp,150
+bc546-d,ON Semiconductor,BC547C,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547C,pwr_max,625
+bc546-d,ON Semiconductor,BC547C,freq_transition,300
+bc546-d,ON Semiconductor,BC547C,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547C,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547C,implied_supply_current,10
+bc546-d,ON Semiconductor,BC547C,implied_base_current,500Âµ
+bc546-d,ON Semiconductor,BC547C,vce_sat_max,250
+bc546-d,ON Semiconductor,BC547CG,polarity,NPN
+bc546-d,ON Semiconductor,BC547CG,c_current_max,100
+bc546-d,ON Semiconductor,BC547CG,ce_v_max,45
+bc546-d,ON Semiconductor,BC547CG,dc_gain_min,420
+bc546-d,ON Semiconductor,BC547CG,min_op_temp,-55
+bc546-d,ON Semiconductor,BC547CG,max_op_temp,150
+bc546-d,ON Semiconductor,BC547CG,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547CG,pwr_max,625
+bc546-d,ON Semiconductor,BC547CG,freq_transition,300
+bc546-d,ON Semiconductor,BC547CG,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547CG,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547CG,implied_supply_current,100
+bc546-d,ON Semiconductor,BC547CG,implied_base_current,5
+bc546-d,ON Semiconductor,BC547CG,vce_sat_max,600
+bc546-d,ON Semiconductor,BC548BG,polarity,NPN
+bc546-d,ON Semiconductor,BC548BG,c_current_max,100
+bc546-d,ON Semiconductor,BC548BG,ce_v_max,30
+bc546-d,ON Semiconductor,BC548BG,dc_gain_min,200
+bc546-d,ON Semiconductor,BC548BG,min_op_temp,-55
+bc546-d,ON Semiconductor,BC548BG,max_op_temp,150
+bc546-d,ON Semiconductor,BC548BG,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC548BG,pwr_max,625
+bc546-d,ON Semiconductor,BC548BG,freq_transition,300
+bc546-d,ON Semiconductor,BC548BG,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC548BG,implied_supply_current,2
+bc546-d,ON Semiconductor,BC548BG,implied_supply_current,10
+bc546-d,ON Semiconductor,BC548BG,implied_base_current,500Âµ
+bc546-d,ON Semiconductor,BC548BG,vce_sat_max,250
+bc546-d,ON Semiconductor,BC548CG,polarity,NPN
+bc546-d,ON Semiconductor,BC548CG,c_current_max,100
+bc546-d,ON Semiconductor,BC548CG,ce_v_max,30
+bc546-d,ON Semiconductor,BC548CG,dc_gain_min,420
+bc546-d,ON Semiconductor,BC548CG,min_op_temp,-55
+bc546-d,ON Semiconductor,BC548CG,max_op_temp,150
+bc546-d,ON Semiconductor,BC548CG,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC548CG,pwr_max,625
+bc546-d,ON Semiconductor,BC548CG,freq_transition,300
+bc546-d,ON Semiconductor,BC548CG,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC548CG,implied_supply_current,2
+bc546-d,ON Semiconductor,BC548CG,implied_supply_current,100
+bc546-d,ON Semiconductor,BC548CG,implied_base_current,5
+bc546-d,ON Semiconductor,BC548CG,vce_sat_max,600
+bc546-d,ON Semiconductor,BC548CZL1G,polarity,NPN
+bc546-d,ON Semiconductor,BC548CZL1G,c_current_max,100
+bc546-d,ON Semiconductor,BC548CZL1G,ce_v_max,30
+bc546-d,ON Semiconductor,BC548CZL1G,dc_gain_min,420
+bc546-d,ON Semiconductor,BC548CZL1G,min_op_temp,-55
+bc546-d,ON Semiconductor,BC548CZL1G,max_op_temp,150
+bc546-d,ON Semiconductor,BC548CZL1G,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC548CZL1G,pwr_max,625
+bc546-d,ON Semiconductor,BC548CZL1G,freq_transition,300
+bc546-d,ON Semiconductor,BC548CZL1G,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC548CZL1G,implied_supply_current,2
+bc546-d,ON Semiconductor,BC548CZL1G,implied_supply_current,10
+bc546-d,ON Semiconductor,BC548CZL1G,implied_base_current,500Âµ
+bc546-d,ON Semiconductor,BC548CZL1G,vce_sat_max,250
+bc546-d,ON Semiconductor,BC548B,polarity,NPN
+bc546-d,ON Semiconductor,BC548B,c_current_max,100
+bc546-d,ON Semiconductor,BC548B,ce_v_max,30
+bc546-d,ON Semiconductor,BC548B,dc_gain_min,200
+bc546-d,ON Semiconductor,BC548B,min_op_temp,-55
+bc546-d,ON Semiconductor,BC548B,max_op_temp,150
+bc546-d,ON Semiconductor,BC548B,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC548B,pwr_max,625
+bc546-d,ON Semiconductor,BC548B,freq_transition,300
+bc546-d,ON Semiconductor,BC548B,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC548B,implied_supply_current,2
+bc546-d,ON Semiconductor,BC548B,implied_supply_current,10
+bc546-d,ON Semiconductor,BC548B,implied_base_current,500Âµ
+bc546-d,ON Semiconductor,BC548B,vce_sat_max,250
+bc546-d,ON Semiconductor,BC548C,polarity,NPN
+bc546-d,ON Semiconductor,BC548C,c_current_max,100
+bc546-d,ON Semiconductor,BC548C,ce_v_max,30
+bc546-d,ON Semiconductor,BC548C,dc_gain_min,420
+bc546-d,ON Semiconductor,BC548C,min_op_temp,-55
+bc546-d,ON Semiconductor,BC548C,max_op_temp,150
+bc546-d,ON Semiconductor,BC548C,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC548C,pwr_max,625
+bc546-d,ON Semiconductor,BC548C,freq_transition,300
+bc546-d,ON Semiconductor,BC548C,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC548C,implied_supply_current,2
+bc546-d,ON Semiconductor,BC548C,implied_supply_current,10
+bc546-d,ON Semiconductor,BC548C,implied_base_current,500Âµ
+bc546-d,ON Semiconductor,BC548C,vce_sat_max,250
+bc546-d,ON Semiconductor,BC546BRL1G,polarity,NPN
+bc546-d,ON Semiconductor,BC546BRL1G,c_current_max,100
+bc546-d,ON Semiconductor,BC546BRL1G,ce_v_max,65
+bc546-d,ON Semiconductor,BC546BRL1G,dc_gain_min,200
+bc546-d,ON Semiconductor,BC546BRL1G,min_op_temp,-55
+bc546-d,ON Semiconductor,BC546BRL1G,max_op_temp,150
+bc546-d,ON Semiconductor,BC546BRL1G,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC546BRL1G,pwr_max,625
+bc546-d,ON Semiconductor,BC546BRL1G,freq_transition,300
+bc546-d,ON Semiconductor,BC546BRL1G,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC546BRL1G,implied_supply_current,2
+bc546-d,ON Semiconductor,BC546BRL1G,implied_supply_current,100
+bc546-d,ON Semiconductor,BC546BRL1G,implied_base_current,5
+bc546-d,ON Semiconductor,BC546BRL1G,vce_sat_max,600
+bc546-d,ON Semiconductor,BC548BRL1G,polarity,NPN
+bc546-d,ON Semiconductor,BC548BRL1G,c_current_max,100
+bc546-d,ON Semiconductor,BC548BRL1G,ce_v_max,30
+bc546-d,ON Semiconductor,BC548BRL1G,dc_gain_min,200
+bc546-d,ON Semiconductor,BC548BRL1G,min_op_temp,-55
+bc546-d,ON Semiconductor,BC548BRL1G,max_op_temp,150
+bc546-d,ON Semiconductor,BC548BRL1G,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC548BRL1G,pwr_max,625
+bc546-d,ON Semiconductor,BC548BRL1G,freq_transition,300
+bc546-d,ON Semiconductor,BC548BRL1G,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC548BRL1G,implied_supply_current,2
+bc546-d,ON Semiconductor,BC548BRL1G,implied_supply_current,100
+bc546-d,ON Semiconductor,BC548BRL1G,implied_base_current,5
+bc546-d,ON Semiconductor,BC548BRL1G,vce_sat_max,600
+bc546-d,ON Semiconductor,BC546BZL1G,polarity,NPN
+bc546-d,ON Semiconductor,BC546BZL1G,c_current_max,100
+bc546-d,ON Semiconductor,BC546BZL1G,ce_v_max,65
+bc546-d,ON Semiconductor,BC546BZL1G,dc_gain_min,200
+bc546-d,ON Semiconductor,BC546BZL1G,min_op_temp,-55
+bc546-d,ON Semiconductor,BC546BZL1G,max_op_temp,150
+bc546-d,ON Semiconductor,BC546BZL1G,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC546BZL1G,pwr_max,625
+bc546-d,ON Semiconductor,BC546BZL1G,freq_transition,300
+bc546-d,ON Semiconductor,BC546BZL1G,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC546BZL1G,implied_supply_current,2
+bc546-d,ON Semiconductor,BC546BZL1G,implied_supply_current,100
+bc546-d,ON Semiconductor,BC546BZL1G,implied_base_current,5
+bc546-d,ON Semiconductor,BC546BZL1G,vce_sat_max,600
+bc546-d,ON Semiconductor,BC547BRL1G,polarity,NPN
+bc546-d,ON Semiconductor,BC547BRL1G,c_current_max,100
+bc546-d,ON Semiconductor,BC547BRL1G,ce_v_max,45
+bc546-d,ON Semiconductor,BC547BRL1G,dc_gain_min,200
+bc546-d,ON Semiconductor,BC547BRL1G,min_op_temp,-55
+bc546-d,ON Semiconductor,BC547BRL1G,max_op_temp,150
+bc546-d,ON Semiconductor,BC547BRL1G,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547BRL1G,pwr_max,625
+bc546-d,ON Semiconductor,BC547BRL1G,freq_transition,300
+bc546-d,ON Semiconductor,BC547BRL1G,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547BRL1G,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547BRL1G,implied_supply_current,100
+bc546-d,ON Semiconductor,BC547BRL1G,implied_base_current,5
+bc546-d,ON Semiconductor,BC547BRL1G,vce_sat_max,600
+bc546-d,ON Semiconductor,BC547BZL1G,polarity,NPN
+bc546-d,ON Semiconductor,BC547BZL1G,c_current_max,100
+bc546-d,ON Semiconductor,BC547BZL1G,ce_v_max,45
+bc546-d,ON Semiconductor,BC547BZL1G,dc_gain_min,200
+bc546-d,ON Semiconductor,BC547BZL1G,min_op_temp,-55
+bc546-d,ON Semiconductor,BC547BZL1G,max_op_temp,150
+bc546-d,ON Semiconductor,BC547BZL1G,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547BZL1G,pwr_max,625
+bc546-d,ON Semiconductor,BC547BZL1G,freq_transition,300
+bc546-d,ON Semiconductor,BC547BZL1G,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547BZL1G,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547BZL1G,implied_supply_current,100
+bc546-d,ON Semiconductor,BC547BZL1G,implied_base_current,5
+bc546-d,ON Semiconductor,BC547BZL1G,vce_sat_max,600
+bc546-d,ON Semiconductor,BC547CZL1G,polarity,NPN
+bc546-d,ON Semiconductor,BC547CZL1G,c_current_max,100
+bc546-d,ON Semiconductor,BC547CZL1G,ce_v_max,45
+bc546-d,ON Semiconductor,BC547CZL1G,dc_gain_min,420
+bc546-d,ON Semiconductor,BC547CZL1G,min_op_temp,-55
+bc546-d,ON Semiconductor,BC547CZL1G,max_op_temp,150
+bc546-d,ON Semiconductor,BC547CZL1G,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547CZL1G,pwr_max,625
+bc546-d,ON Semiconductor,BC547CZL1G,freq_transition,300
+bc546-d,ON Semiconductor,BC547CZL1G,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547CZL1G,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547CZL1G,implied_supply_current,100
+bc546-d,ON Semiconductor,BC547CZL1G,implied_base_current,5
+bc546-d,ON Semiconductor,BC547CZL1G,vce_sat_max,600
+bc546-d,ON Semiconductor,BC548BZL1G,polarity,NPN
+bc546-d,ON Semiconductor,BC548BZL1G,c_current_max,100
+bc546-d,ON Semiconductor,BC548BZL1G,ce_v_max,30
+bc546-d,ON Semiconductor,BC548BZL1G,dc_gain_min,200
+bc546-d,ON Semiconductor,BC548BZL1G,min_op_temp,-55
+bc546-d,ON Semiconductor,BC548BZL1G,max_op_temp,150
+bc546-d,ON Semiconductor,BC548BZL1G,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC548BZL1G,pwr_max,625
+bc546-d,ON Semiconductor,BC548BZL1G,freq_transition,300
+bc546-d,ON Semiconductor,BC548BZL1G,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC548BZL1G,implied_supply_current,2
+bc546-d,ON Semiconductor,BC548BZL1G,implied_supply_current,100
+bc546-d,ON Semiconductor,BC548BZL1G,implied_base_current,5
+bc546-d,ON Semiconductor,BC548BZL1G,vce_sat_max,600
+bc546-d,ON Semiconductor,BC547B,polarity,NPN
+bc546-d,ON Semiconductor,BC547B,c_current_max,100
+bc546-d,ON Semiconductor,BC547B,ce_v_max,45
+bc546-d,ON Semiconductor,BC547B,dc_gain_min,200
+bc546-d,ON Semiconductor,BC547B,min_op_temp,150
+bc546-d,ON Semiconductor,BC547B,max_op_temp,150
+bc546-d,ON Semiconductor,BC547B,c_current_cutoff_max,15
+bc546-d,ON Semiconductor,BC547B,pwr_max,500
+bc546-d,ON Semiconductor,BC547B,freq_transition,300
+bc546-d,ON Semiconductor,BC547B,implied_ce_v_max,5
+bc546-d,ON Semiconductor,BC547B,implied_supply_current,2
+bc546-d,ON Semiconductor,BC547B,implied_supply_current,100
+bc546-d,ON Semiconductor,BC547B,implied_base_current,5
+bc546-d,ON Semiconductor,BC547B,vce_sat_max,600

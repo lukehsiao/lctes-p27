@@ -1,0 +1,583 @@
+Filename,Part Family [Y/N],Part Number,Manufacturer,Typical GBP,Typical Supply Current (Quiescent),Min Operating Supply Voltage,Max Operating Supply Voltage,Min Operating Temperature,Max Operating Temperature,Notes,Annotator
+1637fd,Y,LT1637,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-55 C,125 C,,Luke
+1637fd,Y,LT1637C,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,,Luke
+1637fd,Y,LT1637I,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,,Luke
+1637fd,Y,LT1637H,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,125 C,,Luke
+1637fd,Y,LT1637MP,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-55 C,125 C,,Luke
+1637fd,N,LT1637CDD,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,How should we deal with ±1.35 V for supply voltage in the 15 V case? ,Luke
+1637fd,N,LT1637IDD,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,,Luke
+1637fd,N,LT1637CMS8,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,,Luke
+1637fd,N,LT1637IMS8,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,,Luke
+1637fd,N,LT1637CN8,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,,Luke
+1637fd,N,LT1637CS8,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,,Luke
+1637fd,N,LT1637IN8,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,,Luke
+1637fd,N,LT1637IS8,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,85 C,,Luke
+1637fd,N,LT1637HS8,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-40 C,125 C,,Luke
+1637fd,N,LT1637MPS8,Linear Technology,1.1 MHz,230 uA @ 15 V; 190 uA @ 3 V; 190 uA @ 5 V,2.7 V; ±1.35 V,44 V,-55 C,125 C,,Luke
+ad585,Y,AD585,Analog Devices,N/A,N/A,5 V,±18 V,-55 C,125 C,No explicit GBWP? How to reconcile min and max voltage?,Luke
+ad585,N,AD585JP,Analog Devices,N/A,N/A,5 V,±18 V,0 C,70 C,No explicit GBWP?,Luke
+ad585,N,AD585AQ,Analog Devices,N/A,N/A,5 V,±18 V,-25 C,85 C,No explicit GBWP?,Luke
+ad585,N,AD585SQ,Analog Devices,N/A,N/A,5 V,±18 V,-55 C,125 C,No explicit GBWP?,Luke
+ad585,N,AD585SE,Analog Devices,N/A,N/A,5 V,±18 V,-55 C,125 C,No explicit GBWP?,Luke
+ad605,Y,AD605,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,Variable Gain --> No GBWP,Luke
+ad605,Y,AD605A,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,Variable Gain --> No GBWP,Luke
+ad605,Y,AD605B,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,Variable Gain --> No GBWP,Luke
+ad605,N,AD605AN,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605ANZ,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605AR,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605AR-REEL,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605AR-REEL7,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605ARZ,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605AR-RL,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605AR-RL7,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605BN,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605BR,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605BR-REEL,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605BR-REEL7,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605BRZ,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605BRZ-RL,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605BRZ-RL7,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605-EVALZ,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad605,N,AD605ACHIPS,Analog Devices,N/A,18 mA @ 5 V,4.5 V,5.5 V,-40 C,85 C,,Luke
+ad606,Y,AD606,Analog Devices,N/A,13 mA @ 5 V,4.5 V,5.5 V,0 C,70 C,,Luke
+ad606,Y,AD606J,Analog Devices,N/A,13 mA @ 5 V,4.5 V,5.5 V,0 C,70 C,,Luke
+ad606,N,AD606JN,Analog Devices,N/A,13 mA @ 5 V,4.5 V,5.5 V,0 C,70 C,,Luke
+ad606,N,AD606JR,Analog Devices,N/A,13 mA @ 5 V,4.5 V,5.5 V,0 C,70 C,,Luke
+ad606,N,AD606JR-REEL,Analog Devices,N/A,13 mA @ 5 V,4.5 V,5.5 V,0 C,70 C,,Luke
+ad606,N,AD606JR-REEL7,Analog Devices,N/A,13 mA @ 5 V,4.5 V,5.5 V,0 C,70 C,,Luke
+ad606,N,AD606-EB,Analog Devices,N/A,13 mA @ 5 V,4.5 V,5.5 V,0 C,70 C,,Luke
+ad606,N,AD606JCHIPS,Analog Devices,N/A,13 mA @ 5 V,4.5 V,5.5 V,0 C,70 C,,Luke
+ad8209,Y,AD8209,Analog Devices,N/A,1.6 mA @ 5 V,4.5 V,5.5 V,-40 C,150 C,"Have gain and bandwitch, could probably calculate GBWP, but that may be excessive",Luke
+ad8209,Y,AD8209WBRM,Analog Devices,N/A,1.6 mA @ 5 V,4.5 V,5.5 V,-40 C,125 C,,Luke
+ad8209,Y,AD8209WHRM,Analog Devices,N/A,1.6 mA @ 5 V,4.5 V,5.5 V,-40 C,150 C,,Luke
+ad8209,N,AD8209WBRMZ,Analog Devices,N/A,1.6 mA @ 5 V,4.5 V,5.5 V,-40 C,125 C,,Luke
+ad8209,N,AD8209WBRMZ-R7,Analog Devices,N/A,1.6 mA @ 5 V,4.5 V,5.5 V,-40 C,125 C,,Luke
+ad8209,N,AD8209WBRMZ-RL,Analog Devices,N/A,1.6 mA @ 5 V,4.5 V,5.5 V,-40 C,125 C,,Luke
+ad8209,N,AD8209WHRMZ,Analog Devices,N/A,1.6 mA @ 5 V,4.5 V,5.5 V,-40 C,150 C,,Luke
+ad8209,N,AD8209WHRMZ-RL,Analog Devices,N/A,1.6 mA @ 5 V,4.5 V,5.5 V,-40 C,150 C,,Luke
+ad8338,Y,AD8338,Analog Devices,N/A,N/A,3.0 V,5.0 V,-40 C,85 C,"Variable gain, and thus variable supply current",Luke
+ad8338,N,AD8338ACPZ-R7,Analog Devices,N/A,N/A,3.0 V,5.0 V,-40 C,85 C,,Luke
+ad8338,N,AD8338ACPZ-RL,Analog Devices,N/A,N/A,3.0 V,5.0 V,-40 C,85 C,,Luke
+ad8338,N,AD8338-EVALZ,Analog Devices,N/A,N/A,3.0 V,5.0 V,-40 C,85 C,,Luke
+ad8519_8529,Y,AD8519,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,Y,AD8529,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519AKS-REEL7,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519AKSZ-REEL7,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519ART-REEL,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519ART-REEL7,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519ARTZ-REEL,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519ARTZ-REEL7,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519AR,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519AR-REEL,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519AR-REEL7,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519ARZ,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519ARZ-REEL,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8519ARZ-REEL7,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8529AR,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8529AR-REEL,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8529ARZ,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8529ARZ-REEL,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8529ARM-REEL,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8519_8529,N,AD8529ARMZ-REEL,Analog Devices,8 MHz @ 5 V; 6 MHz @ 3 V; 6 MHz @ 2.7 V;,600 uA,2.7 V,12 V; ±6 V,-40 C,125 C,,Luke
+ad8574-ep,Y,AD8574-EP,Analog Devices,1 MHz @ 2.7 V; 1.5 MHz @ 5 V,950 uA @ 2.7 V; 750 uA @ 2.7 V; 850 uA @ 5 V; 1000 uA @ 5 V,2.7 V,6 V; 5.5 V,-55 C,125 C,,Luke
+ad8574-ep,N,AD8574TRU-EP,Analog Devices,1 MHz @ 2.7 V; 1.5 MHz @ 5 V,950 uA @ 2.7 V; 750 uA @ 2.7 V; 850 uA @ 5 V; 1000 uA @ 5 V,2.7 V,6 V; 5.5 V,-55 C,126 C,,Luke
+ad8574-ep,N,AD8574TRU-EP-RL,Analog Devices,1 MHz @ 2.7 V; 1.5 MHz @ 5 V,950 uA @ 2.7 V; 750 uA @ 2.7 V; 850 uA @ 5 V; 1000 uA @ 5 V,2.7 V,6 V; 5.5 V,-55 C,127 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,Y,ADA4691-2,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4691-2ACBZ-R7,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4691-2ACBZ-RL,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4691-2ACPZ-R7,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4691-2ACPZ-RL,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,Y,ADA4691-4,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4691-4ACPZ-R2,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4691-4ACPZ-R7,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4691-4ACPZ-RL,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,Y,ADA4692-2,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4692-2ACPZ-R7,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4692-2ACPZ-RL,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4692-2ARZ,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4692-2ARZ-R7,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4692-2ARZ-RL,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,Y,ADA4692-4,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4692-4ARUZ,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4691-2_4691-4_4692-2_4692-4,N,ADA4692-4ARUZ-RL,Analog Devices,3.6 MHz,165 uA @ 2.7 V; 180 uA @ 5 V,2.7 V,6 V; 5.5 V,-40 C,125 C,,Luke
+ada4855-3,Y,ADA4855-3,Analog Devices,N/A,7.8 mA @ 5 V; 7.5 mA @ 3.3 V,3 V,6 V; 5.5 V,-40 C,105 C,,Luke
+ada4855-3,N,ADA4855-3YCPZ-R2,Analog Devices,N/A,7.8 mA @ 5 V; 7.5 mA @ 3.3 V,3 V,6 V; 5.5 V,-40 C,105 C,,Luke
+ada4855-3,N,ADA4855-3YCPZ-R7,Analog Devices,N/A,7.8 mA @ 5 V; 7.5 mA @ 3.3 V,3 V,6 V; 5.5 V,-40 C,105 C,,Luke
+ada4855-3,N,ADA4855-3YCPZ-RL,Analog Devices,N/A,7.8 mA @ 5 V; 7.5 mA @ 3.3 V,3 V,6 V; 5.5 V,-40 C,105 C,,Luke
+ada4855-3,N,ADA4855-3YCP-EBZ,Analog Devices,N/A,7.8 mA @ 5 V; 7.5 mA @ 3.3 V,3 V,6 V; 5.5 V,-40 C,105 C,,Luke
+amc1100,Y,AMC1100,Texas Instruments,N/A,5.4 mA; 3.8 mA; 4.4 mA,2.7 V,5.5 V,-40 C,105 C,Supply voltage/current is weird (high-side vs low-side). Could probably calculate GBWP,Luke
+amc1100,N,AMC1100DUB,Texas Instruments,N/A,5.4 mA; 3.8 mA; 4.4 mA,2.7 V,5.5 V,-40 C,105 C,,Luke
+amc1100,N,AMC1100BWV,Texas Instruments,N/A,5.4 mA; 3.8 mA; 4.4 mA,2.7 V,5.5 V,-40 C,105 C,,Luke
+clc1200_ds,Y,CLC1200,Exar,N/A,1.3 mA,±2.3 V,±18 V,-40 C,85 C,,Luke
+clc1200_ds,N,CLC1200ISO8X,Exar,N/A,1.3 mA,±2.3 V,±18 V,-40 C,85 C,,Luke
+clc1200_ds,N,CLC1200ISO8MTR,Exar,N/A,1.3 mA,±2.3 V,±18 V,-40 C,85 C,,Luke
+clc1200_ds,N,CLC1200ISO8EVB,Exar,N/A,1.3 mA,±2.3 V,±18 V,-40 C,85 C,,Luke
+clc1200_ds,N,CLC1200IDP8,Exar,N/A,1.3 mA,±2.3 V,±18 V,-40 C,85 C,,Luke
+clc406,Y,CLC406,National Semiconductor,N/A,5.0 mA,N/A,±7 V,-40 C,85 C,,Luke
+clc406,N,CLC406AJP,National Semiconductor,N/A,5.0 mA,N/A,±7 V,-40 C,85 C,,Luke
+clc406,N,CLC406AJE,National Semiconductor,N/A,5.0 mA,N/A,±7 V,-40 C,85 C,,Luke
+clc406,N,CLC406AJM5,National Semiconductor,N/A,5.0 mA,N/A,±7 V,-40 C,85 C,,Luke
+en.cd00000533,Y,LM2902,STMicroelectronics,1.3 MHz,0.8 mA @ 5 V; 0.7 mA @ 5 V; 1.5 mA @ 30 V,3 V,±16 V; 32 V; 30 V,-40 C,125 C,Supply current conditions?,Luke
+en.cd00000533,N,LM2902D,STMicroelectronics,1.3 MHz,0.8 mA @ 5 V; 0.7 mA @ 5 V; 1.5 mA @ 30 V,3 V,±16 V; 32 V; 30 V,-40 C,125 C,,Luke
+en.cd00000533,N,LM2902DT,STMicroelectronics,1.3 MHz,0.8 mA @ 5 V; 0.7 mA @ 5 V; 1.5 mA @ 30 V,3 V,±16 V; 32 V; 30 V,-40 C,125 C,,Luke
+en.cd00000533,N,LM2902PT,STMicroelectronics,1.3 MHz,0.8 mA @ 5 V; 0.7 mA @ 5 V; 1.5 mA @ 30 V,3 V,±16 V; 32 V; 30 V,-40 C,125 C,,Luke
+en.cd00000533,N,LM2902Q4T,STMicroelectronics,1.3 MHz,0.8 mA @ 5 V; 0.7 mA @ 5 V; 1.5 mA @ 30 V,3 V,±16 V; 32 V; 30 V,-40 C,125 C,,Luke
+en.cd00000533,N,LM2902YDT,STMicroelectronics,1.3 MHz,0.8 mA @ 5 V; 0.7 mA @ 5 V; 1.5 mA @ 30 V,3 V,±16 V; 32 V; 30 V,-40 C,125 C,,Luke
+en.cd00000533,N,LM2902YPT,STMicroelectronics,1.3 MHz,0.8 mA @ 5 V; 0.7 mA @ 5 V; 1.5 mA @ 30 V,3 V,±16 V; 32 V; 30 V,-40 C,125 C,,Luke
+en.cd00003182,Y,TS616,STMicroelectronics,N/A,13.5 mA @ ±6 V; 11.5 mA @ ±2.5 V,±2.5 V,±6 V,-40 C,85 C,,Luke
+en.cd00003182,N,TS616IDW,STMicroelectronics,N/A,13.5 mA @ ±6 V; 11.5 mA @ ±2.5 V,±2.5 V,±6 V,-40 C,85 C,,Luke
+en.cd00003182,N,TS616IDWT,STMicroelectronics,N/A,13.5 mA @ ±6 V; 11.5 mA @ ±2.5 V,±2.5 V,±6 V,-40 C,85 C,,Luke
+en.cd00003594,Y,LM2904WH,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,150 C,,Luke
+en.cd00003594,N,LM2904WH-CD1,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,150 C,,Luke
+en.cd00003594,N,LM2904WHDT,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,150 C,,Luke
+en.cd00003594,N,LM2904WHYDT,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,150 C,,Luke
+en.cd00003594,N,LM2904WHYST,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,150 C,,Luke
+en.cd00003601,Y,LM2904W,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,125 C,,Luke
+en.cd00003601,N,LM2904WN,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,125 C,,Luke
+en.cd00003601,N,LM2904WD,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,125 C,,Luke
+en.cd00003601,N,LM2904WDT,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,125 C,,Luke
+en.cd00003601,N,LM2904WPT,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,125 C,,Luke
+en.cd00003601,N,LM2904WYDT,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,125 C,,Luke
+en.cd00003601,N,LM2904WYPT,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,125 C,,Luke
+en.cd00003601,Y,LM2904AW,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,125 C,,Luke
+en.cd00003601,N,LM2904AWYPT,STMicroelectronics,1.1 MHz,0.7 mA @ 5 V,3 V,30 V,-40 C,125 C,,Luke
+en.dm00078379,Y,TSX920,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,N,TSX920ILT,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,Y,TSX921,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,N,TSX921ILT,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,N,TSX921IYLT,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,Y,TSX922,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,N,TSX922IDT,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,N,TSX922IYDT,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,Duplicated in ordering?,Luke
+en.dm00078379,N,TSX922IST,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,N,TSX922IQ2T,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,N,TSX922IYST,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,Y,TSX923,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00078379,N,TSX923IST,STMicroelectronics,9 MHz @ 4.5 V; 10 MHz @ 10 V; 10 MHz @ 16 V;,2.8 mA @ 16 V; 3.1 mA @ 10 V; 2.9 mA @ 4.5 V,4 V,16 V,-40 C,125 C,,Luke
+en.dm00109906,Y,CS70,STMicroelectronics,N/A,200 uA @ 0 V; 300 uA @ 50 mV,2.7 V,5.5 V,-40 C,125 C,space between negative and numbers,Luke
+en.dm00109906,N,CS70P,STMicroelectronics,N/A,200 uA @ 0 V; 300 uA @ 50 mV,2.7 V,5.5 V,-40 C,125 C,,Luke
+hmc914,N,HMC914LP4E,Analog Devices,N/A,47 mA,3 V,3.6 V,-40 C,85 C,,Luke
+lf411,Y,LF411,Texas Instruments,3 MHz,2 mA,±3.5 V,±18 V,N/A,N/A,Typo in datasheet for operating temp? Hard to parse +/- for supply voltage,Luke
+lf411,N,LF411CD,Texas Instruments,3 MHz,2 mA,±3.5 V,±18 V,0 C,70 C,,Luke
+lf411,N,LF411ID,Texas Instruments,3 MHz,2 mA,±3.5 V,±18 V,-40 C,-85 C,Datasheet typo. Probably should be +85,Luke
+lf411,N,LF411CP,Texas Instruments,3 MHz,2 mA,±3.5 V,±18 V,0 C,70 C,,Luke
+lf411,N,LF411IP,Texas Instruments,3 MHz,2 mA,±3.5 V,±18 V,-40 C,-85 C,,Luke
+lf411,N,LF411CDR,Texas Instruments,3 MHz,2 mA,±3.5 V,±18 V,0 C,70 C,,Luke
+lf411,N,LF411IDR,Texas Instruments,3 MHz,2 mA,±3.5 V,±18 V,-40 C,-85 C,,Luke
+lf411,N,LF411CPR,Texas Instruments,3 MHz,2 mA,±3.5 V,±18 V,0 C,70 C,,Luke
+lf411,N,LF411IPR,Texas Instruments,3 MHz,2 mA,±3.5 V,±18 V,-40 C,-85 C,,Luke
+lia100,N,LIA100,Clare,N/A,5 mA,±5 V,±18 V,-40 C,85 C,Digikey error or GBWP?,Luke
+lia100,N,LIA100P,Clare,N/A,5 mA,±5 V,±18 V,-40 C,85 C,,Luke
+lia100,N,LIA100PTR,Clare,N/A,5 mA,±5 V,±18 V,-40 C,85 C,,Luke
+lm2902-q1,Y,LM2902-Q1,Texas Instruments,1.2 MHz,0.7 mA @ 5 V; 1.4 mA @ 26 V,3 V,32 V,-40 C,125 C,Operating voltage in text block,Luke
+lm2902-q1,N,LM2902QDRQ1,Texas Instruments,1.2 MHz,0.7 mA @ 5 V; 1.4 mA @ 26 V,3 V,26 V,-40 C,125 C,,Luke
+lm2902-q1,N,LM2902QPWRQ1,Texas Instruments,1.2 MHz,0.7 mA @ 5 V; 1.4 mA @ 26 V,3 V,26 V,-40 C,125 C,,Luke
+lm2902-q1,N,LM2902KVQDRQ1,Texas Instruments,1.2 MHz,0.7 mA @ 5 V; 1.4 mA @ 26 V,3 V,32 V,-40 C,125 C,,Luke
+lm2902-q1,N,LM2902KVQPWRQ1,Texas Instruments,1.2 MHz,0.7 mA @ 5 V; 1.4 mA @ 26 V,3 V,32 V,-40 C,125 C,,Luke
+lm2902-q1,N,LM2902KAVQDRQ1,Texas Instruments,1.2 MHz,0.7 mA @ 5 V; 1.4 mA @ 26 V,3 V,32 V,-40 C,125 C,,Luke
+lm2902-q1,N,LM2902KAVQPWRQ1,Texas Instruments,1.2 MHz,0.7 mA @ 5 V; 1.4 mA @ 26 V,3 V,32 V,-40 C,125 C,,Luke
+lm7372,Y,LM7372,Texas Instruments,100 MHz @ ±5 V; 120 MHz @ ±15 V,13 mA @ ±15V; 12.4 mA @ ±5 V;,9 V,36 V,-40 C,85 C,,Luke
+lm7372,N,LM7372IMA,Texas Instruments,100 MHz @ ±5 V; 120 MHz @ ±15 V,13 mA @ ±15V; 12.4 mA @ ±5 V;,9 V,36 V,-40 C,85 C,,Luke
+lm7372,N,LM7372IMA/NOPB,Texas Instruments,100 MHz @ ±5 V; 120 MHz @ ±15 V,13 mA @ ±15V; 12.4 mA @ ±5 V;,9 V,36 V,-40 C,85 C,,Luke
+lm7372,N,LM7372IMAZ/NOPB,Texas Instruments,100 MHz @ ±5 V; 120 MHz @ ±15 V,13 mA @ ±15V; 12.4 mA @ ±5 V;,9 V,36 V,-40 C,85 C,,Luke
+lm7372,N,LM7372MR,Texas Instruments,100 MHz @ ±5 V; 120 MHz @ ±15 V,13 mA @ ±15V; 12.4 mA @ ±5 V;,9 V,36 V,-40 C,85 C,,Luke
+lm7372,N,LM7372MR/NOPB,Texas Instruments,100 MHz @ ±5 V; 120 MHz @ ±15 V,13 mA @ ±15V; 12.4 mA @ ±5 V;,9 V,36 V,-40 C,85 C,,Luke
+lm7372,N,LM7372MRX,Texas Instruments,100 MHz @ ±5 V; 120 MHz @ ±15 V,13 mA @ ±15V; 12.4 mA @ ±5 V;,9 V,36 V,-40 C,85 C,,Luke
+lm7372,N,LM7372MRX/NOPB,Texas Instruments,100 MHz @ ±5 V; 120 MHz @ ±15 V,13 mA @ ±15V; 12.4 mA @ ±5 V;,9 V,36 V,-40 C,85 C,,Luke
+lmc6442_april162015,Y,LMC6442,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,Error in Digikey on GBWP?,Luke
+lmc6442_april162015,N,LMC6442AIM,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442IM,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442AIMX,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442IMX,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442AIMM,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442AIMMX,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442IMM,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442IMMX,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442AIMMX,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442IMMX,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442AIN,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,LMC6442IN,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-40 C,85 C,,Luke
+lmc6442_april162015,N,5962-9761301QPA,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-55 C,125 C,,Luke
+lmc6442_april162015,N,5962-9761301QXA,National Semiconductor,9.5 kHz,1.90 uA,1.8 V,11 V,-55 C,125 C,,Luke
+lmc6462_lmc6464,Y,LMC6462,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6462AIM,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6462AIM/NOPB,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6462AIMX/NOPB,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6462AIN,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6462AIN/NOPB,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6462BIM/NOPB,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6462BIMX/NOPB,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6462BIN,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6462BIN/NOPB,Texas Instruments,50 kHz,40 uA @ 5 V; 50 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,Y,LMC6464,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6464AIM,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6464AIM/NOPB,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6464AIMX,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6464AIMX/NOPB,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6464BIM,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6464BIM/NOPB,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6464BIMX,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6464BIN,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lmc6462_lmc6464,N,LMC6464BIN/NOPB,Texas Instruments,50 kHz,80 uA @ 5 V; 90 uA @ 15 V,3.0 V,15.5 V,-40 C,85 C,,Luke
+lme49721,Y,LME49721,Texas Instruments,20 MHz,2.15 mA,2.2 V,5.5 V,-40 C,85 C,,Luke
+lme49721,N,LME49721MA/NOPB,Texas Instruments,20 MHz,2.15 mA,2.2 V,5.5 V,-40 C,85 C,,Luke
+lme49721,N,LME49721MAX/NOPB,Texas Instruments,20 MHz,2.15 mA,2.2 V,5.5 V,-40 C,85 C,,Luke
+lmh6640,Y,LMH6640,Texas Instruments,59 MHz @ 5 V; 62 MHz @ 16 V,3.7 mA @ 5 V; 4 mA @ 16 V,4.5 V,16 V,-40 C,85 C,,Luke
+lmh6640,N,LMH6640MF/NOPB,Texas Instruments,59 MHz @ 5 V; 62 MHz @ 16 V,3.7 mA @ 5 V; 4 mA @ 16 V,4.5 V,16 V,-40 C,85 C,,Luke
+lmh6640,N,LMH6640MFX/NOPB,Texas Instruments,59 MHz @ 5 V; 62 MHz @ 16 V,3.7 mA @ 5 V; 4 mA @ 16 V,4.5 V,16 V,-40 C,85 C,,Luke
+lmh6682,Y,LMH6682,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmh6682,N,LMH6682MA/NOPB,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmh6682,N,LMH6682MAX/NOPB,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmh6682,N,LMH6682MM/NOPB,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmh6682,N,LMH6682MMX/NOPB,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmh6682,Y,LMH6683,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmh6682,N,LMH6683MA/NOPB,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmh6682,N,LMH6683MAX/NOPB,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmh6682,N,LMH6683MT/NOPB,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmh6682,N,LMH6683MTX/NOPB,Texas Instruments,N/A,6.5 mA,3 V,12 V,-40 C,85 C,,Luke
+lmv641,Y,LMV641,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lmv641,N,LMV641MA/NOPB,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lmv641,N,LMV641MAE/NOPB,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lmv641,N,LMV641MAX/NOPB,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lmv641,N,LMV641MF/NOPB,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lmv641,N,LMV641MFE/NOPB,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lmv641,N,LMV641MFX/NOPB,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lmv641,N,LMV641MG/NOPB,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lmv641,N,LMV641MGE/NOPB,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lmv641,N,LMV641MGX/NOPB,Texas Instruments,10 MHz,138 uA @ 2.7 V; 158 uA @ 10 V,2.7 V,12 V,-40 C,125 C,,Luke
+lpv801,Y,LPV801,Texas Instruments, 8 kHz,450 nA,1.6 V,5.5 V,-40 C,125 C,,Luke
+lpv801,N,LPV801DBVR,Texas Instruments, 8 kHz,450 nA,1.6 V,5.5 V,-40 C,125 C,,Luke
+lpv801,N,LPV801DBVT,Texas Instruments, 8 kHz,450 nA,1.6 V,5.5 V,-40 C,125 C,,Luke
+lpv801,Y,LPV802,Texas Instruments, 8 kHz,320 nA,1.6 V,5.5 V,-40 C,125 C,,Luke
+lpv801,N,LPV802DGKR,Texas Instruments, 8 kHz,320 nA,1.6 V,5.5 V,-40 C,125 C,,Luke
+lpv801,N,LPV802DGKT,Texas Instruments, 8 kHz,320 nA,1.6 V,5.5 V,-40 C,125 C,,Luke
+max4289,Y,MAX4289,Maxim,17 kHz,9 uA @ 1 V; 12 uA @ 3 V; 18 uA @ 5.5 V,1.0 V,5.5 V,-40 C,85 C,,Luke
+max4289,N,MAX4289EUT-T,Maxim,17 kHz,9 uA @ 1 V; 12 uA @ 3 V; 18 uA @ 5.5 V,1.0 V,5.5 V,-40 C,85 C,,Luke
+max4289,N,MAX4289ESA,Maxim,17 kHz,9 uA @ 1 V; 12 uA @ 3 V; 18 uA @ 5.5 V,1.0 V,5.5 V,-40 C,85 C,,Luke
+max44244-max44248,Y,MAX44244,Maxim,1 MHz,100 uA,2.7 V,36 V,-40 C,125 C,,Luke
+max44244-max44248,N,MAX44244AUK+,Maxim,1 MHz,100 uA,2.7 V,36 V,-40 C,125 C,,Luke
+max44244-max44248,N,MAX44244AUA+,Maxim,1 MHz,100 uA,2.7 V,36 V,-40 C,125 C,,Luke
+max44244-max44248,Y,MAX44245,Maxim,1 MHz,90 uA,2.7 V,36 V,-40 C,125 C,,Luke
+max44244-max44248,N,MAX44245ASD+,Maxim,1 MHz,90 uA,2.7 V,36 V,-40 C,125 C,,Luke
+max44244-max44248,N,MAX44245AUD+,Maxim,1 MHz,90 uA,2.7 V,36 V,-40 C,125 C,,Luke
+max44244-max44248,Y,MAX44248,Maxim,1 MHz,90 uA,2.7 V,36 V,-40 C,125 C,,Luke
+max44244-max44248,N,MAX44248AUA+,Maxim,1 MHz,90 uA,2.7 V,36 V,-40 C,125 C,,Luke
+max44244-max44248,N,MAX44248ASA+,Maxim,1 MHz,90 uA,2.7 V,36 V,-40 C,125 C,,Luke
+max44260-max44263,Y,MAX44259,Maxim,15 MHz,750 uA,1.8 V,5.5 V,-40 C,125 C,,Luke
+max44260-max44263,N,MAX44259AUK+,Maxim,15 MHz,750 uA,1.8 V,5.5 V,-40 C,125 C,,Luke
+max44260-max44263,Y,MAX44260,Maxim,15 MHz,750 uA,1.8 V,5.5 V,-40 C,125 C,,Luke
+max44260-max44263,N,MAX44260AXT+,Maxim,15 MHz,750 uA,1.8 V,5.5 V,-40 C,125 C,,Luke
+max44260-max44263,N,MAX44260AYT+,Maxim,15 MHz,750 uA,1.8 V,5.5 V,-40 C,125 C,,Luke
+max44260-max44263,Y,MAX44261,Maxim,15 MHz,750 uA,1.8 V,5.5 V,-40 C,125 C,,Luke
+max44260-max44263,N,MAX44261AXT+,Maxim,15 MHz,750 uA,1.8 V,5.5 V,-40 C,125 C,,Luke
+max44260-max44263,Y,MAX44263,Maxim,15 MHz,650 uA,1.8 V,5.5 V,-40 C,125 C,,Luke
+max44260-max44263,N,MAX44263AXA+,Maxim,15 MHz,650 uA,1.8 V,5.5 V,-40 C,125 C,,Luke
+mp39u,N,MP39,Apex,2 MHz,N/A,±15 V,±50 V,-40 C,85 C,,Luke
+mp39u,N,MP39A,Apex,2 MHz,N/A,±15 V,±50 V,-40 C,85 C,,Luke
+muses01,N,MUSES01,NJRC,3.3 MHz,8.5 mA,±9 V,±16 V,-40 C,85 C,,Luke
+onet4201pa,Y,ONET4201PA,Texas Instruments,N/A,35 mA; 27 mA,3 V,3.6 V,-40 C,85 C,,Luke
+onet4201pa,N,ONET4201PARGTR,Texas Instruments,N/A,35 mA; 27 mA,3 V,3.6 V,-40 C,85 C,,Luke
+onet4201pa,N,ONET4201PARGTRG4,Texas Instruments,N/A,35 mA; 27 mA,3 V,3.6 V,-40 C,85 C,,Luke
+onet4201pa,N,ONET4201PARGTT,Texas Instruments,N/A,35 mA; 27 mA,3 V,3.6 V,-40 C,85 C,,Luke
+onet4201pa,N,ONET4201PARGTTG4,Texas Instruments,N/A,35 mA; 27 mA,3 V,3.6 V,-40 C,85 C,,Luke
+opa1654,Y,OPA1652,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1652AID,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1652AIDGK,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1652AIDR,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1652AIDRGR,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1652AIDRGT,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1652AIDGKR,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,Y,OPA1654,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1654AID,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1654AIDR,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1654AIPW,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa1654,N,OPA1654AIPWR,Texas Instruments,18 MHz,2 mA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,85 C,,Luke
+opa191,Y,OPA191,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA191ID,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA191IDBVR,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA191IDBVT,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA191IDGKR,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA191IDGKT,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA191IDR,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,Y,OPA2191,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA2191ID,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA2191DR,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,Y,OPA4191,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA4191ID,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa191,N,OPA4191DR,Texas Instruments,2.5 MHz @ ±4 V; 2.2 MHz @ ±2.25 V,140 uA,4.5 V; ±2.25 V,36 V; ±18 V,-40 C,125 C,,Luke
+opa2317,Y,OPA317,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA317ID,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA317IDBVR,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA317IDBVT,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA317IDCKR,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA317IDCKT,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA317IDR,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,Y,OPA2317,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA2317ID,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA2317IDGKR,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA2317IDGKT,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA2317IDR,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,Y,OPA4317,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA4317ID,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA4317IDR,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA4317IPW,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2317,N,OPA4317IPWR,Texas Instruments,300 kHz,21 uA,1.8 V; ±0.9 V,5.5 V; ±2.25 V,-40 C,125 C,,Luke
+opa2357,Y,OPA357,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa2357,N,OPA357AIDBVR,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa2357,N,OPA357AIDBVRG4,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa2357,N,OPA357AIDBVT,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa2357,N,OPA357AIDBVTG4,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa2357,N,OPA357AIDDA,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,Obsolete,Luke
+opa2357,N,OPA357AIDDAR,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,Obsolete,Luke
+opa2357,Y,OPA2357,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa2357,N,OPA2357AIDGSR,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa2357,N,OPA2357AIDGSRG4,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa2357,N,OPA2357AIDGST,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa2357,N,OPA2357AIDGSTG4,Texas Instruments,100 MHz,4.9 mA,2.5 V,5.5 V,-40 C,125 C,,Luke
+opa363,Y,OPA363,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363AID,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363AIDBVR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363AIDBVRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363AIDBVT,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363AIDBVTG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363ID,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363IDBVR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363IDBVRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363IDBVT,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363IDBVTG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA363IDG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,Y,OPA2363,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2363AIDGSR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2363AIDGST,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2363AIDGSTG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2363AIRSVR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2363IDGSR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2363IDGST,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2363IDGSTG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,Y,OPA364,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364AID,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364AIDBVR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364AIDBVRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364AIDBVT,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364AIDBVTG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364AIDR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364ID,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364IDBVR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364IDBVRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364IDBVT,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364IDBVTG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364IDG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364IDR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA364IDRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,Y,OPA2364,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364AID,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364AIDG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364AIDGKR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364AIDGKRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364AIDGKT,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364AIDGKTG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364AIDR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364AIDRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364ID,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364IDG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364IDGKR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364IDGKRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364IDGKT,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364IDGKTG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364IDR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA2364IDRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,Y,OPA4364,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA4364AID,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA4364AIDG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA4364AIDR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA4364AIDRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA4364AIPWR,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA4364AIPWRG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA4364AIPWT,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+opa363,N,OPA4364AIPWTG4,Texas Instruments,7 MHz,650 uA @ 1.8 V; 850 uA @ 3.6 V; 1.1 mA @ 5.5 V,1.8 V,5.5 V,-40 C,125 C,,Luke
+rcv420,Y,RCV420,Burr-Brown,150 kHz,3 mA,-5 V; 11.4 V,±18 V,0 C,70 C,Not sure how to read voltage range,Luke
+rcv420,N,RCV420KP,Burr-Brown,150 kHz,3 mA,-5 V; 11.4 V,±18 V,0 C,70 C,,Luke
+rcv420,N,RCV420JP,Burr-Brown,150 kHz,3 mA,-5 V; 11.4 V,±18 V,0 C,70 C,,Luke
+ths3001,Y,THS3001,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,N/A,N/A,-40 C,85 C,Error Digikey? I don't see a GBWP on the datasheet.,Luke
+ths3001,N,THS3001CD,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths3001,N,THS3001CDG4,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths3001,N,THS3001CDGN,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths3001,N,THS3001CDGNG4,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths3001,N,THS3001CDGNR,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths3001,N,THS3001CDR,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths3001,N,THS3001CDRG4,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths3001,N,THS3001HVCDGN,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,37 V; ±18.5 V,0 C,70 C,,Luke
+ths3001,N,THS3001HVIDGN,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,37 V; ±18.5 V,-40 C,85 C,,Luke
+ths3001,N,THS3001HVIDVNG4,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,37 V; ±18.5 V,-40 C,85 C,,Luke
+ths3001,N,THS3001ID,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths3001,N,THS3001IDG4,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths3001,N,THS3001IDGN,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths3001,N,THS3001IDGNG4,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths3001,N,THS3001IDGNR,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths3001,N,THS3001IDR,Texas Instruments,N/A,5.5 mA @ ±5 V; 6.6 mA @ ±15 V; 6.9 mA @ ±18.5 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,Y,THS4061,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,N/A,N/A,,Luke
+ths4062,N,THS4061CD,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4061CDG4,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4061CDGN,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4061CDGNR,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4061CDR,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4061ID,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4061IDG4,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4061IDGNR,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4061IDR,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4061IDRG4,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4061MFKB,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-55 C,125 C,,Luke
+ths4062,N,THS4061MJG,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-55 C,125 C,,Luke
+ths4062,N,THS4061MJGB,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-55 C,125 C,,Luke
+ths4062,Y,THS4062,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,N/A,N/A,,Luke
+ths4062,N,THS4062CD,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4062CDG4,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4062CDGN,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4062CDGNG4,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4062CDR,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4062CDRG4,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,0 C,70 C,,Luke
+ths4062,N,THS4062ID,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4062IDG4,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4062IDGN,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4062IDGNR,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4062IDGNRG4,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,THS4062IDR,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-40 C,85 C,,Luke
+ths4062,N,5962-9960101Q2A,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-55 C,125 C,,Luke
+ths4062,N,5962-9960101QPA,Texas Instruments,N/A,7.3 mA @ ±5 V; 7.8 mA @ ±15 V,9 V; ±4.5 V,32 V; ±16 V,-55 C,125 C,,Luke
+ths4211,Y,THS4211,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211D,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DG4,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DGK,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DGKR,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DGN,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DGNR,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DGNRG4,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DR,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DRBR,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DRBT,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DRBTG4,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4211DRG4,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,Y,THS4215,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4215D,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4215DR,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4215DGK,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4215DGKR,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4215DGN,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4215DRBR,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4215DRBT,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4211,N,THS4215DGNR,Texas Instruments,350 MHz @ ±5 V; 300 MHz @ 5 V,N/A,5 V; ±2.5 V,15 V; ±7.5 V,-40 C,85 C,,Luke
+ths4271-ep,Y,THS4271-EP,Texas Instruments,400 MHz @ ±5 V; 350 MHz @ 5 V,N/A,5 V; ±2.5 V,10 V; ±5 V,-55 C,125 C,,Luke
+ths4271-ep,N,THS4271MDGNTEP,Texas Instruments,400 MHz @ ±5 V; 350 MHz @ 5 V,N/A,5 V; ±2.5 V,10 V; ±5 V,-55 C,125 C,,Luke
+ths4271-ep,N,THS4271MDGNREP,Texas Instruments,400 MHz @ ±5 V; 350 MHz @ 5 V,N/A,5 V; ±2.5 V,10 V; ±5 V,-55 C,125 C,,Luke
+ths4271-ep,N,V62/05610-01YE,Texas Instruments,400 MHz @ ±5 V; 350 MHz @ 5 V,N/A,5 V; ±2.5 V,10 V; ±5 V,-55 C,125 C,,Luke
+tl051,N,TL051ACD,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.7 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.8 MHz @ ±15 V,2.6 mA @ ±5 V; 2.7 mA @ ±5 V; 2.6 mA @ ±5 V; 2.7 mA @ ±15 V; 2.8 mA @ ±15 V; 2.7 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL051ACDG4,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.7 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.8 MHz @ ±15 V,2.6 mA @ ±5 V; 2.7 mA @ ±5 V; 2.6 mA @ ±5 V; 2.7 mA @ ±15 V; 2.8 mA @ ±15 V; 2.7 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL051ACP,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.7 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.8 MHz @ ±15 V,2.6 mA @ ±5 V; 2.7 mA @ ±5 V; 2.6 mA @ ±5 V; 2.7 mA @ ±15 V; 2.8 mA @ ±15 V; 2.7 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL051AID,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.7 MHz @ ±15 V,2.6 mA @ ±5 V; 2.4 mA @ ±5 V; 2.5 mA @ ±5 V; 2.7 mA @ ±15 V; 2.6 mA @ ±15 V; 2.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,obsolete,Luke
+tl051,N,TL051AIP,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.7 MHz @ ±15 V,2.6 mA @ ±5 V; 2.4 mA @ ±5 V; 2.5 mA @ ±5 V; 2.7 mA @ ±15 V; 2.6 mA @ ±15 V; 2.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,obsolete,Luke
+tl051,N,TL051CD,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.7 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.8 MHz @ ±15 V,2.6 mA @ ±5 V; 2.7 mA @ ±5 V; 2.6 mA @ ±5 V; 2.7 mA @ ±15 V; 2.8 mA @ ±15 V; 2.7 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL051CDR,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.7 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.8 MHz @ ±15 V,2.6 mA @ ±5 V; 2.7 mA @ ±5 V; 2.6 mA @ ±5 V; 2.7 mA @ ±15 V; 2.8 mA @ ±15 V; 2.7 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL051CDRG4,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.7 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.8 MHz @ ±15 V,2.6 mA @ ±5 V; 2.7 mA @ ±5 V; 2.6 mA @ ±5 V; 2.7 mA @ ±15 V; 2.8 mA @ ±15 V; 2.7 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL051CP,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.7 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.8 MHz @ ±15 V,2.6 mA @ ±5 V; 2.7 mA @ ±5 V; 2.6 mA @ ±5 V; 2.7 mA @ ±15 V; 2.8 mA @ ±15 V; 2.7 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL051CPE4,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.7 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.8 MHz @ ±15 V,2.6 mA @ ±5 V; 2.7 mA @ ±5 V; 2.6 mA @ ±5 V; 2.7 mA @ ±15 V; 2.8 mA @ ±15 V; 2.7 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL051ID,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.7 MHz @ ±15 V,2.6 mA @ ±5 V; 2.4 mA @ ±5 V; 2.5 mA @ ±5 V; 2.7 mA @ ±15 V; 2.6 mA @ ±15 V; 2.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,obsolete,Luke
+tl051,N,TL051IDR,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.7 MHz @ ±15 V,2.6 mA @ ±5 V; 2.4 mA @ ±5 V; 2.5 mA @ ±5 V; 2.7 mA @ ±15 V; 2.6 mA @ ±15 V; 2.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,obsolete,Luke
+tl051,N,TL051IP,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3.1 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.7 MHz @ ±15 V,2.6 mA @ ±5 V; 2.4 mA @ ±5 V; 2.5 mA @ ±5 V; 2.7 mA @ ±15 V; 2.6 mA @ ±15 V; 2.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,obsolete,Luke
+tl051,N,TL052ACD,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052ACDG4,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052ACDR,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052ACDRG4,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052ACP,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052ACPE4,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052AID,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052AIDE4,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052AIDG4,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052AIDR,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052AIP,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052AMFKB,Texas Instruments,N/A,N/A,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,N,TL052AMJGB,Texas Instruments,N/A,N/A,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,N,TL052CD,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052CDG4,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052CDR,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052CDRE4,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052CDRG4,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052CP,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052CPSR,Texas Instruments,3 MHz @ ±5 V; 3.2 MHz @ ±5 V; 2.6 MHz @ ±5 V; 3 MHz @ ±15 V; 3.2 MHz @ ±15 V; 2.7 MHz @ ±15 V,4.6 mA @ ±5 V; 4.7 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.8 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL052ID,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052IDG4,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052IDR,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052IDRE4,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052IP,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052IPE4,Texas Instruments,3 MHz @ ±5 V; 3.5 MHz @ ±5 V; 2.5 MHz @ ±5 V; 3 MHz @ ±15 V; 3.6 MHz @ ±15 V; 2.6 MHz @ ±15 V,4.6 mA @ ±5 V; 4.5 mA @ ±5 V; 4.4 mA @ ±5 V; 4.8 mA @ ±15 V; 4.7 mA @ ±15 V; 4.6 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL052MFKB,Texas Instruments,N/A,N/A,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,N,TL052MJG,Texas Instruments,N/A,N/A,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,N,TL052MJGB,Texas Instruments,N/A,N/A,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,N,TL054ACD,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054ACDE4,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054ACDG4,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054ACDR,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054ACN,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054AID,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054AIDG4,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054AIDR,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054AIDRE4,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054AIN,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054AMFKB,Texas Instruments,N/A,N/A,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,N,TL054AMJB,Texas Instruments,N/A,N/A,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,N,TL054CD,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054CDBR,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054CDE4,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054CDR,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054CDRG4,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054CN,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054CNE4,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054CNSR,Texas Instruments,2.7 MHz @ ±5 V; 3 MHz @ ±5 V; 2.4 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 8.2 mA @ ±5 V; 7.9 mA @ ±5 V; 8.4 mA @ ±15 V; 8.5 mA @ ±15 V; 8.2 mA @ ±15 V,±5 V,±15 V,0 C,70 C,,Luke
+tl051,N,TL054ID,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054IDE4,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054IDG4,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054IDR,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054IDRG4,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054IN,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-40 C,85 C,,Luke
+tl051,N,TL054INMJB,Texas Instruments,2.7 MHz @ ±5 V; 3.3 MHz @ ±5 V; 2.3 MHz @ ±5 V; 2.7 MHz @ ±15 V; 3.3 MHz @ ±15 V; 2.4 MHz @ ±15 V,8.1 mA @ ±5 V; 7.9 mA @ ±5 V; 7.6 mA @ ±5 V; 8.4 mA @ ±15 V; 8.2 mA @ ±15 V; 7.9 mA @ ±15 V,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,N,TL054MFKB,Texas Instruments,N/A,N/A,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,N,TL054MJ,Texas Instruments,N/A,N/A,±5 V,±15 V,-55 C,125 C,obsolete,Luke
+tl051,Y,TL05x,Texas Instruments,N/A,N/A,±5 V,±15 V,N/A,N/A,,Luke
+tl051,Y,TL05xA,Texas Instruments,N/A,N/A,±5 V,±15 V,N/A,N/A,,Luke
+tle2021-q1,Y,TLE202x-Q1,Texas Instruments,N/A,N/A,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,Y,TLE202xA-Q1,Texas Instruments,N/A,N/A,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2021AQDRG4Q1,Texas Instruments,1.2 MHz @ 5 V; 2 MHz @ ±15 V,170 uA @ 5 V; 200 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2021AQDRQ1,Texas Instruments,1.2 MHz @ 5 V; 2 MHz @ ±15 V,170 uA @ 5 V; 200 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2021AQPWRQ1,Texas Instruments,1.2 MHz @ 5 V; 2 MHz @ ±15 V,170 uA @ 5 V; 200 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2021QDRG4Q1,Texas Instruments,1.2 MHz @ 5 V; 2 MHz @ ±15 V,170 uA @ 5 V; 200 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2021QDRQ1,Texas Instruments,1.2 MHz @ 5 V; 2 MHz @ ±15 V,170 uA @ 5 V; 200 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2021QPWRQ,Texas Instruments,1.2 MHz @ 5 V; 2 MHz @ ±15 V,170 uA @ 5 V; 200 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2022AQDRG4Q1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,450 uA @ 5 V; 550 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2022AQDRQ1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,450 uA @ 5 V; 550 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2022AQPWRQ1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,450 uA @ 5 V; 550 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2022QDRG4Q1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,450 uA @ 5 V; 550 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2022QDRQ1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,450 uA @ 5 V; 550 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2022QPWRQ1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,450 uA @ 5 V; 550 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2024AQDWRG4Q1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,800 uA @ 5 V; 1050 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2024AQDWRQ1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,800 uA @ 5 V; 1050 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2024QDWRG4Q1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,800 uA @ 5 V; 1050 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tle2021-q1,N,TLE2024QDWRQQ1,Texas Instruments,1.7 MHz @ 5 V; 2.8 MHz @ ±15 V,800 uA @ 5 V; 1050 uA @ 15 V,±2 V,±20 V,-40 C,125 C,,Luke
+tlv2322,Y,TLV2322,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,Y,TLV2322Y,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,Y,TLV2324,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,Y,TLV2324Y,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2322ID,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2322IDR,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV232IDRG4,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2322IP,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2322IPW,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2322IPWLE,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,obsolete,Luke
+tlv2322,N,TLV2322IPWR,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2324ID,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2324IDG4,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2324IDR,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2324IN,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2324IPW,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2324IPWLE,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,obsolete,Luke
+tlv2322,N,TLV2324IPWR,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2324Y,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,24 uA @ 3V; 39 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke
+tlv2322,N,TLV2322Y,Texas Instruments,27 kHz @ 3 V; 85 kHz @ 5 V; 21 kHz @ 3 V; 55 kHz @ 5 V,12 uA @ 3V; 20 uA @ 5 V,2 V,8 V,-40 C,85 C,,Luke

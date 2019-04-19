@@ -1,0 +1,210 @@
+Type:,Filename:,Part:,Our Vals:,Notes:,Discrepancy Type:,Discrepancy Notes:,Annotator:
+FP,BC546-D,BC548,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,DIODS13249-1,BC817-40,25,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30,80,Gold vals: ['40'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C-BP-HF,60,Gold vals: ['100'],Invalid value.,,Bot
+FP,BC546-D,BC547BG,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC547CZL1G,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B-BP,60,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A-BP,100,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B-BP,60,Gold vals: ['80'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC547A,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C,60,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A-BP,80,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A-BP-HF,220,Gold vals: ['60'],Invalid value.,,Bot
+FP,ONSEMICONDUCTOR_MMBTA92LT1G,SMMBTA92LT3G,200,Gold vals: ['300'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C,220,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30,100,Gold vals: ['40'],Invalid value.,,Bot
+FP,DIODS13249-1,BC818-40,45,Gold vals: ['25'],Invalid value.,,Bot
+FP,DIODS13249-1,BC817,25,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC546BG,30,Gold vals: ['65'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C-BP-HF,220,Gold vals: ['100'],Invalid value.,,Bot
+FP,BC546-D,BC547ARL,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC547AZL1G,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC548C,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A,80,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B-BP-HF,100,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B,220,Gold vals: ['80'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC546B,30,Gold vals: ['65'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC548C,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A-BP-HF,220,Gold vals: ['60'],Invalid value.,,Bot
+FP,BC546-D,BC546B,45,Gold vals: ['65'],Invalid value.,,Bot
+FP,ONSEMICONDUCTOR_MJE18004D2G,MJE18004D2G,100,Gold vals: ['450'],Invalid value.,,Bot
+FP,DIODS13249-1,BC817-25,25,Gold vals: ['45'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC546B,45,Gold vals: ['65'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B-BP,220,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29,80,Gold vals: ['40'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B-BP-HF,40,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A-BP,40,Gold vals: ['60'],Invalid value.,,Bot
+FP,BC546-D,BC547A,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC546BRL1G,45,Gold vals: ['65'],Invalid value.,,Bot
+FP,BC546-D,BC548,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC546,45,Gold vals: ['65'],Invalid value.,,Bot
+FP,BC546-D,BC547BRL1G,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC548A,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC548C,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,BC546-D,BC548B,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B-BP-HF,100,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B,60,Gold vals: ['80'],Invalid value.,,Bot
+FP,BC546-D,BC546BRL1,30,Gold vals: ['65'],Invalid value.,,Bot
+FP,BC546-D,BC548C,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C-BP,220,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C-BP,60,Gold vals: ['100'],Invalid value.,,Bot
+FP,DIODS13249-1,BC818-16,45,Gold vals: ['25'],Invalid value.,,Bot
+FP,BC546-D,BC547A,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,DIODESINCORPORATED_ZXTP23140BFHTA,ZXTP23140BFHTA,140,Gold vals: ['160'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B-BP-HF,220,Gold vals: ['80'],Invalid value.,,Bot
+FP,BC546-D,BC546BZL1G,45,Gold vals: ['65'],Invalid value.,,Bot
+FP,DIODESINCORPORATED_ZTX603STZ,ZTX602,80,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C,220,Gold vals: ['100'],Invalid value.,,Bot
+FP,BC546-D,BC548B,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C,60,Gold vals: ['100'],Invalid value.,,Bot
+FP,2N4123-D,2N4124,30,Gold vals: ['25'],Invalid value.,,Bot
+FP,BC546-D,BC546BG,45,Gold vals: ['65'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B-BP,100,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B,40,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30,60,Gold vals: ['40'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC548A,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A-BP-HF,100,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A,80,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C-BP,60,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C-BP,220,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C-BP-HF,40,Gold vals: ['100'],Invalid value.,,Bot
+FP,BC546-D,BC546BRL1,45,Gold vals: ['65'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B-BP,40,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C,80,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C-BP-HF,80,Gold vals: ['100'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC548,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A-BP-HF,40,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A,40,Gold vals: ['60'],Invalid value.,,Bot
+FP,BC546-D,BC547ARLG,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC547BRL1G,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,ONSEMICONDUCTOR_MMBTA92LT1G,SMMBTA92LT1G,200,Gold vals: ['300'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C-BP-HF,40,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A-BP,220,Gold vals: ['60'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC548B,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,DIODS13249-1,BC818-25,45,Gold vals: ['25'],Invalid value.,,Bot
+FP,BC546-D,BC547B,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,ONSEMICONDUCTOR_MMBTA92LT1G,MMBTA93LT1G,300,Gold vals: ['200'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30,220,Gold vals: ['40'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC548,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B-BP,40,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B,100,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A,100,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B-BP-HF,60,Gold vals: ['80'],Invalid value.,,Bot
+FP,BC546-D,BC546,30,Gold vals: ['65'],Invalid value.,,Bot
+FP,BC546-D,BC547BZL1G,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC548CG,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29,60,Gold vals: ['40'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B-BP-HF,60,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29,220,Gold vals: ['40'],Invalid value.,,Bot
+FP,BC546-D,BC548BG,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A-BP,220,Gold vals: ['60'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC547,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,ONSEMICONDUCTOR_MMBTA92LT1G,MMBTA93L,300,Gold vals: ['200'],Invalid value.,,Bot
+FP,BC546-D,BC546BRL1G,30,Gold vals: ['65'],Invalid value.,,Bot
+FP,DIODESINCORPORATED_ZTX603STZ,ZTX603,60,Gold vals: ['80'],Invalid value.,,Bot
+FP,2N4123-D,2N4123,25,Gold vals: ['30'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC548B,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,BC546-D,BC546BZL1G,30,Gold vals: ['65'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B-BP,100,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A,220,Gold vals: ['60'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC547B,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C-BP-HF,80,Gold vals: ['100'],Invalid value.,,Bot
+FP,ONSEMICONDUCTOR_BUL45D2,BUL45D2G,100,Gold vals: ['400'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A-BP-HF,80,Gold vals: ['60'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC546A,30,Gold vals: ['65'],Invalid value.,,Bot
+FP,BC546-D,BC548BRL1G,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C,40,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A-BP-HF,80,Gold vals: ['60'],Invalid value.,,Bot
+FP,BC546-D,BC547B,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC548BG,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC546A,45,Gold vals: ['65'],Invalid value.,,Bot
+FP,BC546-D,BC546,45,Gold vals: ['65'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC547C,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C,80,Gold vals: ['100'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC547,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC547ARLG,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC548CG,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,2N4123-D,2N4123RLRM,25,Gold vals: ['30'],Invalid value.,,Bot
+FP,BC546-D,BC548CZL1G,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A-BP-HF,40,Gold vals: ['60'],Invalid value.,,Bot
+FP,BC546-D,BC547C,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC548BZL1G,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,BC546-D,BC546B,30,Gold vals: ['65'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C-BP,80,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B,40,Gold vals: ['80'],Invalid value.,,Bot
+FP,ONSEMICONDUCTOR_MMBTA92LT1G,MMBTA92LT3G,200,Gold vals: ['300'],Invalid value.,,Bot
+FP,DIODESINCORPORATED_ZXTP23140BFHTA,ZXTP23140BFH,140,Gold vals: ['160'],Invalid value.,,Bot
+FP,BC546-D,BC548BRL1G,45,Gold vals: ['30'],Invalid value.,,Bot
+FP,BC546-D,BC547BG,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B-BP-HF,220,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C-BP,40,Gold vals: ['100'],Invalid value.,,Bot
+FP,ONSEMICONDUCTOR_MMBTA92LT1G,MMBTA92LT1G,200,Gold vals: ['300'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C-BP-HF,220,Gold vals: ['100'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC547A,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC547BZL1G,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,ONSEMICONDUCTOR_MMBTA92LT1G,MMBTA92L,200,Gold vals: ['300'],Invalid value.,,Bot
+FP,DIODS13249-1,BC818,45,Gold vals: ['25'],Invalid value.,,Bot
+FP,DIODS13249-1,BC817-16,25,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A-BP-HF,100,Gold vals: ['60'],Invalid value.,,Bot
+FP,BC546-D,BC548BZL1G,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B-BP,220,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A,100,Gold vals: ['60'],Invalid value.,,Bot
+FP,BC546-D,BC547ARL,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,BC546-D,BC547AZL1G,30,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A-BP,40,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A,220,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B,60,Gold vals: ['80'],Invalid value.,,Bot
+FP,BC546-D,BC548CZL1G,65,Gold vals: ['30'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC547C,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C-BP,80,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29,100,Gold vals: ['40'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C-BP,40,Gold vals: ['100'],Invalid value.,,Bot
+FP,BC546-D,BC547CG,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B,100,Gold vals: ['80'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC546,30,Gold vals: ['65'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A-BP,80,Gold vals: ['60'],Invalid value.,,Bot
+FP,CSEMS05382-1,BC547B,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30B-BP-HF,40,Gold vals: ['80'],Invalid value.,,Bot
+FP,BC546-D,BC547,65,Gold vals: ['45'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29A-BP,100,Gold vals: ['60'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29B,220,Gold vals: ['80'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP29C,40,Gold vals: ['100'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30C-BP-HF,60,Gold vals: ['100'],Invalid value.,,Bot
+FP,SANKEN_STD01N,STD01P,30,Gold vals: ['150'],Invalid value.,,Bot
+FP,SANKEN_STD01N,STD01N,30,Gold vals: ['150'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_TIP29ABP,TIP30A,40,Gold vals: ['60'],Invalid value.,,Bot
+FP,2N4123-D,2N4124G,30,Gold vals: ['25'],Invalid value.,,Bot
+FN,DIODESINCORPORATED_ZXT690BKTC,ZXT690BKQTC,45,Entities do not have doc DIODESINCORPORATED_ZXT690BKTC.,Missing doc.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA64,MPSA66,30,Entities do not have doc CENTRALSEMICONDUCTORCORP_MPSA64.,Missing doc.,,Bot
+FN,TTELECTRONICSOPTEKTECHNOLOGY_2N2222AUATXV,2N2222AUA,50,Entities do not have doc TTELECTRONICSOPTEKTECHNOLOGY_2N2222AUATXV.,Missing doc.,,Bot
+FN,ONSEMICONDUCTOR_MPSA12,MPSA12,20,Entities do not have doc ONSEMICONDUCTOR_MPSA12.,Missing doc.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA42,MPSA42,300,Entities do not have doc CENTRALSEMICONDUCTORCORP_MPSA42.,Missing doc.,,Bot
+FN,TTELECTRONICSOPTEKTECHNOLOGY_2N2222AUATXV,2N2222AUATXV,50,Entities do not have doc TTELECTRONICSOPTEKTECHNOLOGY_2N2222AUATXV.,Missing doc.,,Bot
+FN,DIODESINCORPORATED_ZXTP2008ZTA,ZXTP2008ZTA,30,Entities do not have doc DIODESINCORPORATED_ZXTP2008ZTA.,Missing doc.,,Bot
+FN,DIODESINCORPORATED_ZXT690BKTC,ZXT690BK,45,Entities do not have doc DIODESINCORPORATED_ZXT690BKTC.,Missing doc.,,Bot
+FN,DIODESINCORPORATED_ZXTP23140BFHTA,ZXTP23140BFHTA,160,Entity vals: ['140'],Missing value.,,Bot
+FN,ONSEMICONDUCTOR_MMBTA92LT1G,SMMBTA92L,300,"Entity parts: {'MMBTA92LT3G': ['300', '200'], 'SMMBTA92LT1G': ['200', '300'], 'MMBTA92L': ['300', '200'], 'MMBTA93L': ['300', '200'], 'SMMBTA92LT3G': ['200', '300'], 'MMBTA93LT1G': ['200', '300'], 'MMBTA92LT1G': ['300', '200']}",Missing part.,,Bot
+FN,ONSEMICONDUCTOR_MPSA12,MPSA12RLRAG,20,Entities do not have doc ONSEMICONDUCTOR_MPSA12.,Missing doc.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA64,MPSA64,30,Entities do not have doc CENTRALSEMICONDUCTORCORP_MPSA64.,Missing doc.,,Bot
+FN,ONSEMICONDUCTOR_NSV12100UW3TCG,NSS12100UW3TCG,12,Entities do not have doc ONSEMICONDUCTOR_NSV12100UW3TCG.,Missing doc.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA42,MPSA43,200,Entities do not have doc CENTRALSEMICONDUCTORCORP_MPSA42.,Missing doc.,,Bot
+FN,ONSEMICONDUCTOR_MPSA12,MPSA12G,20,Entities do not have doc ONSEMICONDUCTOR_MPSA12.,Missing doc.,,Bot
+FN,DIODESINCORPORATED_ZXTP23140BFHTA,ZXTP23140BFH,160,Entity vals: ['140'],Missing value.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA64,MPSA63,20,Entities do not have doc CENTRALSEMICONDUCTORCORP_MPSA64.,Missing doc.,,Bot
+FN,ONSEMICONDUCTOR_NSV12100UW3TCG,NSV12100UW3TCG,12,Entities do not have doc ONSEMICONDUCTOR_NSV12100UW3TCG.,Missing doc.,,Bot
+FN,ONSEMICONDUCTOR_MPSA12,MPSA12RLRP,20,Entities do not have doc ONSEMICONDUCTOR_MPSA12.,Missing doc.,,Bot
+FN,DIODESINCORPORATED_ZTX688BSTZ,ZTX688B,12,Entities do not have doc DIODESINCORPORATED_ZTX688BSTZ.,Missing doc.,,Bot
+FN,ONSEMICONDUCTOR_MMBTA06WT1G,SMMBTA06W,80,"Entity parts: {'SMMBTA06WT3G': ['80'], 'MMBTA06WT1G': ['80'], 'MMBTA06W': ['80'], 'SMMBTA06WT1G': ['80']}",Missing part.,,Bot
+FN,TTELECTRONICSOPTEKTECHNOLOGY_2N2222AUATXV,2N2222AUATX,50,Entities do not have doc TTELECTRONICSOPTEKTECHNOLOGY_2N2222AUATXV.,Missing doc.,,Bot
+FN,SANKEN_2SD2082,2SD2082,120,Entities do not have doc SANKEN_2SD2082.,Missing doc.,,Bot
+FN,TTELECTRONICSOPTEKTECHNOLOGY_2N2222AUATXV,2N222AUA,50,Entities do not have doc TTELECTRONICSOPTEKTECHNOLOGY_2N2222AUATXV.,Missing doc.,,Bot
+FN,DIODESINCORPORATED_2DD26527,2DD2652,12,Entities do not have doc DIODESINCORPORATED_2DD26527.,Missing doc.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA64,MPSA65,30,Entities do not have doc CENTRALSEMICONDUCTORCORP_MPSA64.,Missing doc.,,Bot
+FN,ONSEMICONDUCTOR_MPSA12,MPSA12RLRPG,20,Entities do not have doc ONSEMICONDUCTOR_MPSA12.,Missing doc.,,Bot
+FN,DIODESINCORPORATED_2DD26527,2DD2652-7,12,Entities do not have doc DIODESINCORPORATED_2DD26527.,Missing doc.,,Bot
+FN,DIODESINCORPORATED_ZXT690BKTC,ZXT690BKTC,45,Entities do not have doc DIODESINCORPORATED_ZXT690BKTC.,Missing doc.,,Bot
+FN,DIODESINCORPORATED_ZXTP2008ZTA,ZXTP2008Z,30,Entities do not have doc DIODESINCORPORATED_ZXTP2008ZTA.,Missing doc.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA64,MPSA62,20,Entities do not have doc CENTRALSEMICONDUCTORCORP_MPSA64.,Missing doc.,,Bot
+FN,ONSEMICONDUCTOR_MPSA12,MPSA12RLRA,20,Entities do not have doc ONSEMICONDUCTOR_MPSA12.,Missing doc.,,Bot

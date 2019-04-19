@@ -1,0 +1,111 @@
+#!/usr/bin/env python
+
+import argparse
+import logging
+
+from hack.transistors.analysis import main as transistors
+from hack.opamps.analysis import main as opamps
+from hack.transistors.digikey_analysis import main as transistors_digikey
+from hack.opamps.digikey_analysis import main as opamps_digikey
+
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Commandline interface for KB evaluation."
+    )
+
+    parser.add_argument(
+        "--gain", help="Score typical gain bandwidth product.", action="store_true"
+    )
+    parser.add_argument(
+        "--current", help="Score typical supply/quiescent current.", action="store_true"
+    )
+    parser.add_argument("--polarity", action="store_true", help="Score polarity.")
+    parser.add_argument(
+        "--ce-v-max",
+        help="Score maximum collector-emitter voltage.",
+        action="store_true",
+    )
+    parser.add_argument(
+        "--debug",
+        help="Log all scores. Default is to just log analysis scores.",
+        action="store_true",
+    )
+    parser.add_argument(
+        "--num", type=int, help="Number of iterations over threshold (b). Default 100."
+    )
+    parser.add_argument("-v", help="Set INFO level logging.", action="store_true")
+
+    args = parser.parse_args()
+
+    if not any([args.current, args.gain, args.ce_v_max, args.polarity]):
+        raise parser.error("Need to specify at least one relation to score.")
+
+    if args.num:
+        num = args.num
+    else:
+        num = 100
+
+    if args.ce_v_max:
+        logger.info("=" * 65)
+        logger.info(f"Evaluation results for collector emitter voltage max:\n")
+
+        transistors(
+            debug=args.debug,
+            num=num,
+            relation="ce_v_max",
+            devfile="ce_v_max_dev_probs.csv",
+            testfile="ce_v_max_test_probs.csv",
+            outfile="analysis/ce_v_max_analysis_discrepancies.csv",
+        )
+        transistors_digikey(
+            relation="ce_v_max", outfile="analysis/ce_v_max_digikey_discrepancies.csv"
+        )
+
+    if args.polarity:
+        logger.info("=" * 65)
+        logger.info(f"Evaluation results for polarity:\n")
+
+        transistors(
+            relation="polarity",
+            num=num,
+            devfile="polarity_dev_probs.csv",
+            testfile="polarity_test_probs.csv",
+            outfile="analysis/polarity_analysis_discrepancies.csv",
+            debug=args.debug,
+        )
+        transistors_digikey(
+            relation="polarity", outfile="analysis/polarity_digikey_discrepancies.csv"
+        )
+
+    if args.current:
+        logger.info("=" * 65)
+        logger.info(f"Evaluation results for typical supply current:\n")
+
+        opamps(
+            is_gain=False,
+            num=num,
+            debug=args.debug,
+            devfile="current_dev_probs.csv",
+            testfile="current_test_probs.csv",
+            outfile="analysis/current_analysis_discrepancies.csv",
+        )
+        opamps_digikey(is_gain=False)
+
+    if args.gain:
+        logger.info("=" * 65)
+        logger.info(f"Evaluation results for typical gain bandwidth product:\n")
+
+        opamps(
+            is_gain=True,
+            num=num,
+            debug=args.debug,
+            devfile="gain_dev_probs.csv",
+            testfile="gain_test_probs.csv",
+            outfile="analysis/gain_analysis_discrepancies.csv",
+        )
+        opamps_digikey(is_gain=True)

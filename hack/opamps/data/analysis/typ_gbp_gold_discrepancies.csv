@@ -1,0 +1,31 @@
+Type:,Filename:,Our Vals:,Notes:,Discrepancy Type:,Discrepancy Notes:,Annotator:
+FN,LM6211,17 MHz,Entity vals: [Quantity('20 MHz')]
+FN,LF156,20 MHz,Entity vals: [Quantity('5 MHz')]
+FN,NCS20071-D,3 MHz,Entity vals: [Quantity('3.2 MHz')]
+FN,TL051,2.3 MHz,Entity vals: [Quantity('3 MHz')]
+FN,TL051,2.7 MHz,Entity vals: [Quantity('3 MHz')]
+FN,TL051,3.1 MHz,Entity vals: [Quantity('3 MHz')]
+FN,TL051,3.5 MHz,Entity vals: [Quantity('3 MHz')]
+FN,LM7372,100 MHz,Entity vals: [Quantity('120 MHz')]
+FN,OPA625,1 MHz,Entity vals: [Quantity('120 MHz')]
+FN,LF156,2.5 MHz,Entity vals: [Quantity('5 MHz')]
+FN,TL051,2.6 MHz,Entity vals: [Quantity('3 MHz')]
+FN,TL051,2.5 MHz,Entity vals: [Quantity('3 MHz')]
+FN,TL051,3.3 MHz,Entity vals: [Quantity('3 MHz')]
+FN,TLE2141-Q1,5.8 MHz,Entity vals: [Quantity('5.9 MHz')]
+FN,LMC7111,40 kHz,Entity vals: [Quantity('50 kHz')]
+FN,OPA625,800 kHz,Entity vals: [Quantity('120 MHz')]
+FN,TL051,3.6 MHz,Entity vals: [Quantity('3 MHz')]
+FN,TL051,2.4 MHz,Entity vals: [Quantity('3 MHz')]
+FN,TL051,2.8 MHz,Entity vals: [Quantity('3 MHz')]
+FN,TL051,3.2 MHz,Entity vals: [Quantity('3 MHz')]
+FN,OPA191,2.2 MHz,Entity vals: [Quantity('2.5 MHz')]
+FN,TLV274-Q1,2.4 MHz,Entity vals: [Quantity('3 MHz')]
+FP,LM324-N,1.2 MHz,Gold vals: [Quantity('1 MHz')]
+FP,INA211,7 kHz,Gold does not have doc INA211.
+FP,THS3001,1.75 GHz,Gold does not have doc THS3001.
+FP,LM324-D,1 MHz,Gold does not have doc LM324-D.
+FP,INA211,30 kHz,Gold does not have doc INA211.
+FP,INA211,14 kHz,Gold does not have doc INA211.
+FP,INA211,4 kHz,Gold does not have doc INA211.
+FP,INA211,80 kHz,Gold does not have doc INA211.

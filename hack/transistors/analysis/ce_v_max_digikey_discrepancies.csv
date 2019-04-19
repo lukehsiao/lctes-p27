@@ -1,0 +1,79 @@
+Type:,Filename:,Part:,Our Vals:,Notes:,Discrepancy Type:,Discrepancy Notes:,Annotator:
+FN,BC337-D,BC337-40,45,"Entity parts: {'BC337-25ZL1G': ['45'], 'BC337-40ZL1G': ['45'], 'BC337-40RL1G': ['45'], 'BC337G': ['45'], 'BC337RL1G': ['45'], 'BC337-25RLRAG': ['45'], 'BC337-25RL1G': ['45'], 'BC337-040G': ['45'], 'BC337-025G': ['45']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_FMMT634QTA,FMMT634Q,100,Entity parts: {'FMMT634QTA': ['100']},Missing part.,,Bot
+FN,CSEMS05382-1,BC548A,30,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX555TA,FCX555TA,150,Entity vals: ['180'],Missing value.,,Bot
+FN,DIODS13249-1,BC818-40,25,Entity parts: {'BC817-16': ['45']},Missing part.,,Bot
+FN,BC546-D,BC546BRL1,65,"Entity parts: {'BC547A': ['45'], 'BC546BZL1G': ['65'], 'BC548C': ['30'], 'BC546BRL1G': ['65'], 'BC548': ['30'], 'BC547C': ['45'], 'BC547ARL': ['45'], 'BC547BZL1G': ['45'], 'BC547B': ['45'], 'BC547ARLG': ['45'], 'BC547': ['45'], 'BC547CZL1G': ['45'], 'BC546BG': ['65'], 'BC548CZL1G': ['30'], 'BC548BZL1G': ['30'], 'BC547BRL1G': ['45'], 'BC548CG': ['30'], 'BC547AZL1G': ['45'], 'BC548B': ['30'], 'BC547CG': ['45'], 'BC546': ['65'], 'BC548BG': ['30'], 'BC548BRL1G': ['30'], 'BC547BG': ['45']}",Missing part.,,Bot
+FN,CSEMS05382-1,BC548C,30,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FN,ONSEMICONDUCTOR_MMBTA92LT1G,SMMBTA92L,300,"Entity parts: {'SMMBTA92LT1G': ['300'], 'MMBTA92LT3G': ['300'], 'MMBTA92LT1G': ['300'], 'MMBTA93LT1G': ['200'], 'SMMBTA92LT3G': ['300']}",Missing part.,,Bot
+FN,DIODS13249-1,BC817-25,45,Entity parts: {'BC817-16': ['45']},Missing part.,,Bot
+FN,DIODS13249-1,BC818,25,Entity parts: {'BC817-16': ['45']},Missing part.,,Bot
+FN,DIODESINCORPORATED_ZXTP718MATA,ZXTP718MA,20,Entity parts: {'ZXTP718MATA': ['20']},Missing part.,,Bot
+FN,DIODESINCORPORATED_ZXT690BKTC,ZXT690BKQTC,45,Entity parts: {'ZXT690BKTC': ['45']},Missing part.,,Bot
+FN,ONSEMICONDUCTOR_MMBTA06WT1G,MMBTA06W,80,"Entity parts: {'MMBTA06WT1G': ['80'], 'SMMBTA06WT1G': ['80'], 'SMMBTA06WT3G': ['80']}",Missing part.,,Bot
+FN,DIODS13249-1,BC817,45,Entity parts: {'BC817-16': ['45']},Missing part.,,Bot
+FN,CSEMS05382-1,BC547A,45,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FN,DIODESINCORPORATED_2DA1213Y13,2DA1213O,50,"Entity parts: {'2DA1213Y-13': ['50'], '2DA1213O-13': ['50']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_FZT651TC,FZT651,60,"Entity parts: {'FZT651TC': ['60'], 'FZT651TA': ['60']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX491ATA,FCX491AQTA,40,Entity parts: {'FCX491ATA': ['40']},Missing part.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA64,MPSA62,20,"Entity parts: {'MPSA63': ['20'], 'MPSA65': ['30'], 'MPSA64': ['30']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX690BTA,FCX690B,45,Entity parts: {'FCX690BTA': ['45']},Missing part.,,Bot
+FN,2N4123-D,2N4123,30,"Entity parts: {'2N4123RLRM': ['30'], '2N4124G': ['25'], '2N4124': ['25']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_2DD26527,2DD2652,12,Entity parts: {'2DD2652-7': ['12']},Missing part.,,Bot
+FN,DIODESINCORPORATED_ZXTP23140BFHTA,ZXTP23140BFH,160,Entity parts: {'ZXTP23140BFHTA': ['140']},Missing part.,,Bot
+FN,DIODESINCORPORATED_ZXTP23140BFHTA,ZXTP23140BFHTA,160,Entity vals: ['140'],Missing value.,,Bot
+FN,MICROSEMIIREDIVISION_JAN2N918UB,2N918,15,Entity parts: {'2N918UB': ['15']},Missing part.,,Bot
+FN,CSEMS05382-1,BC546B,65,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FN,2N3906-D,2N3906RLRP,40,"Entity parts: {'2N3906RLRAG': ['40'], '2N3906RLRA': ['40'], '2N3906G': ['40'], '2N3906RLRMG': ['40'], '2N3906RL1G': ['40'], '2N3906RLRPG': ['40']}",Missing part.,,Bot
+FN,CSEMS05382-1,BC548,30,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FN,2N3906-D,2N3906RLRM,40,"Entity parts: {'2N3906RLRAG': ['40'], '2N3906RLRA': ['40'], '2N3906G': ['40'], '2N3906RLRMG': ['40'], '2N3906RL1G': ['40'], '2N3906RLRPG': ['40']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX558TA,FCX558,400,Entity parts: {'FCX558TA': ['400']},Missing part.,,Bot
+FN,DIODESINCORPORATED_FMMT597TC,FMMT597,300,Entity parts: {'FMMT597TA': ['300']},Missing part.,,Bot
+FN,DIODESINCORPORATED_ZXTP26020DMFTA,ZXTP26020DMF,20,Entity parts: {'ZXTP26020DMFTA': ['20']},Missing part.,,Bot
+FN,DIODESINCORPORATED_2DA1213Y13,2DA1213Y,50,"Entity parts: {'2DA1213Y-13': ['50'], '2DA1213O-13': ['50']}",Missing part.,,Bot
+FN,MICROCOMMERCIALCO_MPSA92AP,MPSA92,300,Entity parts: {'MPSA92-AP': ['300']},Missing part.,,Bot
+FN,MICROCOMMERCIALCO_MPSA92AP,MPSA92-BP-HF,300,Entity parts: {'MPSA92-AP': ['300']},Missing part.,,Bot
+FN,ONSEMICONDUCTOR_MMBTA06WT1G,SMMBTA06W,80,"Entity parts: {'MMBTA06WT1G': ['80'], 'SMMBTA06WT1G': ['80'], 'SMMBTA06WT3G': ['80']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX705TA,FCX705,120,Entity parts: {'FCX705TA': ['120']},Missing part.,,Bot
+FN,2N3906-D,2N3906RL1,40,"Entity parts: {'2N3906RLRAG': ['40'], '2N3906RLRA': ['40'], '2N3906G': ['40'], '2N3906RLRMG': ['40'], '2N3906RL1G': ['40'], '2N3906RLRPG': ['40']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX495TC,FCX495,150,"Entity parts: {'FCX495TC': ['150'], 'FCX495TA': ['150']}",Missing part.,,Bot
+FN,DIODS13249-1,BC818-25,25,Entity parts: {'BC817-16': ['45']},Missing part.,,Bot
+FN,MICROSEMICORPORATION_2N2484UB,2N2484UBC,60,"Entity parts: {'2N2484UA': ['60'], '2N2484UB': ['60']}",Missing part.,,Bot
+FN,MICROCOMMERCIALCO_MPSA92AP,MPSA92-BP,300,Entity parts: {'MPSA92-AP': ['300']},Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX491ATA,FCX491A,40,Entity parts: {'FCX491ATA': ['40']},Missing part.,,Bot
+FN,CSEMS05382-1,BC546A,65,Entity vals: ['80'],Missing value.,,Bot
+FN,DIODS13249-1,BC817-40,45,Entity parts: {'BC817-16': ['45']},Missing part.,,Bot
+FN,BC546-D,BC546B,65,"Entity parts: {'BC547A': ['45'], 'BC546BZL1G': ['65'], 'BC548C': ['30'], 'BC546BRL1G': ['65'], 'BC548': ['30'], 'BC547C': ['45'], 'BC547ARL': ['45'], 'BC547BZL1G': ['45'], 'BC547B': ['45'], 'BC547ARLG': ['45'], 'BC547': ['45'], 'BC547CZL1G': ['45'], 'BC546BG': ['65'], 'BC548CZL1G': ['30'], 'BC548BZL1G': ['30'], 'BC547BRL1G': ['45'], 'BC548CG': ['30'], 'BC547AZL1G': ['45'], 'BC548B': ['30'], 'BC547CG': ['45'], 'BC546': ['65'], 'BC548BG': ['30'], 'BC548BRL1G': ['30'], 'BC547BG': ['45']}",Missing part.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA42,MPSA43,200,Entity parts: {'MPSA42': ['300']},Missing part.,,Bot
+FN,DIODESINCORPORATED_2DA1213Y13,2DA1213Y-13R,50,"Entity parts: {'2DA1213Y-13': ['50'], '2DA1213O-13': ['50']}",Missing part.,,Bot
+FN,NXPUSAINC_PN2222A116,PN2222A-AP,40,Entity parts: {'PN2222A': ['40']},Missing part.,,Bot
+FN,DIODESINCORPORATED_ZXT690BKTC,ZXT690BK,45,Entity parts: {'ZXT690BKTC': ['45']},Missing part.,,Bot
+FN,ONSEMICONDUCTOR_MMBTA92LT1G,MMBTA93L,200,"Entity parts: {'SMMBTA92LT1G': ['300'], 'MMBTA92LT3G': ['300'], 'MMBTA92LT1G': ['300'], 'MMBTA93LT1G': ['200'], 'SMMBTA92LT3G': ['300']}",Missing part.,,Bot
+FN,MICROCOMMERCIALCO_MPSA92AP,MPSA92-AP-HF,300,Entity parts: {'MPSA92-AP': ['300']},Missing part.,,Bot
+FN,DIODESINCORPORATED_FZT758TC,FZT758,400,Entity parts: {'FZT758TA': ['400']},Missing part.,,Bot
+FN,CSEMS05382-1,BC546,65,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FN,BC818-40LT1-D,NSVBC818-40L,25,"Entity parts: {'NSVBC818-40LT1G': ['25'], 'BC818-40LT1G': ['25']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_DXT790AP513,DXT790AP5,40,Entity parts: {'DXT790AP5-13': ['40']},Missing part.,,Bot
+FN,BC337-D,BC337,45,"Entity parts: {'BC337-25ZL1G': ['45'], 'BC337-40ZL1G': ['45'], 'BC337-40RL1G': ['45'], 'BC337G': ['45'], 'BC337RL1G': ['45'], 'BC337-25RLRAG': ['45'], 'BC337-25RL1G': ['45'], 'BC337-040G': ['45'], 'BC337-025G': ['45']}",Missing part.,,Bot
+FN,CENTRALSEMICONDUCTORCORP_MPSA64,MPSA66,30,"Entity parts: {'MPSA63': ['20'], 'MPSA65': ['30'], 'MPSA64': ['30']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_ZTX603STZ,ZTX602,60,Entity parts: {'ZTX603': ['80']},Missing part.,,Bot
+FN,CSEMS05382-1,BC547C,45,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FN,DIODESINCORPORATED_ZXTN19100CGTA,ZXTN19100CG,100,Entity parts: {'ZXTN19100CGTA': ['100']},Missing part.,,Bot
+FN,ONSEMICONDUCTOR_MMBTA92LT1G,MMBTA92L,300,"Entity parts: {'SMMBTA92LT1G': ['300'], 'MMBTA92LT3G': ['300'], 'MMBTA92LT1G': ['300'], 'MMBTA93LT1G': ['200'], 'SMMBTA92LT3G': ['300']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_ZXTP718MATA,ZXTP718MATC,20,Entity parts: {'ZXTP718MATA': ['20']},Missing part.,,Bot
+FN,BC818-40LT1-D,BC818-40L,25,"Entity parts: {'NSVBC818-40LT1G': ['25'], 'BC818-40LT1G': ['25']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX495TC,FCX495-13R,150,"Entity parts: {'FCX495TC': ['150'], 'FCX495TA': ['150']}",Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX690BTA,FCX690B-13R,45,Entity parts: {'FCX690BTA': ['45']},Missing part.,,Bot
+FN,CSEMS05382-1,BC547,45,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FN,CSEMS05382-1,BC548B,30,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FN,DIODESINCORPORATED_ZXTP2008ZTA,ZXTP2008Z,30,Entity parts: {'ZXTP2008ZTA': ['30']},Missing part.,,Bot
+FN,DIODS13249-1,BC818-16,25,Entity parts: {'BC817-16': ['45']},Missing part.,,Bot
+FN,DIODESINCORPORATED_FCX555TA,FCX555,150,Entity parts: {'FCX555TA': ['180']},Missing part.,,Bot
+FN,2N3906-D,2N3906,40,"Entity parts: {'2N3906RLRAG': ['40'], '2N3906RLRA': ['40'], '2N3906G': ['40'], '2N3906RLRMG': ['40'], '2N3906RL1G': ['40'], '2N3906RLRPG': ['40']}",Missing part.,,Bot
+FN,BC337-D,BC337-25,45,"Entity parts: {'BC337-25ZL1G': ['45'], 'BC337-40ZL1G': ['45'], 'BC337-40RL1G': ['45'], 'BC337G': ['45'], 'BC337RL1G': ['45'], 'BC337-25RLRAG': ['45'], 'BC337-25RL1G': ['45'], 'BC337-040G': ['45'], 'BC337-025G': ['45']}",Missing part.,,Bot
+FN,CSEMS05382-1,BC547B,45,Entity parts: {'BC546A': ['80']},Missing part.,,Bot
+FP,DIODESINCORPORATED_ZXTP23140BFHTA,ZXTP23140BFHTA,140,Gold vals: ['160'],Invalid value.,,Bot
+FP,MICROCOMMERCIALCO_2N3904AP,2N3904-AP,40,Gold does not have doc MICROCOMMERCIALCO_2N3904AP.,Gold is missing doc.,,Bot
+FP,CSEMS05382-1,BC546A,80,Gold vals: ['65'],Invalid value.,,Bot
+FP,DIODESINCORPORATED_FCX555TA,FCX555TA,180,Gold vals: ['150'],Invalid value.,,Bot
