@@ -1,6 +1,6 @@
 dev:
 	pip install -r requirements.txt
-	pip install -e .
+	pip install -e . --no-use-pep517
 	pre-commit install
 
 clean:
