@@ -1,25 +1,15 @@
-# HACK: Automating the generation of HArdware Component Knowledge Bases
+# Automating the Generation of HArdware Component Knowledge Bases (HACK)
 
 ## Dependencies
 
-We use a few applications that you'll need to install and be sure are on your
-PATH.
-
-For OS X using [homebrew](https://brew.sh):
+On Debian-based distros, you'll need to ensure that the following system
+packages are installed.
 
 ```bash
-$ brew install poppler
-$ brew install postgresql
-$ brew install libpng freetype pkg-config
-```
-
-On Debian-based distros:
-
-```bash
+$ sudo apt install build-essential curl
 $ sudo apt install libxml2-dev libxslt-dev python3-dev
 $ sudo apt build-dep python-matplotlib
-$ sudo apt install poppler-utils
-$ sudo apt install postgresql
+$ sudo apt install poppler-utils postgresql virtualenv
 ```
 
 We require `poppler-utils` to be version 0.36.0 or greater (which is already
@@ -67,6 +57,15 @@ Each dataset is already divided into a training, development, and testing set.
 Manually annotated gold labels are provided in CSV form for the development and
 testing sets.
 
+## Setting up PostgreSQL
+
+Make sure you have a PostgreSQL user set up. To create a user named `demo`, who
+has the password `demo`, you can run the following:
+
+```
+$ psql -c "create user demo with password 'demo' superuser createdb;" -U postgres
+```
+
 ## Running End-to-end Knowledge Base Construction
 
 After installing all the requirements, and ensuring the necessary databases
@@ -85,14 +84,18 @@ list of all possible options.
 ### Transistors
 
 To run extraction from 500 train documents, and evaluate the resulting score on
-the test set, you can run the following command. If `--max-docs` is not
-specified, the entire dataset will be parsed. If you have an NVIDIA GPU with
-CUDA support, you can also pass on the index of the GPU to use, e.g., `--gpu=0`.
+the test set, you can run the following command. If you made the demo user, you
+can use `demo` as the `<user>` and `<pw>`, and the default host and port is
+`localhost:5432` for PostgreSQL.
 
 ```bash
-$ createdb transistors
+$ psql -c "create database transistors with owner demo;" -U postgres
 $ transistors --stg-temp-min --stg-temp-max --polarity --ce-v-max --parse --first-time --max-docs 500 --parallel 4 --conn-string="postgresql://<user>:<pw>@<host>:<port>/transistors"
 ```
+
+If `--max-docs` is not specified, the entire dataset will be parsed. If you have
+an NVIDIA GPU with CUDA support, you can also pass on the index of the GPU to
+use, e.g., `--gpu=0`.
 
 #### Output
 This executable will output 5 files.
@@ -112,13 +115,18 @@ This executable will output 5 files.
    later in analysis.
 
 We include these output files from a run on the complete dataset in this
-repository.
-
+repository so that you can run analysis scripts using our results, without
+needing to run end-to-end extraction yourself.
 
 ### Op Amps
 
+To run extraction from 500 train documents, and evaluate the resulting score on
+the test set, you can run the following command. If you made the demo user, you
+can use `demo` as the `<user>` and `<pw>`, and the default host and port is
+`localhost:5432` for PostgreSQL.
+
 ```bash
-$ createdb opamps
+$ psql -c "create database opamps with owner demo;" -U postgres
 $ opamps --gain --current --parse --first-time --max-docs 500 --parallel 4 --conn-string="postgresql://<user>:<pw>@<host>:<port>/opamps"
 ```
 
@@ -150,8 +158,13 @@ repository.
 
 ### Circular Connectors
 
+To run extraction from 500 train documents, and evaluate the resulting score on
+the test set, you can run the following command. If you made the demo user, you
+can use `demo` as the `<user>` and `<pw>`, and the default host and port is
+`localhost:5432` for PostgreSQL.
+
 ```bash
-$ createdb circular_connectors
+$ psql -c "create database circular_connectors with owner demo;" -U postgres
 $ circular_connectors --parse --first-time --max-docs 500 --parallel 4 --conn-string="postgresql://<user>:<pw>@<host>:<port>/circular_connectors"
 ```
 
@@ -160,15 +173,11 @@ This executable will output 1 file.
 1. A log file located in the `hack/circular_connectors/logs` directory, which
    will show runtimes and quality metrics.
 
-### Troubleshooting
-
-If you get an `FATAL: role "<username>" does not exist.` error, or an
-`fe_sendauth no password supplied` error, you will need to make sure you have a
-PostgreSQL user set up, and that you either have a PostgreSQL password, or have
-configured postgres to accept connections without a password.
-
-See [Fonduer's FAQ](https://fonduer.readthedocs.io/en/latest/user/faqs.html#)
-for additional instructions.
+## Scaling Experiments
+We provide two scripts in the `scripts/` directory: `scaling_docs.sh` and
+`scaling_rels.sh`, which can be run to generate runtime logs used to create
+runtime figures when scaling the number of documents or number of relations.
+This scripts are easy to customize based on the machine being used.
 
 ## Analysis
 For our analysis, we create a set of entities from our generated knowledge bases
@@ -191,28 +200,28 @@ This executable will output 8 files (2 per relation):
    and our ground truth gold labels. This can be used later for manual
    discrepancy classification.
 2. `hack/opamps/analysis/current_digikey_discrepancies.csv`, a CSV file of
-   typical supply current discrepancies between Digi-Key's existing KB
-   and our ground truth gold labels. This can be used later for manual
-   discrepancy classification.
-3. `hack/opamps/analysis/gain_analysis_discrepancies.csv`, a CSV file of
-   typical gain bandwidth discrepancies between our automatically generated KB
-   and our ground truth gold labels. This can be used later for manual
-   discrepancy classification.
-4. `hack/opamps/analysis/gain_digikey_discrepancies.csv`, a CSV file of
-   typical gain bandwidth discrepancies between Digi-Key's existing KB and our
+   typical supply current discrepancies between Digi-Key's existing KB and our
    ground truth gold labels. This can be used later for manual discrepancy
    classification.
-5. `hack/transistors/analysis/ce_v_max_analysis_discrepancies.csv`, a CSV file of
-   typical collector emitter voltage max discrepancies between our automatically
-   generated KB and our ground truth gold labels. This can be used later for
-   manual discrepancy classification.
+3. `hack/opamps/analysis/gain_analysis_discrepancies.csv`, a CSV file of typical
+   gain bandwidth discrepancies between our automatically generated KB and our
+   ground truth gold labels. This can be used later for manual discrepancy
+   classification.
+4. `hack/opamps/analysis/gain_digikey_discrepancies.csv`, a CSV file of typical
+   gain bandwidth discrepancies between Digi-Key's existing KB and our ground
+   truth gold labels. This can be used later for manual discrepancy
+   classification.
+5. `hack/transistors/analysis/ce_v_max_analysis_discrepancies.csv`, a CSV file
+   of typical collector emitter voltage max discrepancies between our
+   automatically generated KB and our ground truth gold labels. This can be used
+   later for manual discrepancy classification.
 6. `hack/transistors/analysis/ce_v_max_digikey_discrepancies.csv`, a CSV file of
    typical collector emitter voltage max discrepancies between Digi-Key's
    existing KB and our ground truth gold labels. This can be used later for
    manual discrepancy classification.
-7. `hack/transistors/analysis/polarity_analysis_discrepancies.csv`, a CSV file of
-   polarity discrepancies between our automatically generated KB and our ground
-   truth gold labels. This can be used later for manual discrepancy
+7. `hack/transistors/analysis/polarity_analysis_discrepancies.csv`, a CSV file
+   of polarity discrepancies between our automatically generated KB and our
+   ground truth gold labels. This can be used later for manual discrepancy
    classification.
 8. `hack/transistors/analysis/polarity_digikey_discrepancies.csv`, a CSV file of
    polarity discrepancies between Digi-Key's existing KB and our ground truth
@@ -220,3 +229,13 @@ This executable will output 8 files (2 per relation):
 
 We include these output files from a run on the complete dataset in this
 repository.
+
+## Plotting
+
+Finally, we include `plot_opo.py` in the `scripts/` directory, which can be used
+to generate the figure of our extracted data against Digi-key's. To do so, this
+script leverages the intermediate CSV files output from the `opamps` program.
+Because we include intermediate files from a full run in this repository, this
+plot can be generated without needing to re-run end-to-end knowledge base
+construction.
+
