@@ -1,24 +1,41 @@
 # Automating the Generation of HArdware Component Knowledge Bases (HACK)
 
+## Minimum Software Requirements
+
+This software artifact and the instructions provided below assume that the
+system is running at minimum:
+
+- Ubuntu 16.04.03
+- Python 3.6
+- PostgreSQL 9.6.9
+
+While this software artifact can be made to work with earlier versions of Ubuntu
+or Python, doing so may require additional dependencies or modifications which
+are out of scope for this artifact.
+
 ## Dependencies
 
-On Debian-based distros, you'll need to ensure that the following system
-packages are installed.
+On Ubuntu, you'll need to ensure that the following system packages are
+installed.
 
 ```bash
 $ sudo apt install build-essential curl
 $ sudo apt install libxml2-dev libxslt-dev python3-dev
 $ sudo apt build-dep python-matplotlib
-$ sudo apt install poppler-utils postgresql virtualenv
+$ sudo apt install poppler-utils postgresql postgresql-contrib
+$ sudo apt install virtualenv
 ```
 
 We require `poppler-utils` to be version 0.36.0 or greater (which is already
 the case for Ubuntu 18.04). If you do not meet this requirement, you can also
 [install poppler manually](https://poppler.freedesktop.org/).
 
-For the Python dependencies, we recommend using a
-[virtualenv](https://virtualenv.pypa.io/en/stable/). Once you have cloned the
-repository, change directories to the root of the repository and run
+For the Python dependencies, use a
+[virtualenv](https://virtualenv.pypa.io/en/stable/). This greatly simplifies
+managing Python dependencies and ensures that our installation scripts work out
+of the box (e.g., a python 3 `virtualenv` will automatically alias `pip` to
+`pip3`). Once you have cloned the repository, change directories to the root of
+the repository and run:
 
 ```bash
 $ virtualenv -p python3 .venv
@@ -33,7 +50,8 @@ $ source .venv/bin/activate
 Any Python libraries installed will now be contained within this virtual
 environment. To deactivate the environment, simply run `deactivate`.
 
-Then, install our package, Fonduer, and any other Python dependencies by running:
+Then, install our package, Fonduer, and any other Python dependencies by
+running:
 
 ```bash
 $ make dev
@@ -46,7 +64,7 @@ do so, navigate to each component's directory and run the download data script.
 Note that you must navigate to the directory before running the script, since
 the script will automatically unpack into the `data` directory.
 
-For example, to download the Op-Amp dataset:
+For example, to download the Operation Amplifier dataset:
 
 ```bash
 $ cd hack/opamps/
@@ -68,9 +86,6 @@ $ psql -c "create user demo with password 'demo' superuser createdb;" -U postgre
 
 ## Running End-to-end Knowledge Base Construction
 
-After installing all the requirements, and ensuring the necessary databases
-are created, you can run each individual hardware component script.
-
 Note that in our paper, we used a server with 4x14-core CPUs, 1TB of memory, and
 NVIDIA GPUs. With this server, a run with the full datasets takes 10s of hours
 for each component. In order to support running our experiments on consumer
@@ -81,12 +96,15 @@ We provide a command-line interface for each component. For more detailed
 options, run `transistors -h`, `opamps -h`, or `circular_connectors -h` to see a
 list of all possible options.
 
+_Note: Fonduer has a known concurrency issue with high levels of parallelism.
+Please do not use a parallel value larger than 16_.
+
 ### Transistors
 
 To run extraction from 500 train documents, and evaluate the resulting score on
 the test set, you can run the following command. If you made the demo user, you
-can use `demo` as the `<user>` and `<pw>`, and the default host and port is
-`localhost:5432` for PostgreSQL.
+can use `demo` as the `<user>` and `<pw>`, and the default `<host>` and `<port>`
+is `localhost:5432` for PostgreSQL.
 
 ```bash
 $ psql -c "create database transistors with owner demo;" -U postgres
@@ -122,8 +140,8 @@ needing to run end-to-end extraction yourself.
 
 To run extraction from 500 train documents, and evaluate the resulting score on
 the test set, you can run the following command. If you made the demo user, you
-can use `demo` as the `<user>` and `<pw>`, and the default host and port is
-`localhost:5432` for PostgreSQL.
+can use `demo` as the `<user>` and `<pw>`, and the default `<host>` and `<port>`
+is `localhost:5432` for PostgreSQL.
 
 ```bash
 $ psql -c "create database opamps with owner demo;" -U postgres
@@ -160,8 +178,8 @@ repository.
 
 To run extraction from 500 train documents, and evaluate the resulting score on
 the test set, you can run the following command. If you made the demo user, you
-can use `demo` as the `<user>` and `<pw>`, and the default host and port is
-`localhost:5432` for PostgreSQL.
+can use `demo` as the `<user>` and `<pw>`, and the default `<host>` and `<port>`
+is `localhost:5432` for PostgreSQL.
 
 ```bash
 $ psql -c "create database circular_connectors with owner demo;" -U postgres
