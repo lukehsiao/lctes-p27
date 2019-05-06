@@ -50,8 +50,8 @@ $ source .venv/bin/activate
 Any Python libraries installed will now be contained within this virtual
 environment. To deactivate the environment, simply run `deactivate`.
 
-Then, install our package, Fonduer, and any other Python dependencies by
-running:
+Then, install our package, [Fonduer](https://github.com/hazyresearch/fonduer),
+and any other Python dependencies by running:
 
 ```bash
 $ make dev
@@ -96,15 +96,17 @@ We provide a command-line interface for each component. For more detailed
 options, run `transistors -h`, `opamps -h`, or `circular_connectors -h` to see a
 list of all possible options.
 
-_Note: Fonduer has a known concurrency issue with high levels of parallelism.
-Please do not use a parallel value larger than 16_.
+_Note: Using SQLAlchemy with PostgreSQL has a known concurrency issue with high
+levels of parallelism. Please do not use a parallel value larger than 16_.
 
-### Transistors
+### Transistors Dataset
 
 To run extraction from 500 train documents, and evaluate the resulting score on
 the test set, you can run the following command. If you made the demo user, you
 can use `demo` as the `<user>` and `<pw>`, and the default `<host>` and `<port>`
-is `localhost:5432` for PostgreSQL.
+is `localhost:5432` for PostgreSQL. The `--stg-temp-min`, `--stg-temp-max`,
+`--polarity`, and `--ce-v-max` arguments represent which relations to extract
+from the dataset.
 
 ```bash
 $ psql -c "create database transistors with owner demo;" -U postgres
@@ -136,7 +138,7 @@ We include these output files from a run on the complete dataset in this
 repository so that you can run analysis scripts using our results, without
 needing to run end-to-end extraction yourself.
 
-### Op Amps
+### Operational Amplifier Dataset
 
 To run extraction from 500 train documents, and evaluate the resulting score on
 the test set, you can run the following command. If you made the demo user, you
@@ -174,7 +176,7 @@ This executable will output 7 files.
 We include these output files from a run on the complete dataset in this
 repository.
 
-### Circular Connectors
+### Circular Connectors Dataset
 
 To run extraction from 500 train documents, and evaluate the resulting score on
 the test set, you can run the following command. If you made the demo user, you
@@ -257,3 +259,57 @@ Because we include intermediate files from a full run in this repository, this
 plot can be generated without needing to re-run end-to-end knowledge base
 construction.
 
+## Example: End-to-End run on Transistors
+
+As an example of how this looks end-to-end, assuming that all of the software
+dependencies have been installed, these would be the commands run to go from a
+fresh clone of the repository to running the results on the transistor dataset.
+
+```
+$ git clone https://github.com/lukehsiao/lctes-p27.git
+$ cd lctes-p27
+$ virtualenv -p python3 .venv
+$ source .venv/bin/activate
+(.venv) $ psql -c "create user demo with password 'demo' superuser createdb;" -U postgres
+(.venv) $ psql -c "create database transistors with owner demo;" -U postgres
+(.venv) $ make dev
+(.venv) $ cd hack/transistors
+(.venv) $ ./download_data.sh
+(.venv) $ transistors --stg-temp-min --stg-temp-max --polarity --ce-v-max --parse --first-time --max-docs 500 --parallel 4 --conn-string="postgresql://demo:demo@localhost:5432/transistors"
+```
+
+This will produce a log output resembling:
+
+```
+[2019-05-01 08:10:17,322][WARNING] hack.transistors.transistors:212 - Parse Time (min): 7.3
+[2019-05-01 08:17:45,978][WARNING] hack.transistors.transistors:334 - Candidate Extraction Time (min): 7.5
+[2019-05-01 08:26:41,775][WARNING] hack.transistors.transistors:389 - Featurization Time (min): 8.7
+[2019-05-01 08:56:54,200][WARNING] hack.transistors.transistors:457 - Supervision Time (min): 30.2
+[2019-05-01 08:57:27,007][WARNING] hack.transistors.transistors:134 - ===================================================
+[2019-05-01 08:57:27,007][WARNING] hack.transistors.transistors:135 - Entity-Level Gold Data score for stg_temp_min, b=0.808
+[2019-05-01 08:57:27,007][WARNING] hack.transistors.transistors:136 - ===================================================
+[2019-05-01 08:57:27,007][WARNING] hack.transistors.transistors:137 - Corpus Precision 1.000
+[2019-05-01 08:57:27,007][WARNING] hack.transistors.transistors:138 - Corpus Recall    0.530
+[2019-05-01 08:57:27,008][WARNING] hack.transistors.transistors:139 - Corpus F1        0.693
+[2019-05-01 08:57:27,008][WARNING] hack.transistors.transistors:140 - ---------------------------------------------------
+[2019-05-01 08:57:27,008][WARNING] hack.transistors.transistors:142 - TP: 53 | FP: 0 | FN: 47
+[2019-05-01 08:57:27,008][WARNING] hack.transistors.transistors:146 - ===================================================
+...
+```
+
+Syntax warnings/errors during the parsing phase are expected, and will not crash
+the program. The `-v` verbosity flag can be included to get additional output.
+
+## Reference
+
+```
+@inproceedings{hsiao2019hack,
+  title={Automating the Generation of Hardware Component Knowledge Bases},
+  author={Luke Hsiao and Sen Wu and Nicholas Chiang and Christopher Ré and Philip Levis},
+  booktitle={Proceedings of the 20th ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '19)}
+  year={2019},
+  month={June},
+  day={23},
+  organization={ACM}
+}
+```
